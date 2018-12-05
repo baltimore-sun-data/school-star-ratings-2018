@@ -1,0 +1,1320 @@
+lea_number,lea_name,school_number,school_name,nces_number,number_academic_year,star_rating,total_earned_points_percent,percentile_rank_elementary,percentile_rank_middle,percentile_rank_high,address,city,lat,lon
+01,Allegany,0301,Flintstone Elementary,240003000014,2018,4,64,52,NA,NA,22000 National Pike Ne,Flintstone,39.701416,-78.564443
+01,Allegany,0401,South Penn Elementary,240003001359,2018,4,65,52,NA,NA,500 E 2nd St,Cumberland,39.635866,-78.756556
+01,Allegany,0402,John Humbird Elementary,240003000019,2018,4,69,67,NA,NA,120 Mary St,Cumberland,39.625577,-78.765612
+01,Allegany,0405,Fort Hill High,240003000015,2018,3,59,NA,NA,45,500 Greenway Ave,Cumberland,39.644341,-78.74767
+01,Allegany,0406,Washington Middle,240003000031,2018,3,56,NA,49,NA,200 Massachusetts Ave,Cumberland,39.63866,-78.745863
+01,Allegany,0502,Northeast Elementary,240003000024,2018,5,79,91,NA,NA,11001 Forest Ave Ne,Cumberland,39.678636,-78.758716
+01,Allegany,0504,Braddock Middle,240003000006,2018,3,58,NA,55,NA,909 Holland St,Cumberland,39.66612,-78.770776
+01,Allegany,0601,Center for Career & Technical Education,240003000030,2018,4,60,NA,NA,48,14211 Mcmullen Hwy Sw,Cresaptown,39.600796,-78.824934
+01,Allegany,0603,West Side Elementary,240003000032,2018,5,78,88,NA,NA,425 Paca St,Cumberland,39.649844,-78.772791
+01,Allegany,0606,Allegany High,240003000001,2018,4,64,NA,NA,57,616 Sedgwick St,Cumberland,39.656051,-78.775101
+01,Allegany,0701,Cresaptown Elementary,240003000010,2018,5,79,90,NA,NA,13202 6th Ave,Cresaptown,39.58977,-78.831406
+01,Allegany,0702,Bel Air Elementary,240003000005,2018,4,65,54,NA,NA,14401 Barton Blvd,Cumberland,39.578833,-78.853704
+01,Allegany,0801,Westernport Elementary,240003000033,2018,4,72,76,NA,NA,172 Church St,Westernport,39.481936,-79.042052
+01,Allegany,0802,Westmar Middle,240003000007,2018,4,65,NA,70,NA,16915 Lower George's Creek Rd Sw,Lonaconing,39.561208,-78.987993
+01,Allegany,1001,George's Creek Elementary,240003000017,2018,4,70,68,NA,NA,15600 Lower Georges Creek Rd Sw,Lonaconing,39.578241,-78.963827
+01,Allegany,1101,Frost Elementary,240003000016,2018,5,88,99,NA,NA,260 Shaw St,Frostburg,39.671369,-78.930391
+01,Allegany,1301,Mount Savage Middle,240003000023,2018,3,59,NA,56,NA,13201 New School Rd  Nw,Mount Savage,39.701102,-78.88
+01,Allegany,1302,Mt. Savage Elementary,240003001546,2018,4,68,63,NA,NA,13201 New School Rd Nw,Mt Savage,39.701105,-78.87998
+01,Allegany,2404,Mountain Ridge High School,240003001636,2018,4,60,NA,NA,46,100 Dr. Nancy S. Grasmick,Frostburg,39.650263,-78.913692
+01,Allegany,2801,Beall Elementary,240003000003,2018,5,79,91,NA,NA,3 E College Ave,Frostburg,39.654334,-78.931809
+01,Allegany,2901,Cash Valley Elementary,240003001338,2018,5,84,97,NA,NA,10601 Cash Valley Rd Nw,Lavale,39.669108,-78.814245
+01,Allegany,2902,Parkside Elementary,240003000026,2018,5,79,91,NA,NA,50 Parkside Blvd,Lavale,39.644184,-78.828488
+02,Anne Arundel,1023,Brooklyn Park Middle,240006000050,2018,3,54,NA,40,NA,200 Hammonds Ln,Baltimore,39.216384,-76.619781
+02,Anne Arundel,1033,Glen Burnie High,240006000075,2018,3,51,NA,NA,33,7550 Baltimore Annapolis Blvd,Glen Burnie,39.159392,-76.617001
+02,Anne Arundel,1043,Corkran Middle School,240006000059,2018,3,54,NA,42,NA,7600 Quarterfield Rd,Glen Burnie,39.154879,-76.633259
+02,Anne Arundel,1053,Lindale Middle,240006000087,2018,3,52,NA,35,NA,415 Andover Rd,Linthicum,39.195835,-76.662008
+02,Anne Arundel,1063,Marley Middle,240006000095,2018,4,60,NA,59,NA,10 Davis Ct,Glen Burnie,39.150339,-76.595614
+02,Anne Arundel,1082,Belle Grove Elementary,240006000043,2018,2,39,6,NA,NA,4502 Belle Grove Road,Baltimore,39.2295,-76.621431
+02,Anne Arundel,1092,Brooklyn Park Elementary,240006000049,2018,2,37,5,NA,NA,200 14th Ave,Baltimore,39.222024,-76.617396
+02,Anne Arundel,1112,George T. Cromwell Elementary,240006000071,2018,2,38,6,NA,NA,525 Wellham Ave,Glen Burnie,39.184744,-76.629687
+02,Anne Arundel,1122,Freetown Elementary,240006001515,2018,2,34,4,NA,NA,7904 Freetown Rd,Glen Burnie,39.136866,-76.580162
+02,Anne Arundel,1132,Glendale Elementary,240006000077,2018,2,44,12,NA,NA,105 Carroll Rd,Glen Burnie,39.160987,-76.609865
+02,Anne Arundel,1142,Hilltop Elementary,240006000081,2018,2,39,6,NA,NA,415 Melrose Ave,Glen Burnie,39.190265,-76.63516
+02,Anne Arundel,1152,Linthicum Elementary,240006000088,2018,3,56,28,NA,NA,101 School Ln,Linthicum,39.202308,-76.65267
+02,Anne Arundel,1162,Marley Elementary,240006000093,2018,3,45,13,NA,NA,715 Cooper Rd,Glen Burnie,39.144696,-76.597258
+02,Anne Arundel,1172,North Glen Elementary,240006000102,2018,3,46,15,NA,NA,615 West Furnace Branch Rd,Glen Burnie,39.193346,-76.624469
+02,Anne Arundel,1182,Oakwood Elementary,240006000105,2018,3,49,16,NA,NA,330 Oak Manor Dr,Glen Burnie,39.14426,-76.627981
+02,Anne Arundel,1192,Overlook Elementary,240006000110,2018,3,48,16,NA,NA,401 Hampton Rd,Linthicum,39.213315,-76.651395
+02,Anne Arundel,1202,Park Elementary,240006000111,2018,2,38,5,NA,NA,201 East 11th Ave,Baltimore,39.222667,-76.610331
+02,Anne Arundel,1212,Point Pleasant Elementary,240006000116,2018,2,43,10,NA,NA,1035 Dumbarton Rd,Glen Burnie,39.173147,-76.592569
+02,Anne Arundel,1232,Quarterfield Elementary,240006000117,2018,3,46,14,NA,NA,7967 Quarterfield Rd,Severn,39.134253,-76.654608
+02,Anne Arundel,1242,Richard Henry Lee Elementary,240006000118,2018,3,46,14,NA,NA,400 A St,Glen Burnie,39.160272,-76.630221
+02,Anne Arundel,1262,Woodside Elementary,240006000142,2018,2,43,11,NA,NA,160 Funke Rd,Glen Burnie,39.140782,-76.614736
+02,Anne Arundel,1323,North County High,240006090441,2018,3,53,NA,NA,35,10 East 1st Avenue,Glen Burnie,39.193116,-76.637349
+02,Anne Arundel,2013,Severna Park High,240006000127,2018,5,79,NA,NA,88,60 Robinson Rd,Severna Park,39.076619,-76.558282
+02,Anne Arundel,2023,Northeast High,240006000103,2018,4,61,NA,NA,50,1121 Duvall Hwy,Pasadena,39.144402,-76.529089
+02,Anne Arundel,2033,George Fox Middle,240006000072,2018,3,55,NA,45,NA,7922 Outing Ave,Pasadena,39.132251,-76.548984
+02,Anne Arundel,2043,Severna Park Middle,240006000126,2018,5,80,NA,95,NA,450 Jumpers Hole Rd,Severna Park,39.087344,-76.585923
+02,Anne Arundel,2052,Arnold Elementary,240006000038,2018,3,53,23,NA,NA,90 Church Rd,Arnold,39.034956,-76.503318
+02,Anne Arundel,2062,Belvedere Elementary,240006000044,2018,3,53,23,NA,NA,360 Broadwater Rd,Arnold,39.058845,-76.502482
+02,Anne Arundel,2072,Benfield Elementary,240006000045,2018,4,66,56,NA,NA,365 Lynwood Dr,Severna Park,39.085292,-76.589116
+02,Anne Arundel,2082,Bodkin Elementary,240006000046,2018,3,54,24,NA,NA,8320 Ventnor Rd,Pasadena,39.111814,-76.455455
+02,Anne Arundel,2092,Cape St. Claire Elementary,240006000051,2018,3,52,21,NA,NA,931 Blue Ridge Dr,Annapolis,39.038837,-76.444958
+02,Anne Arundel,2102,Folger Mckinsey Elementary,240006000067,2018,4,62,44,NA,NA,175 Arundel Beach Road,Severna Park,39.08303,-76.538181
+02,Anne Arundel,2112,Fort Smallwood Elementary,240006000068,2018,3,51,20,NA,NA,1720 Poplar Ridge Rd,Pasadena,39.133603,-76.476805
+02,Anne Arundel,2132,High Point Elementary,240006000079,2018,2,43,11,NA,NA,924 Duvall Hwy,Pasadena,39.143977,-76.540174
+02,Anne Arundel,2142,Jacobsville Elementary,240006000082,2018,2,44,11,NA,NA,3801 Mountain Rd,Pasadena,39.12224,-76.524695
+02,Anne Arundel,2152,Jones Elementary,240006000084,2018,4,66,58,NA,NA,122 Hoyle Ln,Severna Park,39.058006,-76.535933
+02,Anne Arundel,2162,Lake Shore Elementary,240006000085,2018,3,45,13,NA,NA,4531 Mountain Rd,Pasadena,39.106388,-76.493466
+02,Anne Arundel,2172,Oak Hill Elementary,240006000104,2018,3,51,20,NA,NA,34 Truckhouse Rd,Severna Park,39.083783,-76.569829
+02,Anne Arundel,2182,Pasadena Elementary,240006000113,2018,4,63,47,NA,NA,401 East Pasadena Rd,Pasadena,39.109184,-76.567723
+02,Anne Arundel,2192,Riviera Beach Elementary,240006000121,2018,3,53,23,NA,NA,8515 Jenkins Rd,Pasadena,39.159544,-76.511758
+02,Anne Arundel,2202,Severna Park Elementary,240006000125,2018,3,58,31,NA,NA,6 Riggs Ave,Severna Park,39.072357,-76.548445
+02,Anne Arundel,2212,Solley Elementary,240006000129,2018,3,46,13,NA,NA,7608 Solley Rd,Glen Burnie,39.174598,-76.554674
+02,Anne Arundel,2222,Sunset Elementary,240006000134,2018,3,47,15,NA,NA,8572 Fort Smallwood Rd,Pasadena,39.154262,-76.523004
+02,Anne Arundel,2233,Anne Arundel Evening High,240006000899,2018,1,23,NA,NA,0,60 Robinson Road,Severna Park,39.076619,-76.558282
+02,Anne Arundel,2243,Magothy River Middle,240006000091,2018,5,76,NA,92,NA,241 Peninsula Farm Rd,Arnold,39.05914,-76.513594
+02,Anne Arundel,2273,Chesapeake High,240006000058,2018,4,71,NA,NA,72,4798 Mountain Rd,Pasadena,39.110729,-76.462258
+02,Anne Arundel,2322,Broadneck Elementary,240006000047,2018,3,55,27,NA,NA,470 Shore Acres Rd,Arnold,39.048411,-76.483812
+02,Anne Arundel,2363,Broadneck High,240006001402,2018,4,72,NA,NA,75,1265 Green Holly Dr,Annapolis,39.039757,-76.453646
+02,Anne Arundel,2372,Windsor Farm Elementary,240006001516,2018,4,60,37,NA,NA,591 Broadneck Rd,Annapolis,39.032843,-76.460071
+02,Anne Arundel,2413,Severn River Middle,240006000124,2018,4,70,NA,82,NA,241 Peninsula Farm Rd,Arnold,39.059232,-76.513636
+02,Anne Arundel,2423,Chesapeake Bay Middle,240006000042,2018,4,64,NA,68,NA,4804 Mountain Rd,Pasadena,39.112417,-76.458282
+02,Anne Arundel,2432,Shipley's Choice Elementary,240006001421,2018,4,65,54,NA,NA,310 Governor Stone Pky,Millersville,39.101875,-76.610964
+02,Anne Arundel,3013,Arundel High,240006000040,2018,4,67,NA,NA,65,1001 Annapolis Rd,Gambrills,39.071243,-76.681988
+02,Anne Arundel,3023,Arundel Middle,240006000039,2018,4,68,NA,77,NA,1179 Hammond Ln,Odenton,39.071669,-76.686142
+02,Anne Arundel,3033,MacArthur Middle,240006000090,2018,3,50,NA,31,NA,3500 Rockenbach Road,Fort Meade,39.117205,-76.746555
+02,Anne Arundel,3062,Brock Bridge Elementary,240006000048,2018,3,45,12,NA,NA,405 Brock Bridge Rd,Laurel,39.088318,-76.821271
+02,Anne Arundel,3072,Crofton Elementary,240006000060,2018,4,62,43,NA,NA,1405 Duke Of Kent Dr,Crofton,39.0135,-76.688613
+02,Anne Arundel,3082,Crofton Woods Elementary,240006000061,2018,4,60,39,NA,NA,1750 Urby Dr,Crofton,38.997854,-76.693801
+02,Anne Arundel,3092,Seven Oaks Elementary,240006001645,2018,3,53,23,NA,NA,1905 Town Center Blvd.,Odenton,39.10433,-76.7073
+02,Anne Arundel,3102,Hebron - Harman Elementary,240006000078,2018,3,45,13,NA,NA,7660 Ridge Chapel Road,Hanover,39.146587,-76.716696
+02,Anne Arundel,3112,Jessup Elementary,240006000083,2018,3,47,16,NA,NA,2900 Elementary School Ln,Jessup,39.145348,-76.767737
+02,Anne Arundel,3122,Manor View Elementary,240006000092,2018,3,51,20,NA,NA,2900 Macarthur Rd,Ft Meade,39.111925,-76.740923
+02,Anne Arundel,3132,Maryland City Elementary,240006000096,2018,2,40,7,NA,NA,3359 Crumpton South,Laurel,39.096016,-76.81756
+02,Anne Arundel,3142,Meade Heights Elementary,240006000098,2018,2,42,9,NA,NA,1925 Reece Road,Ft. Meade,39.116177,-76.720484
+02,Anne Arundel,3152,Van Bokkelen Elementary,240006000137,2018,2,37,4,NA,NA,1140 Reece Rd,Severn,39.122506,-76.708181
+02,Anne Arundel,3162,Millersville Elementary,240006000100,2018,3,45,12,NA,NA,1601 Millersville Rd,Millersville,39.055309,-76.63956
+02,Anne Arundel,3172,Odenton Elementary,240006000106,2018,2,39,7,NA,NA,1290 Odenton Rd,Odenton,39.083363,-76.697181
+02,Anne Arundel,3182,Pershing Hill Elementary,240006000114,2018,3,54,25,NA,NA,7600 29th Division Road,Ft Meade,39.115634,-76.754095
+02,Anne Arundel,3192,Ridgeway Elementary,240006000119,2018,3,53,24,NA,NA,1440 Evergreen Rd,Severn,39.116215,-76.689424
+02,Anne Arundel,3202,Severn Elementary,240006000123,2018,3,46,14,NA,NA,838 Reece Rd,Severn,39.137916,-76.690064
+02,Anne Arundel,3212,South Shore Elementary,240006000130,2018,3,50,19,NA,NA,1376 Fairfield Loop Rd,Crownsville,39.034588,-76.605524
+02,Anne Arundel,3222,Waugh Chapel Elementary,240006000138,2018,3,58,32,NA,NA,840 Sunflower Dr,Odenton,39.065247,-76.696257
+02,Anne Arundel,3242,Piney Orchard Elementary,240006002944,2018,3,55,26,NA,NA,2641 Strawberry Lake Way,Odenton,39.060857,-76.71929
+02,Anne Arundel,3263,Crofton Middle,240006001403,2018,4,72,NA,86,NA,2301 Davidsonville Rd,Gambrills,38.997102,-76.670272
+02,Anne Arundel,3272,Four Seasons Elementary,240006000069,2018,3,53,23,NA,NA,979 Waugh Chapel Rd,Gambrills,39.053295,-76.694405
+02,Anne Arundel,3282,Nantucket Elementary,240006001658,2018,3,48,16,NA,NA,2350 Nantucket Dr,Crofton,39.032188,-76.67533
+02,Anne Arundel,3323,Meade High,240006000099,2018,3,57,NA,NA,40,1100 Clark Road,Ft Meade,39.122447,-76.737827
+02,Anne Arundel,3333,Old Mill Middle North,240006000107,2018,3,55,NA,44,NA,610 Patriot Ln,Millersville,39.123128,-76.627627
+02,Anne Arundel,3343,Old Mill Middle South,240006000108,2018,4,62,NA,63,NA,620 Patriot Ln,Millersville,39.123154,-76.627676
+02,Anne Arundel,3353,Old Mill High,240006000109,2018,4,61,NA,NA,50,600 Patriot Ln,Millersville,39.123149,-76.627674
+02,Anne Arundel,3362,Crofton Meadows Elementary,240006001517,2018,3,51,19,NA,NA,2020 Tilghman Dr,Crofton,39.01636,-76.66998
+02,Anne Arundel,3372,Glen Burnie Park Elementary,240006000076,2018,2,42,9,NA,NA,500 Marlboro Rd,Glen Burnie,39.140156,-76.636103
+02,Anne Arundel,3382,Southgate Elementary,240006000133,2018,2,44,12,NA,NA,290 Shetlands Ln,Glen Burnie,39.128709,-76.614253
+02,Anne Arundel,3392,Rippling Woods Elementary,240006000120,2018,2,38,6,NA,NA,530 Nolfield Dr,Glen Burnie,39.128528,-76.628476
+02,Anne Arundel,3423,Meade Middle,240006000823,2018,3,53,NA,37,NA,1103 26th St,Fort Meade,39.124994,-76.736827
+02,Anne Arundel,4013,Annapolis High,240006000037,2018,3,53,NA,NA,37,2700 Riva Rd,Annapolis,38.97449,-76.565609
+02,Anne Arundel,4023,Southern High,240006000132,2018,4,68,NA,NA,68,4400 Solomons Island Rd,Harwood,38.86858,-76.619183
+02,Anne Arundel,4033,Annapolis Middle,240006000036,2018,3,50,NA,31,NA,1399 Forest Dr,Annapolis,38.958048,-76.511464
+02,Anne Arundel,4043,Wiley H. Bates Middle,240006000041,2018,3,59,NA,57,NA,701 Chase Street,Annapolis,38.972273,-76.505652
+02,Anne Arundel,4053,Southern Middle,240006000131,2018,4,62,NA,64,NA,5235 Solomons Island Rd,Lothian,38.823337,-76.609639
+02,Anne Arundel,4074,Phoenix Academy,240006001714,2018,1,28,0,5,9,1411 Cedar Park Road,Annapolis,38.983187,-76.513845
+02,Anne Arundel,4092,Annapolis Elementary,240006000035,2018,2,38,5,NA,NA,180 Green Street,Annapolis,38.976716,-76.487931
+02,Anne Arundel,4112,Central Elementary,240006000053,2018,3,52,22,NA,NA,130 Stepney Ln,Edgewater,38.924244,-76.56445
+02,Anne Arundel,4122,Davidsonville Elementary,240006000062,2018,3,55,26,NA,NA,962 Central Ave West,Davidsonville,38.918954,-76.638284
+02,Anne Arundel,4132,Deale Elementary,240006000063,2018,3,51,20,NA,NA,759 Masons Beach Rd,Deale,38.778645,-76.551778
+02,Anne Arundel,4142,Eastport Elementary,240006000064,2018,2,36,4,NA,NA,420 5th Avenue,Annapolis,38.970048,-76.483231
+02,Anne Arundel,4152,Edgewater Elementary,240006000065,2018,3,56,27,NA,NA,121 Washington Rd,Edgewater,38.937859,-76.557504
+02,Anne Arundel,4162,Georgetown East Elementary,240006000073,2018,2,42,9,NA,NA,111 Dogwood Rd,Annapolis,38.953422,-76.488703
+02,Anne Arundel,4182,Germantown Elementary,240006000074,2018,2,44,12,NA,NA,200 Windell Avenue,Annapolis,38.98125,-76.51636
+02,Anne Arundel,4192,Hillsmere Elementary,240006000080,2018,3,50,18,NA,NA,3052 Arundel On The Bay Rd,Annapolis,38.94113,-76.487125
+02,Anne Arundel,4202,Lothian Elementary,240006000089,2018,3,49,17,NA,NA,5175 Solomons Island Rd,Lothian,38.826707999999996,-76.612695
+02,Anne Arundel,4212,Mayo Elementary,240006000097,2018,3,52,21,NA,NA,1260 Mayo Ridge Rd,Edgewater,38.896285,-76.51112
+02,Anne Arundel,4222,Walter S. Mills - Parole Elementary,240006000112,2018,2,40,7,NA,NA,1 George and Marion Phelps lane,Annapolis,38.978322,-76.526446000000007
+02,Anne Arundel,4232,Rolling Knolls Elementary,240006000122,2018,4,60,36,NA,NA,1985 Valley Rd,Annapolis,38.998291,-76.557979
+02,Anne Arundel,4242,Shady Side Elementary,240006000128,2018,2,40,8,NA,NA,4859 Atwell Rd,Shady Side,38.840901,-76.505923
+02,Anne Arundel,4252,Traceys Elementary,240006000135,2018,3,45,13,NA,NA,20 Deale Rd,Traceys Landing,38.780774,-76.593314
+02,Anne Arundel,4262,Tyler Heights Elementary,240006000136,2018,2,40,8,NA,NA,200 Janwal St,Annapolis,38.955938,-76.499497
+02,Anne Arundel,4272,West Annapolis Elementary,240006000139,2018,4,65,53,NA,NA,505 Melvin Avenue,Annapolis,38.991489,-76.503554
+02,Anne Arundel,4283,Central Middle,240006000054,2018,5,78,NA,95,NA,221 Central Ave E,Edgewater,38.919428,-76.557341
+02,Anne Arundel,4293,South River High,240006000055,2018,4,72,NA,NA,74,201 Central Ave  E,Edgewater,38.922015,-76.559954
+02,Anne Arundel,6113,Monarch Global Academy PCS Laurel Campus,240006001724,2018,3,55,15,70,NA,430 Brock Bridge Road,Laurel,39.085699,-76.824378
+02,Anne Arundel,6123,Monarch Academy Annapolis ES,NA,2018,2,31,2,NA,NA,NA,NA,NA,NA
+02,Anne Arundel,6223,Chesapeake Science Point,240006001401,2018,5,82,NA,97,93,7321 Parkway Drive South,Hanover,39.167998,-76.734678
+02,Anne Arundel,6233,Monarch Academy,240006001687,2018,3,52,10,62,NA,6730 Baymeadow Drive,Glen Burnie,39.18764,-76.595991
+03,Baltimore County,0054,Extended Day Learning Program,240012000917,2018,1,11,NA,NA,0,105 W. Chesapeake Avenue,Towson,39.39939,-76.606131
+03,Baltimore County,0075,Crossroads Center,240012001649,2018,1,26,NA,3,NA,11640 Crossroads Circle,Baltimore,39.354567,-76.407568
+03,Baltimore County,0101,Catonsville Elementary,240012000353,2018,4,69,66,NA,NA,615 Frederick Rd,Catonsville,39.27161,-76.73054
+03,Baltimore County,0102,Westchester Elementary,240012000936,2018,5,80,93,NA,NA,2300 Old Frederick Rd,Baltimore,39.2726,-76.77023
+03,Baltimore County,0103,Westowne Elementary,240012000495,2018,4,62,42,NA,NA,401 Harlem Ln,Catonsville,39.286187,-76.725857
+03,Baltimore County,0104,Edmondson Heights Elementary,240012000382,2018,4,63,46,NA,NA,1600 Langford Rd,Baltimore,39.298861,-76.719271
+03,Baltimore County,0105,Johnnycake Elementary,240012000410,2018,3,56,28,NA,NA,5910 Craigmont Rd,Baltimore,39.292471,-76.735638
+03,Baltimore County,0112,Dogwood Elementary,240012002945,2018,3,59,35,NA,NA,7215 Dogwood Rd,Baltimore,39.320116,-76.763225
+03,Baltimore County,0113,Chadwick Elementary,240012000357,2018,4,70,68,NA,NA,1918 Winder Rd,Baltimore,39.313599,-76.764791
+03,Baltimore County,0115,Hillcrest Elementary,240012000406,2018,4,74,82,NA,NA,1500 Frederick Rd,Baltimore,39.269534,-76.746752
+03,Baltimore County,0116,Woodbridge Elementary,240012000499,2018,4,67,61,NA,NA,1410 Pleasant Valley Dr,Baltimore,39.294867000000004,-76.758426
+03,Baltimore County,0151,Catonsville Middle,240012000354,2018,4,61,NA,60,NA,2301 Edmondson Ave,Catonsville,39.275989,-76.771505
+03,Baltimore County,0155,Southwest Academy,240012000411,2018,2,42,NA,17,NA,6200 Johnnycake Rd,Baltimore,39.299696,-76.736358
+03,Baltimore County,0172,Woodlawn High Center for Pre-Eng. Res.,240012000502,2018,2,42,NA,NA,18,1801 Woodlawn Dr,Baltimore,39.315184,-76.734817
+03,Baltimore County,0174,Catonsville High,240012000355,2018,4,69,NA,NA,69,421 Bloomsbury Ave,Baltimore,39.25959,-76.731344000000007
+03,Baltimore County,0175,Western School of Technology & Env. Science,240012000248,2018,5,86,NA,NA,97,100 Kenwood Ave,Baltimore,39.269703,-76.713125
+03,Baltimore County,0202,Randallstown Elementary,240012000457,2018,4,65,54,NA,NA,9013 Liberty Rd,Randallstown,39.367241,-76.796378
+03,Baltimore County,0204,Featherbed Lane Elementary,240012000385,2018,3,57,29,NA,NA,6700 Richardson Rd,Baltimore,39.322354,-76.738266
+03,Baltimore County,0205,Woodmoor Elementary,240012000503,2018,3,58,31,NA,NA,3200 Elba Dr,Baltimore,39.337405,-76.740958
+03,Baltimore County,0206,Scotts Branch Elementary,240012000471,2018,3,59,35,NA,NA,8220 Tawnmoore Rd,Baltimore,39.358433,-76.763588
+03,Baltimore County,0207,Church Lane Elementary Technology,240012000364,2018,4,62,42,NA,NA,3820 Fernside Rd,Randallstown,39.368923,-76.779598
+03,Baltimore County,0209,Hebbville Elementary,240012000402,2018,4,63,46,NA,NA,3335 Washington Ave,Baltimore,39.345174,-76.752627
+03,Baltimore County,0210,Powhatan Elementary,240012000455,2018,4,60,37,NA,NA,3300 Kelox Rd,Baltimore,39.334621,-76.720229
+03,Baltimore County,0211,Winfield Elementary,240012000498,2018,3,57,29,NA,NA,8300 Carlson Ln,Baltimore,39.353993,-76.779272
+03,Baltimore County,0213,Winand Elementary,240012000497,2018,4,60,37,NA,NA,8301 Scotts Level Rd,Baltimore,39.372836,-76.762678
+03,Baltimore County,0214,Hernwood Elementary,240012000405,2018,3,50,18,NA,NA,9919 Marriottsville Rd,Randallstown,39.3744,-76.83097
+03,Baltimore County,0216,Deer Park Elementary,240012000371,2018,4,63,48,NA,NA,9809 Lyons Mill Rd,Owings Mills,39.389389,-76.817837
+03,Baltimore County,0217,New Town Elementary,240012001159,2018,4,69,64,NA,NA,4924 New Town Blvd,Owings Mills,39.403971,-76.814825
+03,Baltimore County,0252,Northwest Academy of Health Sciences,240012001431,2018,2,44,NA,21,NA,4627 Old Court Rd,Baltimore,39.365343,-76.75685
+03,Baltimore County,0253,Woodlawn Middle,240012000501,2018,3,47,NA,25,NA,3033 Saint Lukes Ln,Baltimore,39.334231,-76.735791
+03,Baltimore County,0254,Deer Park Middle Magnet School,240012000372,2018,3,48,NA,27,NA,9830 Winands Rd,Randallstown,39.387904,-76.81968
+03,Baltimore County,0256,Windsor Mill Middle,240012001574,2018,3,52,NA,36,NA,8300 Windsor Mill Rd,Baltimore,39.352844,-76.786468
+03,Baltimore County,0271,Milford Mill Academy,240012000432,2018,3,52,NA,NA,34,3800 Washington Ave,Baltimore,39.356486,-76.750057
+03,Baltimore County,0272,Randallstown High,240012000458,2018,3,47,NA,NA,27,4000 Offutt Rd,Randallstown,39.382646,-76.796875
+03,Baltimore County,0303,Bedford Elementary,240012000348,2018,4,70,69,NA,NA,7407 Dorman Dr,Baltimore,39.360447,-76.730502
+03,Baltimore County,0304,Wellwood International Elementary,240012000492,2018,4,66,56,NA,NA,2901 Smith Ave,Pikesville,39.375115,-76.694565
+03,Baltimore County,0307,Milbrook Elementary,240012000431,2018,3,58,33,NA,NA,4300 Crest Heights Rd,Baltimore,39.360374,-76.712825
+03,Baltimore County,0308,Fort Garrison Elementary,240012000387,2018,5,81,93,NA,NA,3310 Woodvalley Dr,Baltimore,39.400612,-76.703356
+03,Baltimore County,0310,Summit Park Elementary,240012000481,2018,5,76,85,NA,NA,6920 Diana Rd,Baltimore,39.381419,-76.679439
+03,Baltimore County,0311,Woodholme Elementary,240012001405,2018,4,62,44,NA,NA,300 Mt Wilson Ln,Baltimore,39.389303,-76.749126
+03,Baltimore County,0352,Pikesville Middle,240012000448,2018,3,54,NA,41,NA,7701 Seven Mile Ln,Baltimore,39.377701,-76.706786
+03,Baltimore County,0353,Sudbrook Magnet Middle,240012000441,2018,4,62,NA,63,NA,4300 Bedford Rd,Baltimore,39.358912,-76.725973
+03,Baltimore County,0371,Pikesville High,240012000449,2018,4,67,NA,NA,66,7621 Labyrinth Rd,Baltimore,39.37736,-76.698726
+03,Baltimore County,0402,Owings Mills Elementary,240012000439,2018,4,62,44,NA,NA,10824 Reistertown Road,Owings Mills,39.426719,-76.790486
+03,Baltimore County,0403,Franklin Elementary,240012000388,2018,5,85,98,NA,NA,33 Cockeysmill Rd,Reisterstown,39.463111,-76.832898
+03,Baltimore County,0404,Chatsworth School,240012000361,2018,4,68,63,NA,NA,222 New Ave,Reisterstown,39.463603,-76.826639
+03,Baltimore County,0405,Timber Grove Elementary,240012000484,2018,3,57,30,NA,NA,701 Academy Ave,Owings Mills,39.444181,-76.792821
+03,Baltimore County,0406,Reisterstown Elementary,240012000460,2018,3,54,25,NA,NA,223 Walgrove Rd,Reisterstown,39.455139,-76.816048
+03,Baltimore County,0407,Glyndon Elementary,240012001346,2018,3,54,24,NA,NA,445 Glyndon Dr,Reisterstown,39.467229,-76.810732
+03,Baltimore County,0408,Cedarmere Elementary,240012000356,2018,4,62,44,NA,NA,17 Nicodemus Rd,Reisterstown,39.439243,-76.808691
+03,Baltimore County,0410,Lyons Mill Elementary,240012001730,2018,4,71,73,NA,NA,9435 Lyons Mill Rd,Owings Mills,39.39268,-76.803571
+03,Baltimore County,0451,Franklin Middle,240012000389,2018,2,38,NA,10,NA,10 Cockeysmill Rd,Reisterstown,39.465005,-76.830708
+03,Baltimore County,0452,Owings Mills High,240012001347,2018,2,44,NA,NA,21,124 Tollgate Rd,Owings Mills,39.423327,-76.79495
+03,Baltimore County,0472,Franklin High,240012000390,2018,4,61,NA,NA,49,12000 Reisterstown Rd,Reisterstown,39.448231,-76.817413
+03,Baltimore County,0473,New Town High,240012001547,2018,3,56,NA,NA,40,4931 New Town Blvd,Owings Mills,39.403226,-76.812423
+03,Baltimore County,0501,Fifth District Elementary,240012000386,2018,5,82,95,NA,NA,3725 Mount Carmel Rd,Upperco,39.600984,-76.777293
+03,Baltimore County,0601,Prettyboy Elementary,240012000456,2018,5,77,88,NA,NA,19810 Middletown Rd,Freeland,39.666976,-76.712583
+03,Baltimore County,0701,Seventh District Elementary,240012000473,2018,5,85,97,NA,NA,20300 York Rd,Parkton,39.681178,-76.646782
+03,Baltimore County,0772,Hereford High,240012001432,2018,5,77,NA,NA,86,17301 York Rd,Parkton,39.599545,-76.659439
+03,Baltimore County,0801,Sparks Elementary,240012000476,2018,5,90,99,NA,NA,601 Belfast Rd,Sparks,39.54181,-76.662197
+03,Baltimore County,0803,Lutherville Laboratory,240012000350,2018,5,83,96,NA,NA,1700 North York Rd,Lutherville,39.427077,-76.621103
+03,Baltimore County,0805,Timonium Elementary,240012001433,2018,5,82,94,NA,NA,2001 Eastridge Rd,Timonium,39.438529,-76.612191
+03,Baltimore County,0808,Pot Spring Elementary,240012000454,2018,4,67,59,NA,NA,2410 Spring Lake Dr,Timonium,39.454741,-76.614645
+03,Baltimore County,0809,Riderwood Elementary,240012000462,2018,5,83,96,NA,NA,1711 Landrake Rd,Towson,39.413928,-76.649396
+03,Baltimore County,0810,Padonia International Elementary,240012090440,2018,4,69,66,NA,NA,9834 Greenside Dr,Cockeysville,39.461543,-76.631653
+03,Baltimore County,0811,Pinewood Elementary,240012000452,2018,5,88,99,NA,NA,200 Rickswood Rd,Timonium,39.444326,-76.638491
+03,Baltimore County,0813,Warren Elementary,240012000491,2018,4,66,58,NA,NA,900 Bosley Rd,Cockeysville,39.473992,-76.607748
+03,Baltimore County,0814,Mays Chapel Elementary,240012001722,2018,5,77,87,NA,NA,12250 Roundwood Road,Timonium,39.457746,-76.668498
+03,Baltimore County,0852,Ridgely Middle,240012001434,2018,4,71,NA,84,NA,121 Ridgely Road,Lutherville,39.431658,-76.613908
+03,Baltimore County,0853,Cockeysville Middle,240012000366,2018,4,60,NA,59,NA,10401 Greenside Dr,Cockeysville,39.472755,-76.629724
+03,Baltimore County,0855,Hereford Middle,240012001422,2018,4,72,NA,87,NA,712 Corbett Rd,Monkton,39.572808,-76.653109
+03,Baltimore County,0872,Dulaney High,240012000373,2018,4,71,NA,NA,74,255 Padonia Road,Timonium,39.460917,-76.612039
+03,Baltimore County,0905,Stoneleigh Elementary,240012000479,2018,5,79,91,NA,NA,900 Pemberton Rd,Baltimore,39.38196,-76.598429
+03,Baltimore County,0907,Rodgers Forge Elementary,240012000465,2018,5,86,98,NA,NA,250 Dumbarton Rd,Baltimore,39.381247,-76.614966
+03,Baltimore County,0908,Villa Cresta Elementary,240012000490,2018,4,66,57,NA,NA,2600 Rader Ave,Baltimore,39.380688,-76.547863
+03,Baltimore County,0909,Pleasant Plains Elementary,240012000453,2018,3,56,28,NA,NA,8300 Pleasant Plains Rd,Towson,39.391657,-76.572775
+03,Baltimore County,0910,Oakleigh Elementary,240012000435,2018,3,58,33,NA,NA,1900 White Oak Ave,Baltimore,39.393739,-76.552623
+03,Baltimore County,0911,Hampton Elementary,240012000399,2018,5,78,89,NA,NA,1115 Charmuth Rd,Lutherville,39.416629,-76.60291
+03,Baltimore County,0912,Halstead Academy,240012000407,2018,3,50,19,NA,NA,1111 Halstead Rd,Baltimore,39.376817,-76.57202
+03,Baltimore County,0915,Harford Hills Elementary,240012000400,2018,4,66,58,NA,NA,8902 Old Harford Rd,Baltimore,39.39983,-76.53656
+03,Baltimore County,0916,Cromwell Valley Elementary Technology,240012000463,2018,4,68,62,NA,NA,825 Providence Rd,Baltimore,39.403505,-76.581332
+03,Baltimore County,0921,Pine Grove Elementary,240012000450,2018,5,75,83,NA,NA,2701 Summit Ave,Baltimore,39.411106,-76.529308
+03,Baltimore County,0923,White Oak School,240012001435,2018,3,47,15,NA,NA,8401 Leefield Rd,Parkville,39.389899,-76.55195
+03,Baltimore County,0925,West Towson Elementary,240012001696,2018,5,83,96,NA,NA,6916 North Charles Street,Baltimore,39.404256,-76.634256
+03,Baltimore County,0953,Dumbarton Middle,240012000374,2018,4,70,NA,82,NA,300 Dumbarton Rd,Baltimore,39.380617,-76.611931
+03,Baltimore County,0954,Loch Raven Technical Academy,240012000419,2018,3,46,NA,23,NA,8101 La Salle Rd,Baltimore,39.389922,-76.578678
+03,Baltimore County,0957,Pine Grove Middle,240012000451,2018,3,55,NA,43,NA,9200 Old Harford Rd,Baltimore,39.40552,-76.528037
+03,Baltimore County,0971,Towson High Law & Public Policy,240012000487,2018,4,74,NA,NA,79,69 Cedar Ave,Towson,39.390557,-76.600802
+03,Baltimore County,0972,Parkville High & Center for Math/Science,240012000443,2018,3,49,NA,NA,30,2600 Putty Hill Ave,Baltimore,39.38869,-76.539123
+03,Baltimore County,0973,Loch Raven High,240012000420,2018,4,62,NA,NA,54,1212 Cowpens Ave,Baltimore,39.404814,-76.563846
+03,Baltimore County,0975,George W. Carver Center for Arts & Technology,240012000230,2018,5,82,NA,NA,92,938 York Rd,Towson,39.40827,-76.610327
+03,Baltimore County,1001,Carroll Manor Elementary,240012000352,2018,5,83,96,NA,NA,4434 Carroll Manor Rd,Baldwin,39.497759,-76.524031
+03,Baltimore County,1002,Jacksonville Elementary,240012000467,2018,5,90,99,NA,NA,3400 Hillendale Heights Rd,Phoenix,39.512399,-76.559577
+03,Baltimore County,1104,Kingsville Elementary,240012000413,2018,5,83,96,NA,NA,7300 Sunshine Ave,Kingsville,39.456468,-76.418933
+03,Baltimore County,1105,Perry Hall Elementary,240012000445,2018,4,74,81,NA,NA,9021 Belair Rd,Baltimore,39.399429,-76.478297
+03,Baltimore County,1106,Carney Elementary,240012000351,2018,4,64,50,NA,NA,3131 E Joppa Rd,Baltimore,39.393142,-76.520816
+03,Baltimore County,1107,Chapel Hill Elementary,240012000358,2018,5,83,96,NA,NA,5200 E Joppa Rd,Perry Hall,39.400708,-76.435684
+03,Baltimore County,1109,Joppa View Elementary,240012090444,2018,4,74,82,NA,NA,8727 Honeygo Blvd,Baltimore,39.386871,-76.455638
+03,Baltimore County,1110,Seven Oaks Elementary,240012000021,2018,4,64,50,NA,NA,9220 Seven Courts Dr,Baltimore,39.405296,-76.487938
+03,Baltimore County,1111,Gunpowder Elementary,240012000397,2018,4,72,77,NA,NA,9540 Holiday Manor Rd,Baltimore,39.415343,-76.470902
+03,Baltimore County,1151,Perry Hall Middle,240012000447,2018,4,63,NA,65,NA,4300 Ebenezer Rd,Baltimore,39.398342,-76.474891
+03,Baltimore County,1171,Perry Hall High,240012000446,2018,4,62,NA,NA,54,4601 Ebenezer Rd,Baltimore,39.392634,-76.464568
+03,Baltimore County,1202,Dundalk Elementary,240012000375,2018,3,49,17,NA,NA,2717 Playfield Street,Baltimore,39.258667,-76.519514
+03,Baltimore County,1205,Berkshire Elementary,240012000349,2018,3,58,32,NA,NA,7431 Poplar Ave,Baltimore,39.287389,-76.511848
+03,Baltimore County,1206,Bear Creek Elementary,240012000347,2018,4,60,38,NA,NA,1601 Melbourne Rd,Baltimore,39.268353,-76.482372
+03,Baltimore County,1207,Norwood Elementary,240012000434,2018,3,52,22,NA,NA,1700 Delvale Ave,Baltimore,39.276484,-76.518445
+03,Baltimore County,1210,Grange Elementary,240012000395,2018,4,69,67,NA,NA,2000 Church Rd,Baltimore,39.265009,-76.502107
+03,Baltimore County,1212,Charlesmont Elementary,240012000359,2018,3,58,32,NA,NA,7800 W Collingham Dr,Baltimore,39.273277,-76.486127
+03,Baltimore County,1216,Sandy Plains Elementary,240012000470,2018,3,49,16,NA,NA,8330 Kavanagh Rd,Baltimore,39.260079,-76.48646
+03,Baltimore County,1217,Logan Elementary,240012000421,2018,4,62,43,NA,NA,7601 Dunmanway,Baltimore,39.257598,-76.510391
+03,Baltimore County,1251,Dundalk Middle,240012000376,2018,2,39,NA,12,NA,7400 Dunmanway,Baltimore,39.25922,-76.513831
+03,Baltimore County,1253,Holabird Middle,240012000408,2018,2,38,10,6,NA,1701 Delvale Ave,Baltimore,39.277265,-76.516683
+03,Baltimore County,1255,General John Stricker Middle,240012001438,2018,2,41,NA,15,NA,7855 Trappe Rd,Baltimore,39.27388,-76.491396
+03,Baltimore County,1272,Patapsco High & Center for Arts,240012000444,2018,3,48,NA,NA,29,8100 Wise Ave,Baltimore,39.265381,-76.489106
+03,Baltimore County,1273,Dundalk High,240012000377,2018,3,45,NA,NA,23,1901 Delvale Ave,Baltimore,39.266351,-76.516297
+03,Baltimore County,1302,Arbutus Elementary,240012000341,2018,4,68,62,NA,NA,1300 Sulphur Spring Rd,Baltimore,39.247776,-76.696832
+03,Baltimore County,1307,Baltimore Highlands Elementary,240012000344,2018,4,61,40,NA,NA,4200 Annapolis Rd,Baltimore,39.237109,-76.642378
+03,Baltimore County,1308,Riverview Elementary,240012000464,2018,3,50,18,NA,NA,3298 Kessler Rd,Baltimore,39.236652,-76.655699
+03,Baltimore County,1310,Relay Elementary,240012000461,2018,4,64,50,NA,NA,5885 Selford Rd,Baltimore,39.231115,-76.699791
+03,Baltimore County,1311,Lansdowne Elementary,240012000415,2018,4,62,43,NA,NA,2301 Alma Rd,Baltimore,39.24938,-76.657397
+03,Baltimore County,1313,Halethorpe Elementary,240012000398,2018,4,74,82,NA,NA,4300 Maple Ave,Halethorpe,39.242243,-76.684955
+03,Baltimore County,1351,Lansdowne Middle,240012000417,2018,2,44,NA,20,NA,2400 Lansdowne Rd,Baltimore,39.249809,-76.652219
+03,Baltimore County,1356,Arbutus Middle,240012000342,2018,3,50,NA,29,NA,5525 Shelbourne Rd,Baltimore,39.24848,-76.705459
+03,Baltimore County,1371,Lansdowne High & Academy of Finance,240012000416,2018,2,41,NA,NA,18,3800 Hollins Ferry Rd,Baltimore,39.245117,-76.651059
+03,Baltimore County,1403,McCormick Elementary,240012000426,2018,3,59,34,NA,NA,5101 Hazelwood Ave,Baltimore,39.341129,-76.521016
+03,Baltimore County,1404,Fullerton Elementary,240012000391,2018,4,60,38,NA,NA,4400 Fullerton Ave,Baltimore,39.360855,-76.518363
+03,Baltimore County,1405,Elmwood Elementary,240012000383,2018,3,52,22,NA,NA,531 Dale Ave,Baltimore,39.348943,-76.520167
+03,Baltimore County,1406,Red House Run Elementary,240012000459,2018,4,61,39,NA,NA,1717 Weyburn Rd,Baltimore,39.334523,-76.511217
+03,Baltimore County,1409,Shady Spring Elementary,240012000474,2018,4,61,39,NA,NA,8868 Goldenwood Rd,Baltimore,39.343293,-76.501785
+03,Baltimore County,1451,Golden Ring Middle,240012001439,2018,2,44,NA,19,NA,6700 Kenwood Ave,Baltimore,39.333258,-76.49843
+03,Baltimore County,1452,Parkville Middle & Center of Technology,240012000442,2018,3,54,NA,41,NA,8711 Avondale Road,Baltimore,39.377422,-76.526522
+03,Baltimore County,1473,Overlea High & Academy of Finance,240012000438,2018,3,45,NA,NA,23,5401 Kenwood Ave,Baltimore,39.349453,-76.511305
+03,Baltimore County,1502,Edgemere Elementary,240012000381,2018,4,62,45,NA,NA,7201 North Point Rd,Baltimore,39.239917,-76.445818
+03,Baltimore County,1503,Colgate Elementary,240012000367,2018,4,61,40,NA,NA,401  51st Street,Baltimore,39.294644,-76.51863
+03,Baltimore County,1505,Victory Villa Elementary,240012000489,2018,4,64,51,NA,NA,500 Compass Rd,Baltimore,39.342071,-76.455861
+03,Baltimore County,1506,Martin Boulevard Elementary,240012000425,2018,3,58,32,NA,NA,210 Riverton Rd,Baltimore,39.334906,-76.442094
+03,Baltimore County,1507,Chase Elementary,240012000360,2018,4,60,36,NA,NA,11701 Eastern Ave,Baltimore,39.344271,-76.392893
+03,Baltimore County,1508,Essex Elementary,240012000384,2018,4,64,50,NA,NA,100 Mace Ave,Baltimore,39.309222,-76.479896
+03,Baltimore County,1511,Chesapeake Terrace Elementary,240012000363,2018,4,70,69,NA,NA,2112 Lodge Farm Rd,Baltimore,39.221288,-76.449074
+03,Baltimore County,1512,Mars Estates Elementary,240012000424,2018,3,59,34,NA,NA,1500 E Homberg Ave,Baltimore,39.313417,-76.450684999999993
+03,Baltimore County,1513,Sussex Elementary,240012000482,2018,3,51,20,NA,NA,515 S Woodward Dr,Baltimore,39.303102,-76.470244
+03,Baltimore County,1514,Middlesex Elementary,240012000430,2018,3,51,19,NA,NA,142 Bennett Rd,Baltimore,39.324862,-76.452875
+03,Baltimore County,1515,Hawthorne Elementary,240012000401,2018,2,42,10,NA,NA,125 Kingston Rd,Baltimore,39.326083,-76.437151
+03,Baltimore County,1517,Battle Grove Elementary,240012000345,2018,3,51,20,NA,NA,7828 St Patricia Ln,Baltimore,39.268734,-76.475213
+03,Baltimore County,1518,Glenmar Elementary,240012001372,2018,4,60,37,NA,NA,9700 Community Dr,Baltimore,39.346095,-76.448054
+03,Baltimore County,1519,Orems Elementary,240012000437,2018,4,61,40,NA,NA,711 High Villa Rd,Baltimore,39.332295,-76.465411
+03,Baltimore County,1520,Middleborough Elementary,240012000429,2018,4,61,41,NA,NA,313 West Rd,Baltimore,39.305479,-76.434961
+03,Baltimore County,1525,Deep Creek Elementary,240012000369,2018,3,51,20,NA,NA,1101 E Homberg Ave,Baltimore,39.30817,-76.454919
+03,Baltimore County,1527,Sandalwood Elementary,240012000469,2018,4,61,42,NA,NA,900 S Marlyn Ave,Baltimore,39.294185,-76.457068
+03,Baltimore County,1531,Seneca Elementary,240012000472,2018,4,63,46,NA,NA,545 Carrollwood Rd,Baltimore,39.329467,-76.391005
+03,Baltimore County,1533,Vincent Farm Elementary,240012001653,2018,4,64,51,NA,NA,6019 Ebenezer Rd,White Marsh,39.371338,-76.413397
+03,Baltimore County,1534,Oliver Beach Elementary,240012001406,2018,4,66,56,NA,NA,12912 Cunninghill Cove Rd,Baltimore,39.369916,-76.354069
+03,Baltimore County,1554,Stemmers Run Middle,240012000478,2018,2,37,NA,9,NA,201 Stemmers Run Rd,Baltimore,39.321956,-76.457562
+03,Baltimore County,1556,Middle River Middle,240012001440,2018,2,41,NA,15,NA,800 Middle River Rd,Baltimore,39.344397,-76.451266
+03,Baltimore County,1557,Deep Creek Middle,240012000370,2018,2,43,NA,18,NA,1000 S Marlyn Ave,Baltimore,39.293221,-76.454319
+03,Baltimore County,1559,Sparrows Point Middle,240012010500,2018,3,52,NA,33,NA,7400 North Point Rd,Baltimore,39.238558,-76.442126
+03,Baltimore County,1572,Kenwood High IB and Sports Science,240012000412,2018,2,44,NA,NA,21,501 Stemmers Run Rd,Baltimore,39.32564,-76.46236
+03,Baltimore County,1573,Sparrows Point High,240012000477,2018,4,68,NA,NA,66,7400 N Point Rd,Sparrows Point,39.238614,-76.442131
+03,Baltimore County,1574,Chesapeake High,240012000362,2018,3,49,NA,NA,30,1801 Turkey Point Rd,Baltimore,39.292693,-76.419421
+03,Baltimore County,1575,Eastern Technical High School,240012000379,2018,5,95,NA,NA,99,1100 Mace Ave,Baltimore,39.324987,-76.473251
+04,Calvert,0101,Patuxent Appeal Elementary Campus,240015000504,2018,3,57,31,NA,NA,11655 Hg Trueman Rd,Lusby,38.375975,-76.436699
+04,Calvert,0110,Mutual Elementary,240015000514,2018,4,68,61,NA,NA,1455 Ball Rd,Port Republic,38.470613,-76.533192
+04,Calvert,0111,Southern Middle,240015001392,2018,4,63,NA,65,NA,9615 H G Trueman Rd,Lusby,38.406742,-76.445977
+04,Calvert,0113,Patuxent High,240015000611,2018,4,69,NA,NA,70,12485 Southern Connector Boulevard,Lusby,38.354922,-76.440077
+04,Calvert,0114,St Leonard Elementary,240015000778,2018,3,57,31,NA,NA,5370 St Leonard Rd,St Leonard,38.463915,-76.499186
+04,Calvert,0115,Dowell Elementary,240015001102,2018,4,64,49,NA,NA,12680 H G Trueman Rd,Lusby,38.35574,-76.451126
+04,Calvert,0116,Mill Creek Middle,240015002946,2018,4,73,NA,88,NA,12200 Southern Connector Blvd,Lusby,38.36185,-76.44446
+04,Calvert,0201,Calvert Middle,240015000507,2018,4,63,NA,66,NA,655 Chesapeake Blvd,Prince Frederick,38.556756,-76.588346
+04,Calvert,0207,Calvert Elementary,240015000517,2018,4,69,65,NA,NA,1450 Dares Beach Rd,Prince Frederick,38.553435,-76.569191
+04,Calvert,0208,Barstow Elementary,240015001655,2018,4,68,63,NA,NA,295 Williams Rd,Prince Frederick,38.540948,-76.610016
+04,Calvert,0209,Huntingtown Elementary,240015000511,2018,5,85,98,NA,NA,4345 Huntingtown Rd,Huntingtown,38.621851,-76.627163
+04,Calvert,0213,Calvert High,240015000508,2018,5,76,NA,NA,82,520 Fox Run Blvd,Prince Frederick,38.553486,-76.582891
+04,Calvert,0215,Plum Point Elementary,240015090465,2018,5,76,85,NA,NA,1245 Plum Point Rd,Huntingtown,38.595802,-76.58703
+04,Calvert,0216,Plum Point Middle,240015000027,2018,4,73,NA,88,NA,1475 Plum Point Rd,Huntingtown,38.597214,-76.582854
+04,Calvert,0217,Huntingtown High School,240015001342,2018,5,78,NA,NA,87,4125 N Solomons Island Rd,Huntingtown,38.61918,-76.609011
+04,Calvert,0302,Beach Elementary,240015000505,2018,4,69,65,NA,NA,7900 Old Bayside Rd,Chesapeake Beach,38.683592,-76.537413
+04,Calvert,0312,Mount Harmony Elementary,240015000513,2018,5,86,98,NA,NA,900 W Mount Harmony Rd,Owings,38.708005,-76.625304
+04,Calvert,0314,Northern High,240015000516,2018,5,77,NA,NA,83,2950 Chaneyville Rd,Owings,38.685816,-76.652249
+04,Calvert,0315,Northern Middle,240015000515,2018,5,75,NA,91,NA,2954 Chaneyville Rd,Owings,38.684963,-76.653506
+04,Calvert,0316,Sunderland Elementary,240015001505,2018,5,78,89,NA,NA,150 Clyde Jones Rd,Sunderland,38.670084,-76.603004
+04,Calvert,0317,Windy Hill Elementary,240015000790,2018,4,71,73,NA,NA,9550 Boyds Turn Rd,Owings,38.712488,-76.572149
+04,Calvert,0318,Windy Hill Middle,240015000967,2018,5,77,NA,93,NA,9560 Boyd's Turn Rd,Owings,38.714233,-76.572118
+05,Caroline,0201,Greensboro Elementary School,240018000522,2018,4,70,70,NA,NA,625 N Main St,Greensboro,38.98406,-75.802043
+05,Caroline,0301,Denton Elementary School,240018000520,2018,4,70,68,NA,NA,303 Sharp Rd,Denton,38.869665,-75.8316
+05,Caroline,0302,Lockerman Middle School,240018000526,2018,4,60,NA,58,NA,410 Lockerman St,Denton,38.890541,-75.82769
+05,Caroline,0401,Preston Elementary School,240018000524,2018,4,69,67,NA,NA,Po Box 69,Preston,38.710874,-75.905255
+05,Caroline,0501,Federalsburg Elementary School,240018000521,2018,4,64,51,NA,NA,302 S University Ave,Federalsburg,38.690339,-75.779718
+05,Caroline,0701,Ridgely Elementary School,240018000525,2018,4,66,58,NA,NA,118 N Central Ave,Ridgely,38.952566,-75.884019
+05,Caroline,0703,North Caroline High School,240018000523,2018,4,60,NA,NA,47,10990 River Rd,Ridgely,38.908802,-75.841102
+05,Caroline,0801,Colonel Richardson High School,240018000518,2018,4,63,NA,NA,55,25320 Richardson Rd,Federalsburg,38.754815,-75.82816
+05,Caroline,0802,Colonel Richardson Middle School,240018000519,2018,4,61,NA,61,NA,25390 Richardson Rd,Federalsburg,38.754725,-75.82561
+06,Carroll,0103,Taneytown Elementary,240021000548,2018,4,70,68,NA,NA,100 Kings Drive,Taneytown,39.652719,-77.171376
+06,Carroll,0105,Northwest Middle,240021000543,2018,4,70,NA,81,NA,99 Kings Drive,Taneytown,39.651661,-77.167565
+06,Carroll,0202,Francis Scott Key High,240021000533,2018,4,71,NA,NA,71,3825 Bark Hill Rd,Union Bridge,39.592718,-77.133592
+06,Carroll,0204,Runnymede Elementary,240021000368,2018,4,68,63,NA,NA,3000 Langdon Dr,Westminster,39.629428,-77.103201
+06,Carroll,0404,Sandymount Elementary,240021000545,2018,4,74,81,NA,NA,2222 Old Westminster Pike,Finksburg,39.521816,-76.918862
+06,Carroll,0406,Mechanicsville Elementary,240021000537,2018,4,70,69,NA,NA,3838 Sykesville Rd,Sykesville,39.46848,-76.942493
+06,Carroll,0501,Eldersburg Elementary,240021000531,2018,4,73,79,NA,NA,1021 Johnsville Rd,Sykesville,39.409488,-76.958499
+06,Carroll,0503,Linton Springs Elementary,240021000977,2018,5,79,91,NA,NA,375 Ronsdale Rd,Sykesville,39.423327,-76.987168
+06,Carroll,0504,Sykesville Middle,240021000547,2018,5,77,NA,93,NA,7301 Springfield Ave,Sykesville,39.372947,-76.965659
+06,Carroll,0505,Freedom District Elementary,240021000534,2018,5,82,95,NA,NA,5626 Sykesville Rd,Sykesville,39.418987,-76.943452
+06,Carroll,0506,Carrolltowne Elementary,240021000529,2018,5,76,84,NA,NA,6542 Ridge Rd,Sykesville,39.393694000000004,-76.933899
+06,Carroll,0507,Liberty High,240021001394,2018,5,85,NA,NA,96,5855 Bartholow Rd,Sykesville,39.413269,-76.952695
+06,Carroll,0508,Oklahoma Road Middle,240021000835,2018,5,78,NA,94,NA,6300 Oklahoma Rd,Sykesville,39.401084,-76.931626
+06,Carroll,0509,Piney Ridge Elementary,240021090466,2018,5,77,87,NA,NA,6315 Freedom Ave,Sykesville,39.400591,-76.961846
+06,Carroll,0510,Century High,240021001161,2018,5,83,NA,NA,94,355 Ronsdale Rd,Sykesville,39.424903,-76.99166
+06,Carroll,0601,Manchester Elementary,240021000536,2018,4,72,75,NA,NA,3224 York Street,Manchester,39.6632,-76.883869
+06,Carroll,0602,Manchester Valley High,240021001672,2018,4,73,NA,NA,77,3300 Maple Grove Rd,Manchester,39.653925,-76.878844
+06,Carroll,0603,Ebb Valley Elementary,240021001652,2018,5,75,84,NA,NA,3100 Swiper Dr,Manchester,39.676598,-76.888914
+06,Carroll,0701,Westminster East Middle,240021000550,2018,4,63,NA,64,NA,121 Longwell Ave,Westminster,39.575313,-76.990184
+06,Carroll,0703,Westminster West Middle,240021000553,2018,4,68,NA,79,NA,60 Monroe St,Westminster,39.583118,-76.994187
+06,Carroll,0704,Winters Mill High,240021001185,2018,4,73,NA,NA,76,560 Gorsuch Rd,Westminster,39.57129,-76.976617
+06,Carroll,0705,William Winchester Elementary,240021000554,2018,4,71,72,NA,NA,70 Monroe St,Westminster,39.581526,-76.994419
+06,Carroll,0707,Westminster High,240021000552,2018,5,77,NA,NA,84,1225 Washington Rd,Westminster,39.541382,-76.992302
+06,Carroll,0710,Westminster Elementary,240021000551,2018,5,77,86,NA,NA,811 Uniontown Rd,Westminster,39.579612,-77.025755
+06,Carroll,0711,Robert Moton Elementary,240021000544,2018,4,69,64,NA,NA,1413 Washington Rd,Westminster,39.535248,-76.993361
+06,Carroll,0714,Friendship Valley Elementary,240021000052,2018,4,67,60,NA,NA,1100 Gist Rd,Westminster,39.545279,-77.004377
+06,Carroll,0715,Cranberry Station Elementary,240021001105,2018,5,76,85,NA,NA,505 N Center St,Westminster,39.573724,-76.978073
+06,Carroll,0716,Gateway School,240021001548,2018,1,22,NA,NA,0,45 Kate Wagner Rd,Westminster,39.534835,-76.990829
+06,Carroll,0801,North Carroll Middle,240021000542,2018,4,68,NA,80,NA,2401 Hanover Pike,Hampstead,39.642963,-76.865996
+06,Carroll,0804,Hampstead Elementary,240021000535,2018,5,81,94,NA,NA,3737 Shiloh Rd,Hampstead,39.602197,-76.862318
+06,Carroll,0806,Spring Garden Elementary,240021090467,2018,5,78,90,NA,NA,700 Boxwood Dr,Hampstead,39.592978,-76.840479
+06,Carroll,0807,Shiloh Middle,240021002947,2018,4,72,NA,87,NA,3675 Willow St,Hampstead,39.599114,-76.861256
+06,Carroll,0903,Flexible Student Support,240021001350,2018,3,54,NA,NA,37,45 Kate Wagner Rd,Westminster,39.534835,-76.990829
+06,Carroll,0906,Winfield Elementary,240021000555,2018,4,73,78,NA,NA,4401 Salem Bottom Rd,Westminster,39.453172,-77.054348
+06,Carroll,1201,Elmer A. Wolfe Elementary,240021000532,2018,5,75,84,NA,NA,119 N Main St,Union Bridge,39.576986,-77.176818
+06,Carroll,1305,Mount Airy Elementary,240021000538,2018,4,71,72,NA,NA,405 N Main St,Mount Airy,39.379847,-77.149401
+06,Carroll,1306,Mount Airy Middle,240021000539,2018,5,76,NA,92,NA,102 Watersville Rd,Mount Airy,39.380218,-77.14583
+06,Carroll,1401,South Carroll High,240021000546,2018,5,80,NA,NA,90,1300 W Old Liberty Rd,Sykesville,39.443149,-77.04151
+07,Cecil,0104,Cecilton Elementary,240024000562,2018,4,73,78,NA,NA,251 W Main St,Cecilton,39.405874,-75.874712
+07,Cecil,0204,Bohemia Manor High,240024000558,2018,4,60,NA,NA,48,2755 Augustine Herman Hwy,Chesapeake City,39.510952,-75.831139
+07,Cecil,0205,Chesapeake City Elementary,240024000565,2018,4,73,79,NA,NA,Po Box 180,Chesapeake City,39.526988,-75.81591
+07,Cecil,0206,Bohemia Manor Middle,240024000791,2018,3,58,NA,52,NA,2757 Augustine Herman Hwy,Chesapeake City,39.511581,-75.830541
+07,Cecil,0302,Elkton High,240024000568,2018,3,48,NA,NA,27,110 James St,Elkton,39.622872,-75.834841
+07,Cecil,0303,Elkton Middle,240024000567,2018,3,57,NA,51,NA,615 North St,Elkton,39.620063,-75.830108
+07,Cecil,0310,Gilpin Manor Elementary,240024000569,2018,3,57,30,NA,NA,203 Newark Ave,Elkton,39.619235,-75.833798
+07,Cecil,0311,Holly Hall Elementary,240024000570,2018,3,57,29,NA,NA,233 White Hall Rd,Elkton,39.592632,-75.821707
+07,Cecil,0313,Cherry Hill Middle,240024000564,2018,4,67,NA,75,NA,2535 Singerly Rd,Elkton,39.674397,-75.860542
+07,Cecil,0315,Leeds Elementary,240024000572,2018,4,63,47,NA,NA,615 Deaver Rd,Elkton,39.64674,-75.892055
+07,Cecil,0316,Thomson Estates Elementary,240024000581,2018,3,54,25,NA,NA,203 E Thomson Dr,Elkton,39.605246,-75.799059
+07,Cecil,0317,Kenmore Elementary,240024001491,2018,5,77,88,NA,NA,2475 Singerly Rd,Elkton,39.672754,-75.859423
+07,Cecil,0401,Cecil Manor Elementary,240024000560,2018,4,61,41,NA,NA,971 Elk Mills Rd,Elkton,39.65822,-75.817631
+07,Cecil,0504,North East Middle,240024000574,2018,3,55,NA,43,NA,200 E Cecil Ave,North East,39.60065,-75.939402
+07,Cecil,0506,North East Elementary,240024000573,2018,4,62,45,NA,NA,301 Thomas Ave,North East,39.596641,-75.936478
+07,Cecil,0510,Bay View Elementary,240024000557,2018,3,55,27,NA,NA,910 North East Rd,North East,39.638559,-75.956721
+07,Cecil,0513,Charlestown Elementary,240024000563,2018,5,78,88,NA,NA,550 Baltimore Street,Charlestown,39.574395,-75.982345
+07,Cecil,0514,North East High,240024000575,2018,3,55,NA,NA,39,300 Irishtown Rd,North East,39.585361,-75.933238
+07,Cecil,0515,Elk Neck Elementary,240024090468,2018,4,73,78,NA,NA,41 Racine School Rd,Elkton,39.53554,-75.899311
+07,Cecil,0606,Rising Sun Middle School,240024000580,2018,4,60,NA,58,NA,289 Pearl Street,Rising Sun,39.701567,-76.066477
+07,Cecil,0607,Rising Sun Elementary,240024000579,2018,4,73,79,NA,NA,500 Hopewell Rd,Rising Sun,39.681363,-76.066387
+07,Cecil,0701,Perryville Middle,240024000578,2018,3,58,NA,55,NA,850 Aiken Ave,Perryville,39.568973,-76.068508
+07,Cecil,0703,Perryville Elementary,240024000576,2018,4,65,52,NA,NA,901 Maywood Ave,Perryville,39.565565,-76.067895
+07,Cecil,0704,Bainbridge Elementary,240024000556,2018,4,61,41,NA,NA,41 Preston Dr,Port Deposit,39.606161,-76.074838
+07,Cecil,0705,Perryville High,240024000577,2018,3,58,NA,NA,43,1696 Perryville Rd,Perryville,39.582243,-76.062973
+07,Cecil,0801,Conowingo Elementary,240024000566,2018,4,72,74,NA,NA,471 Rowlandsville Rd,Conowingo,39.674257,-76.158598
+07,Cecil,0904,Calvert Elementary,240024000559,2018,5,79,91,NA,NA,79 Brick Meetinghouse Rd,Rising Sun,39.700802,-75.984628
+07,Cecil,0905,Rising Sun High,240024090469,2018,4,64,NA,NA,58,100 Tiger Dr,North East,39.691769,-75.971291
+08,Charles,0104,Milton M. Somers Middle School,240027000601,2018,3,53,NA,37,NA,300 Willow Ln,La Plata,38.523883,-76.972631
+08,Charles,0105,Walter J. Mitchell Elementary,240027000609,2018,4,74,80,NA,NA,400 Willow Ln,La Plata,38.519691,-76.968888
+08,Charles,0106,La Plata High School,240027000596,2018,4,73,NA,NA,75,6035 Radio Station Rd,La Plata,38.546164,-76.950235
+08,Charles,0108,Maurice J. McDonough High School,240027000600,2018,4,62,NA,NA,53,7165 Marshall Corner Rd,Pomfret,38.555758,-77.035139
+08,Charles,0109,Mary Matula Elementary School,240027000141,2018,4,63,46,NA,NA,6025 Radio Station Rd,La Plata,38.547811,-76.956024
+08,Charles,0302,Mt Hope/Nanjemoy Elementary School,240027001492,2018,4,71,71,NA,NA,9275 Ironsides Rd,Nanjemoy,38.457888,-77.180427
+08,Charles,0501,Dr. Thomas L. Higdon Elementary,240027000610,2018,4,69,64,NA,NA,12872 Rock Point Rd,Newburg,38.359673,-76.940327
+08,Charles,0503,Piccowaxen Middle School,240027000604,2018,4,64,NA,69,NA,12834 Rock Point Rd,Newburg,38.361727,-76.941563
+08,Charles,0604,Dr. Samuel A. Mudd Elementary School,240027000585,2018,4,66,55,NA,NA,820 Stone Ave,Waldorf,38.608314,-76.910247
+08,Charles,0605,Thomas Stone High School,240027000607,2018,3,54,NA,NA,38,3785 Leonardtown Rd,Waldorf,38.614593,-76.886485
+08,Charles,0606,J. P. Ryon Elementary School,240027000593,2018,3,59,35,NA,NA,12140 Vivian Adams Dr,Waldorf,38.622152,-76.889295
+08,Charles,0608,John Hanson Middle School,240027000595,2018,3,47,NA,25,NA,3165 John Hanson Dr,Waldorf,38.62417,-76.888034
+08,Charles,0609,Dr. James Craik Elementary School,240027000594,2018,5,80,93,NA,NA,7725 Marshall Corner Rd,Pomfret,38.569039,-77.029844
+08,Charles,0611,Dr. Gustavus Brown Elementary,240027000584,2018,3,54,25,NA,NA,421 University Dr,Waldorf,38.594543,-76.919442
+08,Charles,0612,Arthur Middleton Elementary School,240027000582,2018,4,62,42,NA,NA,1109 Copley Ave,Waldorf,38.602594,-76.921927
+08,Charles,0613,Benjamin Stoddert Middle School,240027000583,2018,3,50,NA,30,NA,2040 Saint Thomas Dr,Waldorf,38.601111,-76.897929
+08,Charles,0616,Eva Turner Elementary School,240027000586,2018,3,55,26,NA,NA,1000 Bannister Cir,Waldorf,38.594283,-76.902769
+08,Charles,0617,Daniel of St. Thomas Jenifer Elementary School,240027010501,2018,4,60,37,NA,NA,2820 Jenifer School Ln,Waldorf,38.63386,-76.927765
+08,Charles,0618,William B. Wade Elementary School,240027001519,2018,4,70,68,NA,NA,2300 Smallwood Dr W,Waldorf,38.617612,-76.946795
+08,Charles,0619,Westlake High School,240027000144,2018,4,68,NA,NA,68,3300 Middletown Rd,Waldorf,38.621892,-76.96683
+08,Charles,0620,C. Paul Barnhart Elementary School,240027000380,2018,4,74,80,NA,NA,4800 Lancaster Circle,Waldorf,38.62436,-76.937338
+08,Charles,0621,Mattawoman Middle School,240027000615,2018,4,60,NA,59,NA,10145 Berry Rd,Waldorf,38.646856,-76.960981
+08,Charles,0622,Berry Elementary School,240027000805,2018,4,67,59,NA,NA,10155 Berry Rd,Waldorf,38.647819,-76.959961
+08,Charles,0623,North Point High School,240027001416,2018,5,80,NA,NA,91,2500 Davis Rd,Waldorf,38.643076,-76.976785
+08,Charles,0624,William A. Diggs Elementary,240027001565,2018,4,73,79,NA,NA,2615 Davis Rd,Waldorf,38.63561,-76.98122
+08,Charles,0625,Theodore G. Davis Middle School,240027001647,2018,4,74,NA,90,NA,2495 Davis Road,Waldorf,38.644238,-76.977555
+08,Charles,0626,Mary B. Neal Elementary School,240027001656,2018,4,62,43,NA,NA,12105 St. George's Dr,Waldorf,38.585421,-76.903091
+08,Charles,0701,Matthew Henson Middle School,240027000599,2018,3,57,NA,51,NA,3535 Livingston Rd,Indian Head,38.6138,-77.076842
+08,Charles,0703,J. C. Parks Elementary School,240027000592,2018,4,64,51,NA,NA,3505 Livingston Rd,Indian Head,38.614694,-77.074916
+08,Charles,0705,General Smallwood Middle School,240027000589,2018,3,55,NA,43,NA,4990 Indian Head Hwy,Indian Head,38.602880999999996,-77.134596
+08,Charles,0708,Robert D. Stethem Educational Center,240027001395,2018,3,46,NA,NA,7,7775 Marshall Corner Rd,Pomfret,38.570524,-77.029108
+08,Charles,0710,Indian Head Elementary School,240027000591,2018,4,63,46,NA,NA,4200 Indian Head Hwy,Indian Head,38.600440999999996,-77.166854
+08,Charles,0801,T. C. Martin Elementary School,240027000606,2018,5,75,84,NA,NA,6315 Olivers Shop Rd,Bryantown,38.53938,-76.842675
+08,Charles,0802,St. Charles High School,240027001727,2018,4,64,NA,NA,59,5305 Piney Church Rd,Waldorf,38.567694,-76.908996
+08,Charles,0902,Malcolm Elementary School,240027000598,2018,4,71,73,NA,NA,14760 Poplar Hill Rd,Waldorf,38.617133,-76.797556
+08,Charles,1001,Gale-Bailey Elementary School,240027000588,2018,4,62,45,NA,NA,4740 Pisgah Marbury Rd,Marbury,38.561166,-77.150534
+08,Charles,1002,Henry E. Lackey High School,240027000597,2018,4,60,NA,NA,47,3000 Chicamuxen Rd,Indian Head,38.579442,-77.127626
+09,Dorchester,0205,Warwick Elementary School,240030000625,2018,4,70,69,NA,NA,P.O. Box 549,Secretary,38.609431,-75.943695
+09,Dorchester,0207,North Dorchester High School,240030000618,2018,4,66,NA,NA,61,5875 Cloverdale Road,Hurlock,38.587746,-75.873585
+09,Dorchester,0208,North Dorchester Middle School,240030000619,2018,3,56,NA,48,NA,5745 Cloverdale Road,Hurlock,38.583147,-75.876744
+09,Dorchester,0302,Vienna Elementary School,240030000624,2018,4,65,53,NA,NA,4905 Ocean Gateway,Vienna,38.487673,-75.832394
+09,Dorchester,0508,South Dorchester School,240030000622,2018,5,83,90,99,NA,3485 Church Creek Road,Church Creek,38.398318,-76.18677
+09,Dorchester,0707,Mace's Lane Middle School,240030001423,2018,2,43,NA,17,NA,1101 Mace's Lane,Cambridge,38.557676,-76.092226
+09,Dorchester,0710,Sandy Hill Elementary,240030000621,2018,3,56,28,NA,NA,1503 Glasgow Road,Cambridge,38.580963,-76.090125
+09,Dorchester,0711,Maple Elementary School,240030000617,2018,3,55,26,NA,NA,5225 Egypt Rd.,Cambridge,38.540373,-76.092731
+09,Dorchester,0713,Cambridge-South Dorchester High School,240030000612,2018,3,52,NA,NA,34,2475 Cambridge Beltway,Cambridge,38.544565,-76.088756
+09,Dorchester,0716,Choptank Elementary School,240030000841,2018,3,54,25,NA,NA,1103 Mace's Lane,Cambridge,38.555736,-76.091476
+09,Dorchester,1503,Hurlock Elementary School,240030000614,2018,4,65,52,NA,NA,301 Charles St.,Hurlock,38.630675,-75.864597
+10,Frederick,0108,Carroll Manor Elementary,240033000628,2018,4,72,74,NA,NA,5624 Adamstown Rd,Adamstown,39.313623,-77.469748
+10,Frederick,0109,Tuscarora Elementary,240033001355,2018,4,67,59,NA,NA,6321 Lambert Dr,Frederick,39.370314,-77.44401
+10,Frederick,0201,Parkway Elementary,240033000646,2018,5,81,94,NA,NA,300 Carroll Pky,Frederick,39.414323,-77.419732
+10,Frederick,0204,Lincoln Elementary,240033000649,2018,4,65,53,NA,NA,200 Madison St,Frederick,39.409249,-77.416167
+10,Frederick,0209,Frederick High,240033000632,2018,3,58,NA,NA,44,650 Carroll Pky,Frederick,39.416659,-77.426081
+10,Frederick,0210,North Frederick Elementary,240033000645,2018,4,71,73,NA,NA,1010 Fairview Ave,Frederick,39.429119,-77.412347
+10,Frederick,0211,West Frederick Middle,240033000658,2018,4,61,NA,62,NA,515 W Patrick St,Frederick,39.415,-77.427505
+10,Frederick,0213,Gov. Thomas Johnson High,240033000634,2018,4,62,NA,NA,53,1501 N Market St,Frederick,39.433895,-77.405884
+10,Frederick,0219,Monocacy Middle,240033001413,2018,3,52,NA,35,NA,8009 Opossumtown Pike,Frederick,39.454539,-77.413294
+10,Frederick,0222,Monocacy Elementary,240033001521,2018,4,67,59,NA,NA,7421 Hayward Rd,Frederick,39.455208,-77.410527
+10,Frederick,0223,Ballenger Creek Elementary,240033090471,2018,4,68,63,NA,NA,5250 Kingsbrook Dr,Frederick,39.378163,-77.430871
+10,Frederick,0225,Gov. Thomas Johnson Middle,240033001549,2018,3,56,NA,48,NA,1799 Schifferstadt Blvd,Frederick,39.43702,-77.398091
+10,Frederick,0226,Monocacy Valley Montessori School,240033001187,2018,5,82,70,99,NA,217 Dill Ave,Frederick,39.419514,-77.414108
+10,Frederick,0227,Crestwood Middle,240033001357,2018,3,53,NA,39,NA,7100 Foxcroft Dr,Frederick,39.393706,-77.422724
+10,Frederick,0228,Carroll Creek Montessori Public Charter School,240033001712,2018,4,69,70,76,NA,7215 Corporate Court,Frederick,39.37822,-77.414871
+10,Frederick,0303,Middletown Elementary,240033000639,2018,4,72,77,NA,NA,201 E Green St,Middletown,39.444101,-77.537984
+10,Frederick,0311,Middletown Middle,240033000640,2018,5,76,NA,92,NA,100 Martha Mason St,Middletown,39.443958,-77.535918
+10,Frederick,0313,Middletown High,240033000641,2018,5,83,NA,NA,94,200 Schoolhouse Dr,Middletown,39.446641,-77.534361
+10,Frederick,0503,Emmitsburg Elementary,240033000631,2018,4,65,53,NA,NA,300 S Seton Ave,Emmitsburg,39.70297,-77.329424
+10,Frederick,0603,Wolfsville Elementary,240033000659,2018,5,76,86,NA,NA,12520 Wolfsville Rd,Myersville,39.575148,-77.553424
+10,Frederick,0702,Urbana Elementary,240033000652,2018,5,81,93,NA,NA,3554 Urbana Pike,Frederick,39.326805,-77.356446
+10,Frederick,0713,Urbana High,240033000616,2018,5,86,NA,NA,98,3471 Campus Dr,Ijamsville,39.326755,-77.339531
+10,Frederick,0714,Windsor Knolls Middle,240033000392,2018,4,68,NA,77,NA,11150 Windsor Rd,Ijamsville,39.322602,-77.276998
+10,Frederick,0715,Centerville Elementary,240033001429,2018,5,85,98,NA,NA,3601 Carriage Hill Dr,Frederick,39.334941,-77.334273
+10,Frederick,0716,Urbana Middle,240033001536,2018,5,76,NA,93,NA,3511 Pontius Ct,Ijamsville,39.329126,-77.336432
+10,Frederick,0801,Liberty Elementary,240033000637,2018,4,67,60,NA,NA,11820 Liberty Rd,Frederick,39.483803,-77.253113
+10,Frederick,0903,New Market Elementary,240033000643,2018,5,78,89,NA,NA,93 W Main St,New Market,39.383946,-77.275421
+10,Frederick,0912,Linganore High,240033000638,2018,5,79,NA,NA,89,12013 Old Annapolis Rd,Frederick,39.433063,-77.247231
+10,Frederick,0913,Green Valley Elementary,240033000635,2018,5,76,86,NA,NA,11501 Fingerboard Rd,Monrovia,39.343141,-77.265642
+10,Frederick,0914,New Market Middle,240033001379,2018,4,61,NA,60,NA,125 W Main St,New Market,39.384645,-77.276756
+10,Frederick,0915,Kemptown Elementary,240033001412,2018,4,74,81,NA,NA,3456 Kemptown Church Rd,Monrovia,39.329588,-77.234328
+10,Frederick,0916,Spring Ridge Elementary,240033090472,2018,4,73,78,NA,NA,9051 Ridgefield Dr,Frederick,39.399443,-77.352318
+10,Frederick,0917,Deer Crossing Elementary,240033000847,2018,4,72,77,NA,NA,10601 Finn Dr,New Market,39.403528,-77.291753
+10,Frederick,0918,Oakdale Middle,240033001163,2018,4,73,NA,87,NA,5810 Oakdale School Road,Ijamsville,39.393177,-77.318896
+10,Frederick,0919,Oakdale Elementary,240033001165,2018,5,84,97,NA,NA,5830 Oakdale School Road,Ijamsville,39.395648,-77.318864
+10,Frederick,0920,Oakdale High,240033001688,2018,5,83,NA,NA,95,5850 Eaglehead Drive,Ijamsville,39.39464,-77.30994
+10,Frederick,1001,Sabillasville Elementary,240033000648,2018,4,74,82,NA,NA,16210-B Sabillasville Rd,Sabillasville,39.680686,-77.455882
+10,Frederick,1105,New Midway/Woodsboro Elementary,240033001442,2018,4,64,49,NA,NA,12226 Woodsboro Pike,Keymar,39.569012,-77.287625
+10,Frederick,1301,Frederick Classical Charter School,240033001715,2018,4,68,55,84,NA,8445 Spires Way,Frederick,39.436572,-77.373275
+10,Frederick,1406,Valley Elementary,240033000653,2018,4,66,56,NA,NA,3519 Jefferson Pike,Jefferson,39.359133,-77.547535
+10,Frederick,1503,Thurmont Elementary,240033000650,2018,4,69,65,NA,NA,805 E Main St,Thurmont,39.617073,-77.39662
+10,Frederick,1509,Catoctin High,240033000629,2018,4,71,NA,NA,73,14745 Sabillasville Rd,Thurmont,39.638878,-77.409721
+10,Frederick,1510,Thurmont Middle,240033000651,2018,3,56,NA,47,NA,408 E Main St,Thurmont,39.620157,-77.405194
+10,Frederick,1604,Myersville Elementary,240033000642,2018,5,76,86,NA,NA,429 Main Street,Myersville,39.509311,-77.565617
+10,Frederick,1801,Twin Ridge Elementary,240033000159,2018,4,73,80,NA,NA,1106 Leafy Hollow Circle,Mt Airy,39.370479,-77.175891
+10,Frederick,2001,Lewistown Elementary,240033000636,2018,5,81,94,NA,NA,11119 Hessong Bridge Rd,Thurmont,39.539898,-77.415531
+10,Frederick,2103,Yellow Springs Elementary,240033000661,2018,4,72,74,NA,NA,8717 Yellow Springs Rd,Frederick,39.474351,-77.452015
+10,Frederick,2107,Whittier Elementary,240033001015,2018,5,77,87,NA,NA,2400 Whittier Dr,Frederick,39.455494,-77.451731
+10,Frederick,2302,Hillcrest Elementary,240033090473,2018,4,68,62,NA,NA,1285 Hillcrest Drive,Frederick,39.410856,-77.450621
+10,Frederick,2305,Ballenger Creek Middle,240033090446,2018,3,57,NA,51,NA,5525 Ballenger Creek Pike,Frederick,39.385799,-77.441073
+10,Frederick,2306,Orchard Grove Elementary,240033000807,2018,4,65,54,NA,NA,5898 Hannover Dr,Frederick,39.39495,-77.440665
+10,Frederick,2307,Tuscarora High,240033001550,2018,4,71,NA,NA,73,5312 Ballenger Creek Pk,Frederick,39.377965,-77.44579
+10,Frederick,2403,Waverley Elementary,240033000657,2018,3,53,23,NA,NA,201 Waverley Dr,Frederick,39.427665,-77.461671
+10,Frederick,2503,Brunswick High,240033000627,2018,4,74,NA,NA,78,101 Cummings Dr,Brunswick,39.316752,-77.608804
+10,Frederick,2504,Brunswick Elementary,240033000626,2018,4,67,59,NA,NA,400 Central Ave,Brunswick,39.318456,-77.633142
+10,Frederick,2525,Brunswick Middle,240033001409,2018,3,55,NA,46,NA,301 Cummings Dr,Brunswick,39.314919,-77.604032
+10,Frederick,2606,Walkersville Middle,240033000656,2018,3,54,NA,40,NA,55 W Frederick Street,Walkersville,39.480437,-77.354773
+10,Frederick,2607,Walkersville Elementary,240033000654,2018,4,64,49,NA,NA,83 W Frederick Street,Walkersville,39.474096,-77.362729
+10,Frederick,2610,Walkersville High,240033000655,2018,5,77,NA,NA,85,81 W Frederick Street,Walkersville,39.475391,-77.361332
+10,Frederick,2611,Glade Elementary,240033000620,2018,4,73,80,NA,NA,9525 Glade Rd,Walkersville,39.49612,-77.349003
+11,Garrett,0202,Friendsville Elementary,240036000667,2018,3,58,33,NA,NA,Po Box 59,Friendsville,39.66594,-79.405191
+11,Garrett,0301,Grantsville Elementary,240036000668,2018,4,62,45,NA,NA,Po Box 9,Grantsville,39.69494,-79.15339
+11,Garrett,0501,Accident Elementary,240036000662,2018,4,73,77,NA,NA,534 Accident-Bittinger Rd,Accident,39.62634,-79.310801
+11,Garrett,0511,Northern Middle School,240036001351,2018,4,66,NA,73,NA,371 Pride Pkwy,Accident,39.663357,-79.302166
+11,Garrett,0512,Northern Garrett High School,240036000671,2018,5,78,NA,NA,88,86 Pride Pkwy,Accident,39.66449,-79.297646
+11,Garrett,0707,Broad Ford Elementary,240036000664,2018,3,59,36,NA,NA,607 Harvey Winters Rd,Oakland,39.414995,-79.378589
+11,Garrett,0708,Southern Middle School,240036000675,2018,4,63,NA,67,NA,605 Harvey Winters Road,Oakland,39.415413,-79.380331
+11,Garrett,0709,Southern Garrett High School,240036000674,2018,4,71,NA,NA,72,345 Oakland Dr,Oakland,39.404611,-79.389999
+11,Garrett,0710,Yough Glades Elementary,240036000852,2018,4,65,54,NA,NA,70 Wolf Acres Dr,Oakland,39.396114,-79.394138
+11,Garrett,0812,Swan Meadow School,240036000676,2018,4,73,84,85,NA,6709 Garrett Highway,Oakland,39.349431,-79.433768
+11,Garrett,0904,Route 40 Elementary,240036000673,2018,5,77,88,NA,NA,17764 National Pike,Frostburg,39.68682,-79.010434
+11,Garrett,1408,Crellin Elementary,240036000665,2018,4,72,76,NA,NA,115 Kendall Dr,Oakland,39.390867,-79.465491
+12,Harford,0113,William S. James Elementary,240039000715,2018,4,66,55,NA,NA,1 Laurentum Pkw,Abingdon,39.480991,-76.307556
+12,Harford,0115,Edgewood Elementary,240039000688,2018,4,61,39,NA,NA,2100 Cedar Dr,Edgewood,39.423741,-76.299107
+12,Harford,0120,Deerfield Elementary,240039000686,2018,3,57,30,NA,NA,2307 Willoughby Beach Rd,Edgewood,39.42262,-76.29071
+12,Harford,0121,Emmorton Elementary,240039000485,2018,5,76,86,NA,NA,2502 Tollgate Rd,Bel Air,39.486605,-76.329138
+12,Harford,0123,Abingdon Elementary,240039000162,2018,4,73,80,NA,NA,399 Singer Rd,Abingdon,39.477149,-76.325399
+12,Harford,0125,Church Creek Elementary,240039000468,2018,3,58,33,NA,NA,4299 Church Creek Rd,Belcamp,39.475398,-76.248287
+12,Harford,0131,Magnolia Elementary,240039000706,2018,3,50,18,NA,NA,901 Trimble Rd,Joppa,39.411042,-76.331828
+12,Harford,0137,Joppatowne Elementary,240039000704,2018,4,61,39,NA,NA,407 Trimble Rd,Joppa,39.420619,-76.361897
+12,Harford,0140,William Paca/Old Post Road Elementary,240039000716,2018,3,57,29,NA,NA,2706 Old Philadelphia Rd,Abingdon,39.449705,-76.29741
+12,Harford,0143,Riverside Elementary,240039000713,2018,3,55,27,NA,NA,211 Stillmeadow Dr,Joppa,39.401116,-76.33802
+12,Harford,0176,Edgewood High,240039000690,2018,3,51,NA,NA,33,2415 Willoughby Beach Rd,Edgewood,39.423364,-76.286196
+12,Harford,0177,Edgewood Middle,240039000689,2018,3,48,NA,27,NA,2311 Willoughby Beach Rd,Edgewood,39.422316,-76.288609
+12,Harford,0181,Joppatowne High,240039000705,2018,3,53,NA,NA,36,555 Joppa Farm Rd,Joppa,39.414318,-76.351618
+12,Harford,0184,Magnolia Middle,240039001352,2018,3,45,NA,21,NA,299 Fort Hoyle Rd,Joppa,39.407985,-76.330186
+12,Harford,0187,Patterson Mill High School,240039001638,2018,5,80,NA,NA,91,85 Patterson Mill Rd,Bel Air,39.507232,-76.3231
+12,Harford,0188,Patterson Mill Middle School,240039001642,2018,4,69,NA,80,NA,85 Patterson Mill Rd,Bel Air,39.507207,-76.322988
+12,Harford,0211,G. Lisby Elementary at Hillsdale,240039000700,2018,3,46,14,NA,NA,810 Edmund St,Aberdeen,39.503745,-76.17988
+12,Harford,0212,Bakerfield Elementary,240039000680,2018,4,66,58,NA,NA,36 Baker St,Aberdeen,39.513444,-76.170728
+12,Harford,0230,Halls Cross Roads Elementary,240039000693,2018,3,53,23,NA,NA,203 E Bel Air Ave,Aberdeen,39.505626,-76.154952
+12,Harford,0265,Aberdeen Middle,240039000678,2018,2,44,NA,19,NA,111 Mount Royal Ave,Aberdeen,39.515535,-76.164804
+12,Harford,0270,Aberdeen High,240039000679,2018,3,59,NA,NA,44,251 Paradise Rd,Aberdeen,39.516307,-76.171125
+12,Harford,0292,Center for Educational Opportunity,240039000480,2018,1,20,NA,NA,1,253 Paradise Rd,Aberdeen,39.518061,-76.169797
+12,Harford,0304,Harford Technical High,240039000694,2018,5,84,NA,NA,95,200 Thomas Run Rd,Bel Air,39.559172,-76.287528
+12,Harford,0314,Bel Air Elementary,240039000681,2018,4,73,78,NA,NA,30 E Lee St,Bel Air,39.538921,-76.350321
+12,Harford,0316,Churchville Elementary,240039000684,2018,5,76,85,NA,NA,2935 Level Rd,Churchville,39.561211,-76.245204
+12,Harford,0326,Forest Hill Elementary,240039002948,2018,4,68,62,NA,NA,2407 Rocks Rd,Forest Hill,39.586332,-76.385983
+12,Harford,0327,Fountain Green Elementary,240039000394,2018,4,73,79,NA,NA,517 Fountain Green Rd,Bel Air,39.540963,-76.304502
+12,Harford,0328,Forest Lakes Elementary,240039000692,2018,4,67,59,NA,NA,100 Osborne Pkwy,Forest Hill,39.568984,-76.384816
+12,Harford,0329,Prospect Mill Elementary,240039000712,2018,4,72,77,NA,NA,101 Prospect Mill Rd,Bel Air,39.556394,-76.29249
+12,Harford,0333,Hickory Elementary,240039000698,2018,4,70,68,NA,NA,2100 Conowingo Rd,Bel Air,39.578752,-76.348763
+12,Harford,0335,Homestead/Wakefield Elementary,240039000701,2018,5,76,85,NA,NA,900 S Main St,Bel Air,39.524886,-76.341265
+12,Harford,0345,Ring Factory Elementary,240039090447,2018,4,69,64,NA,NA,1400 Emmorton Rd,Bel Air,39.513933,-76.331738
+12,Harford,0348,Youths Benefit Elementary,240039000717,2018,4,73,78,NA,NA,1901 Fallston Rd,Fallston,39.530845,-76.439778
+12,Harford,0349,Red Pump Elementary School,240039001698,2018,4,74,82,NA,NA,600 Red Pump Road,Bel Air,39.544792,-76.385821000000007
+12,Harford,0372,Bel Air Middle,240039001397,2018,4,63,NA,68,NA,99 Idlewild Street,Bel Air,39.527429,-76.344467
+12,Harford,0373,Bel Air High,240039000683,2018,5,77,NA,NA,86,100 Heighe St,Bel Air,39.529993,-76.346462
+12,Harford,0374,Southampton Middle,240039000682,2018,4,63,NA,65,NA,1200 Moores Mill Rd,Bel Air,39.546603,-76.333044
+12,Harford,0382,Fallston High,240039000691,2018,5,81,NA,NA,92,2301 Carrs Mill Rd,Fallston,39.524628,-76.412685
+12,Harford,0385,C. Milton Wright High,240039001380,2018,5,77,NA,NA,85,1301 N Fountain Green Rd,Bel Air,39.561491,-76.330022
+12,Harford,0386,Fallston Middle School,240039090475,2018,4,66,NA,74,NA,2303 Carrs Mill Rd,Fallston,39.522057,-76.413236
+12,Harford,0436,Jarrettsville Elementary,240039000702,2018,5,82,95,NA,NA,3818 Norrisville Rd,Jarrettsville,39.602314,-76.486381
+12,Harford,0441,Norrisville Elementary,240039000708,2018,4,62,45,NA,NA,5302 Norrisville Rd,White Hall,39.700149,-76.533815
+12,Harford,0447,North Bend Elementary,240039090476,2018,4,69,67,NA,NA,1445 N Bend Rd,Jarrettsville,39.632137,-76.459188
+12,Harford,0518,Darlington Elementary,240039000685,2018,4,69,65,NA,NA,2119 Shuresville Rd,Darlington,39.637105,-76.201006
+12,Harford,0522,Dublin Elementary,240039000687,2018,4,70,69,NA,NA,1527 Whiteford Rd,Street,39.648687,-76.266025
+12,Harford,0544,North Harford Elementary,240039001443,2018,4,70,69,NA,NA,120 Pylesville Rd,Pylesville,39.677072,-76.403453
+12,Harford,0580,North Harford High,240039000710,2018,5,76,NA,NA,83,211 Pylesville Rd,Pylesville,39.675955,-76.400342
+12,Harford,0583,North Harford Middle,240039000709,2018,4,66,NA,73,NA,112 Pylesville Rd,Pylesville,39.675381,-76.406051
+12,Harford,0632,Havre de Grace Elementary,240039000695,2018,4,65,55,NA,NA,600 Juniata St,Havre De Grace,39.541999,-76.097184
+12,Harford,0638,Meadowvale Elementary,240039000707,2018,4,70,68,NA,NA,910 Grace View Dr,Havre De Grace,39.562978,-76.10643
+12,Harford,0639,Roye-Williams Elementary,240039000711,2018,3,57,30,NA,NA,201 Oakington Rd,Havre De Grace,39.521577,-76.135174
+12,Harford,0678,Havre de Grace High,240039000697,2018,4,64,NA,NA,59,700 Congress Ave,Havre de Grace,39.547959,-76.095818
+12,Harford,0679,Havre de Grace Middle,240039000696,2018,3,57,NA,50,NA,401 Lewis Ln,Havre de Grace,39.54435,-76.10189
+13,Howard,0080,Homewood School,240042001189,2018,1,28,NA,4,3,10914 Clarksville Pike,Ellicott City,39.235462,-76.889608
+13,Howard,0101,Elkridge Elementary,240042000728,2018,4,66,56,NA,NA,7075 Montgomery Rd,Elkridge,39.208414,-76.719413
+13,Howard,0103,Deep Run Elementary,240042090448,2018,4,64,49,NA,NA,6925 Old Waterloo Rd,Elkridge,39.184725,-76.786822
+13,Howard,0104,Mayfield Woods Middle,240042090477,2018,4,65,NA,72,NA,7950 Redbarn Way,Elkridge,39.197633,-76.786292
+13,Howard,0105,Rockburn Elementary,240042000396,2018,5,76,85,NA,NA,6145 Montgomery Rd,Elkridge,39.214867,-76.768775
+13,Howard,0106,Elkridge Landing Middle,240042000633,2018,4,72,NA,85,NA,7085 Montgomery Rd,Elkridge,39.212287,-76.72912
+13,Howard,0107,Ilchester Elementary,240042000813,2018,5,79,92,NA,NA,4981 Ilchester Rd,Ellicott City,39.231207,-76.77396
+13,Howard,0108,Bonnie Branch Middle,240042001172,2018,4,68,NA,79,NA,4979 Ilchester Rd,Ellicott City,39.232336,-76.772839
+13,Howard,0109,Ducketts Lane,240042001717,2018,4,66,59,NA,NA,6501 Ducketts Ln,Elkridge,39.201465,-76.745847
+13,Howard,0110,Thomas Viaduct,240042001720,2018,4,63,NA,67,NA,7000 Banbury Drive,Hanover,39.185232,-76.735434
+13,Howard,0202,Ellicott Mills Middle,240042001444,2018,5,77,NA,94,NA,4445 Montgomery Rd,Ellicott City,39.249855,-76.810297
+13,Howard,0203,Howard High,240042000738,2018,5,75,NA,NA,81,8700 Old Annapolis Rd,Ellicott City,39.226497,-76.812751
+13,Howard,0204,St. Johns Lane Elementary,240042000753,2018,4,72,74,NA,NA,2960 Saint Johns Ln,Ellicott City,39.290669,-76.833716
+13,Howard,0207,Mount Hebron High,240042000743,2018,5,75,NA,NA,81,9440 Old Frederick Road,Ellicott City,39.299347,-76.84016
+13,Howard,0208,Northfield Elementary,240042000744,2018,4,71,71,NA,NA,9125 Northfield Rd,Ellicott City,39.255827,-76.83041
+13,Howard,0209,Patapsco Middle,240042000748,2018,4,70,NA,83,NA,8885 Old Frederick Rd,Ellicott City,39.298023,-76.817126
+13,Howard,0210,Centennial Lane Elementary,240042000723,2018,5,81,94,NA,NA,3825 Centennial Ln,Ellicott City,39.266173,-76.861644
+13,Howard,0211,Dunloggin Middle,240042000727,2018,4,72,NA,87,NA,9129 Northfield Rd,Ellicott City,39.256531,-76.832186
+13,Howard,0213,Worthington Elementary,240042000764,2018,5,77,87,NA,NA,4570 Roundhill Rd,Ellicott City,39.244814,-76.795366
+13,Howard,0214,Centennial High,240042000722,2018,5,85,NA,NA,96,4300 Centennial Ln,Ellicott City,39.252957,-76.868643
+13,Howard,0215,Waverly Elementary,240042090449,2018,5,84,97,NA,NA,10220 Wetherburn Rd,Ellicott City,39.304904,-76.868586
+13,Howard,0216,Burleigh Manor Middle School,240042000173,2018,5,84,NA,98,NA,4200 Centennial Lane,Ellicott City,39.255227,-76.867435
+13,Howard,0217,Hollifield Station Elementary,240042000856,2018,4,70,70,NA,NA,8701 Stonehouse Dr,Ellicott City,39.302544,-76.817653
+13,Howard,0218,Bellows Spring Elementary,240042001551,2018,5,79,90,NA,NA,8125 Old Stockbridge Dr,Ellicott City,39.204135,-76.786502
+13,Howard,0219,Veterans Elementary,240042001646,2018,5,75,83,NA,NA,4355 Montgomery Road,Ellicott City,39.250201,-76.810853
+13,Howard,0302,West Friendship Elementary,240042000760,2018,5,83,97,NA,NA,12500 Frederick Road,West Friendship,39.30166,-76.945887
+13,Howard,0304,Mount View Middle,240042000403,2018,5,85,NA,99,NA,12101 Woodford Dr,Marriottsville,39.320962,-76.936897
+13,Howard,0305,Manor Woods Elementary,240042000488,2018,5,80,93,NA,NA,11575 Frederick Rd,Ellicott City,39.29002,-76.913816
+13,Howard,0306,Triadelphia Ridge Elementary,240042001026,2018,5,80,93,NA,NA,13400 Triadelphia Rd,Ellicott City,39.266308,-76.979584
+13,Howard,0307,Folly Quarter Middle,240042001552,2018,5,84,NA,98,NA,13500 Triadelphia Rd,Ellicott City,39.26629,-76.983783
+13,Howard,0308,Marriotts Ridge High,240042001437,2018,5,87,NA,NA,98,12100 Woodford Dr,Marriottsville,39.321896,-76.934407
+13,Howard,0404,Glenelg High,240042000731,2018,5,85,NA,NA,96,14025 Burnt Woods Rd,Glenelg,39.275159,-77.002057
+13,Howard,0405,Glenwood Middle,240042000732,2018,4,73,NA,89,NA,2680 Rt 97,Glenwood,39.297467,-77.024161
+13,Howard,0406,Bushy Park Elementary,240042000721,2018,5,79,91,NA,NA,14601 Carrs Mill Rd,Glenwood,39.301607,-77.022344
+13,Howard,0407,Lisbon Elementary,240042000741,2018,5,78,90,NA,NA,15901 Frederick Rd,Woodbine,39.333643,-77.069127
+13,Howard,0505,Clarksville Elementary,240042000724,2018,5,88,99,NA,NA,12041 Clarksville Pike,Clarksville,39.218653,-76.929085
+13,Howard,0509,Atholton High,240042000719,2018,5,77,NA,NA,85,6520 Freetown Rd,Columbia,39.188151,-76.88064
+13,Howard,0510,Bryant Woods Elementary,240042000720,2018,4,67,60,NA,NA,5450 Blue Heron Ln,Columbia,39.221111,-76.86731
+13,Howard,0512,Wilde Lake Middle,240042000763,2018,3,55,NA,46,NA,10481 Cross Fox Ln,Columbia,39.218015,-76.876537
+13,Howard,0514,Longfellow Elementary,240042000742,2018,4,62,44,NA,NA,5470 Hesperus Dr,Columbia,39.226545,-76.881691
+13,Howard,0515,Running Brook Elementary,240042000751,2018,4,65,53,NA,NA,5215 W Running Brook Rd,Columbia,39.228855,-76.857561
+13,Howard,0516,Wilde Lake High,240042000762,2018,4,61,NA,NA,51,5460 Trumpeter Rd,Columbia,39.217236,-76.872855
+13,Howard,0517,Swansfield Elementary,240042000755,2018,3,58,32,NA,NA,5610 Cedar Ln,Columbia,39.216867,-76.888649
+13,Howard,0518,Harpers Choice Middle,240042000737,2018,3,57,NA,50,NA,5450 Beaverkill Rd,Columbia,39.22469,-76.887779
+13,Howard,0520,Clemens Crossing Elementary,240042001382,2018,4,74,82,NA,NA,10320 Quarterstaff Rd,Columbia,39.194189,-76.87305
+13,Howard,0521,Clarksville Middle,240042000725,2018,5,83,NA,97,NA,6535 S Trotter Rd,Clarksville,39.190312,-76.924125
+13,Howard,0523,Pointers Run Elementary,240042090478,2018,5,83,97,NA,NA,6600 South Trotter Rd,Clarksville,39.190893,-76.926264
+13,Howard,0524,River Hill High,240042000816,2018,5,88,NA,NA,99,12101 Clarksville Pike,Clarksville,39.215301,-76.92884
+13,Howard,0525,Fulton Elementary,240042000859,2018,5,85,98,NA,NA,11600 Scaggsville Rd,Fulton,39.151072,-76.915852
+13,Howard,0526,Lime Kiln Middle,240042001115,2018,5,82,NA,97,NA,11650 Scaggsville Rd,Fulton,39.154527,-76.915664
+13,Howard,0527,Reservoir High,240042001200,2018,4,69,NA,NA,69,11550 Scaggsville Rd,Fulton,39.151762,-76.913176000000007
+13,Howard,0528,Dayton Oaks,240042001539,2018,5,81,94,NA,NA,4691 Ten Oaks Rd,Dayton,39.240976,-76.984164
+13,Howard,0602,Guilford Elementary,240042000733,2018,4,66,57,NA,NA,7335 Oakland Mills Rd,Columbia,39.169404,-76.829793
+13,Howard,0603,Atholton Elementary,240042000718,2018,4,71,73,NA,NA,6700 Seneca Dr,Columbia,39.185869,-76.863178
+13,Howard,0604,Waterloo Elementary,240042000758,2018,4,73,79,NA,NA,5940 Waterloo Rd,Columbia,39.207261,-76.797847
+13,Howard,0605,Thunder Hill Elementary,240042000757,2018,5,77,87,NA,NA,9357 Mellenbrook Rd,Columbia,39.228992,-76.834528
+13,Howard,0606,Hammond Elementary,240042000734,2018,4,70,69,NA,NA,8110 Aladdin Dr,Laurel,39.147981,-76.878511
+13,Howard,0607,Hammond Middle School,240042000736,2018,5,75,NA,91,NA,8100 Aladdin Dr,Laurel,39.148463,-76.87887
+13,Howard,0608,Stevens Forest Elementary,240042000754,2018,4,69,64,NA,NA,6045 Stevens Forest Rd,Columbia,39.204839,-76.845225
+13,Howard,0609,Talbott Springs Elementary,240042000756,2018,4,71,72,NA,NA,9550 Basket Ring Rd,Columbia,39.213045,-76.843539
+13,Howard,0610,Oakland Mills Middle,240042000746,2018,3,58,NA,54,NA,9540 Kilimanjaro Rd,Columbia,39.207452,-76.843517
+13,Howard,0611,Oakland Mills High,240042000745,2018,3,57,NA,NA,41,9410 Kilimanjaro Rd,Columbia,39.208734,-76.839081
+13,Howard,0612,Phelps Luck Elementary,240042000749,2018,4,67,60,NA,NA,5370 Oldstone Ct,Columbia,39.222183,-76.818295
+13,Howard,0613,Jeffers Hill Elementary,240042000740,2018,4,69,64,NA,NA,6001 Tamar Dr,Columbia,39.20543,-76.826349
+13,Howard,0616,Cradlerock Elementary,240042001699,2018,3,55,26,NA,NA,6700 Cradlerock Way,Columbia,39.19208,-76.842802
+13,Howard,0617,Lake Elkhorn Middle,240042001700,2018,4,60,NA,60,NA,6680 Cradlerock Way,Columbia,39.19139,-76.843401
+13,Howard,0618,Laurel Woods Elementary,240042000761,2018,4,66,55,NA,NA,9250 N Laurel Rd,Laurel,39.117619,-76.842041
+13,Howard,0619,Hammond High,240042000735,2018,4,66,NA,NA,62,8800 Guilford Rd,Columbia,39.167689,-76.860457
+13,Howard,0620,Bollman Bridge Elementary,240042001507,2018,4,67,61,NA,NA,8200 Savage-Guilford Road,Jessup,39.145925,-76.828115
+13,Howard,0621,Patuxent Valley Middle,240042001522,2018,4,67,NA,75,NA,9151 Vollmerhausen Rd,Jessup,39.146907,-76.828327
+13,Howard,0622,Forest Ridge Elementary,240042000177,2018,4,74,81,NA,NA,9550 Gorman Rd,Laurel,39.135139,-76.840112
+13,Howard,0623,Long Reach High,240042000822,2018,4,63,NA,NA,57,6101 Old Dobbin Ln,Columbia,39.205265,-76.811285
+13,Howard,0624,Murray Hill Middle,240042000860,2018,4,64,NA,68,NA,9989 Winter Sun Rd,Laurel,39.145303,-76.857712
+13,Howard,0625,Gorman Crossing Elementary,240042001032,2018,4,72,76,NA,NA,9999 Winter Sun Rd,Laurel,39.14517,-76.859715
+14,Kent,0105,Galena Elementary School,240045001695,2018,4,61,41,NA,NA,114 S Main Street,Galena,39.338528,-75.878098
+14,Kent,0301,Kent County High,240045000768,2018,4,63,NA,NA,56,25301 Lambs Meadow Rd,Worton,39.285329,-76.091684
+14,Kent,0402,Kent County Middle School,240045000766,2018,3,48,NA,27,NA,402 E Campus Avenue,Chestertown,39.217895,-76.062069
+14,Kent,0403,H. H. Garnett Elementary,240045000765,2018,4,68,63,NA,NA,320 Calvert St,Chestertown,39.213134,-76.070194
+14,Kent,0504,Rock Hall Elementary,240045000770,2018,4,60,36,NA,NA,21203 Sharp St,Rock Hall,39.13503,-76.237491
+15,Montgomery,0051,Laytonsville Elementary,240048000864,2018,4,74,80,NA,NA,21401 Laytonsville Rd,Gaithersburg,39.206903,-77.140484
+15,Montgomery,0100,Clopper Mill Elementary,240048001494,2018,4,60,36,NA,NA,18501 Cinnamon Dr,Germantown,39.158036,-77.265514
+15,Montgomery,0101,Clarksburg Elementary,240048000804,2018,4,73,77,NA,NA,13530 Redgrave Pl,Clarksburg,39.236483,-77.281337
+15,Montgomery,0102,Germantown Elementary,240048000843,2018,5,75,84,NA,NA,19110 Liberty Mill Rd,Germantown,39.169983,-77.2766
+15,Montgomery,0104,Seneca Valley High,240048000918,2018,3,59,NA,NA,44,19401 Crystal Rock Dr,Germantown,39.175208,-77.26422
+15,Montgomery,0105,Ridgeview Middle,240048000903,2018,4,60,NA,58,NA,16600 Raven Rock Dr,Gaithersburg,39.127714,-77.249307
+15,Montgomery,0106,Fox Chapel Elementary,240048000834,2018,4,72,77,NA,NA,19315 Archdale Rd,Germantown,39.172213,-77.242078
+15,Montgomery,0107,Martin Luther King Jr. Middle,240048001417,2018,3,54,NA,42,NA,13737 Wisteria Dr,Germantown,39.180825,-77.285121
+15,Montgomery,0108,Lake Seneca Elementary,240048001448,2018,4,62,43,NA,NA,13600 Wanegarden Dr,Germantown,39.183247,-77.283242
+15,Montgomery,0109,Waters Landing Elementary,240048001508,2018,4,68,62,NA,NA,13100 Waters Landing Dr,Germantown,39.188574,-77.268633
+15,Montgomery,0110,S. Christa McAuliffe Elementary,240048010502,2018,4,64,50,NA,NA,12500 Wisteria Dr,Germantown,39.167572,-77.261099
+15,Montgomery,0111,Captain James E. Daly Elementary,240048001523,2018,4,63,46,NA,NA,20301 Brandermill Dr,Germantown,39.189509,-77.232452
+15,Montgomery,0115,Neelsville Middle,240048000759,2018,3,47,NA,26,NA,11700 Neelsville Church Rd,Germantown,39.19417,-77.240681
+15,Montgomery,0125,Quince Orchard High,240048001509,2018,4,66,NA,NA,61,15800 Quince Orchard Rd,Gaithersburg,39.115976,-77.25441
+15,Montgomery,0152,Poolesville High,240048000897,2018,5,80,NA,NA,90,17501 Willard Rd,Poolesville,39.143181,-77.418371
+15,Montgomery,0153,Poolesville Elementary,240048000896,2018,5,79,92,NA,NA,19565 Fisher Ave,Poolesville,39.144081,-77.407206
+15,Montgomery,0155,Rosa M. Parks Middle,240048000181,2018,4,66,NA,74,NA,19200 Olney Mill Rd,Olney,39.17188,-77.081296
+15,Montgomery,0156,Lois P. Rockwell Elementary,240048000185,2018,5,78,88,NA,NA,24555 Cutsail Dr,Damascus,39.256414,-77.214127
+15,Montgomery,0157,Roberto W. Clemente Middle,240048000493,2018,3,58,NA,53,NA,18808 Waring Station Rd,Germantown,39.165745,-77.248045
+15,Montgomery,0158,Ronald A. McNair Elementary,240048090455,2018,5,76,85,NA,NA,13881 Hopkins Rd,Germantown,39.16984,-77.290488
+15,Montgomery,0159,Rachel Carson Elementary,240048090454,2018,4,71,71,NA,NA,100 Tschiffely Square Rd,Gaithersburg,39.116959,-77.246576
+15,Montgomery,0201,Richard Montgomery High,240048000902,2018,4,63,NA,NA,56,250 Richard Montgomery Dr,Rockville,39.077556,-77.145512
+15,Montgomery,0204,Garrett Park Elementary,240048000840,2018,4,67,60,NA,NA,4810 Oxford Street,Kensington,39.032849,-77.096676
+15,Montgomery,0206,Twinbrook Elementary,240048000939,2018,4,64,50,NA,NA,5911 Ridgeway Ave,Rockville,39.068578,-77.120019
+15,Montgomery,0207,Beall Elementary,240048000947,2018,4,72,76,NA,NA,451 Beall Ave,Rockville,39.087839,-77.161648
+15,Montgomery,0209,Lakewood Elementary,240048000862,2018,5,79,90,NA,NA,2534 Lindley Terrace,Rockville,39.087811,-77.193712
+15,Montgomery,0210,Maryvale Elementary,240048000872,2018,4,71,70,NA,NA,1000 First St,Rockville,39.091346,-77.136826
+15,Montgomery,0211,Julius West Middle,240048000857,2018,4,69,NA,80,NA,651 Great Falls Rd,Rockville,39.076945,-77.16396
+15,Montgomery,0212,Meadow Hall Elementary,240048000874,2018,4,66,57,NA,NA,951 Twinbrook Pkwy,Rockville,39.084438,-77.116459
+15,Montgomery,0215,Carl Sandburg Center,240048000799,2018,2,37,5,NA,NA,451 Meadow Hall Dr,Rockville,39.076415,-77.109953
+15,Montgomery,0216,Travilah Elementary,240048000937,2018,5,87,98,NA,NA,13801 Dufief Mill Rd,North Potomac,39.08247,-77.248669
+15,Montgomery,0219,Farmland Elementary,240048000828,2018,5,82,95,NA,NA,7000 Old Gate Road,Rockville,39.047145,-77.145273
+15,Montgomery,0220,Luxmanor Elementary,240048000869,2018,5,79,92,NA,NA,6201 Tilden Ln,Rockville,39.044761,-77.126886
+15,Montgomery,0226,Beverly Farms Elementary,240048000786,2018,5,76,84,NA,NA,8501 Post Oak Road,Potomac,39.052116,-77.176293
+15,Montgomery,0227,Ritchie Park Elementary,240048000904,2018,4,68,63,NA,NA,1514 Dunster Rd,Rockville,39.062944,-77.1744
+15,Montgomery,0228,Herbert Hoover Middle,240048000849,2018,5,83,NA,97,NA,8810 Post Oak Rd,Potomac,39.044773,-77.178739
+15,Montgomery,0229,College Gardens Elementary,240048000810,2018,4,71,71,NA,NA,1700 Yale Place,Rockville,39.10245,-77.162721
+15,Montgomery,0230,Rockville High,240048000912,2018,4,66,NA,NA,63,2100 Baltimore Rd,Rockville,39.08663,-77.118597
+15,Montgomery,0232,Tilden Middle School,240048001450,2018,4,74,NA,89,NA,11211 Old Georgetown Rd,Rockville,39.038103,-77.122224
+15,Montgomery,0233,Fallsmead Elementary,240048000827,2018,5,79,91,NA,NA,1800 Greenplace Ter,Rockville,39.077951,-77.176489
+15,Montgomery,0234,Thomas S. Wootton High,240048000934,2018,5,82,NA,NA,93,2100 Wootton Pkwy,Rockville,39.076714,-77.183144
+15,Montgomery,0235,Wayside Elementary,240048000945,2018,5,88,99,NA,NA,5701 Grosvenor Lane,Bethesda,39.023406,-77.114101
+15,Montgomery,0237,Robert Frost Middle School,240048001447,2018,4,74,NA,89,NA,9201 Scott Dr,Rockville,39.075957,-77.187405
+15,Montgomery,0238,Cold Spring Elementary,240048000809,2018,5,88,99,NA,NA,9201 Falls Chapel Way,Potomac,39.059103,-77.188489
+15,Montgomery,0239,Alternative Programs,240048001451,2018,1,21,NA,NA,3,14501 Avery Road,Rockville,39.095067,-77.12243
+15,Montgomery,0241,DuFief Elementary,240048000819,2018,4,69,66,NA,NA,15001 Dufief Dr,Gaithersburg,39.101836,-77.237583
+15,Montgomery,0242,Dr. Sally K. Ride Elementary,240048000191,2018,4,64,49,NA,NA,21301 Seneca Crossing Dr,Germantown,39.206783,-77.237192
+15,Montgomery,0244,Thurgood Marshall Elementary,240048000404,2018,4,71,72,NA,NA,12260 Mcdonald Chapel Dr,Gaithersburg,39.126275,-77.25998
+15,Montgomery,0246,Northwest High,240048001040,2018,4,67,NA,NA,65,13501 Richter Farm Rd,Germantown,39.151843,-77.279489
+15,Montgomery,0247,John H. Poole Middle,240048000861,2018,4,65,NA,71,NA,17014 Tom Fox Ave,Poolesville,39.125795,-77.410531
+15,Montgomery,0248,Forest Oak Middle,240048000644,2018,3,47,NA,25,NA,651 Saybrooke Oaks Blvd,Gaithersburg,39.153853,-77.184878
+15,Montgomery,0249,Clarksburg High,240048001541,2018,4,64,NA,NA,58,22500 Wims Rd,Clarksburg,39.225848,-77.266097
+15,Montgomery,0302,Burtonsville Elementary,240048000794,2018,4,71,73,NA,NA,15516 Old Columbia Pike,Burtonsville,39.111348,-76.936545
+15,Montgomery,0303,Fairland Elementary,240048000826,2018,3,59,34,NA,NA,14315 Fairdale Rd,Silver Spring,39.090634,-76.956539
+15,Montgomery,0304,JoAnn Leleck at Broad Acres Elementary,240048000788,2018,4,72,74,NA,NA,710 Beacon Rd,Silver Spring,39.009299,-76.985275
+15,Montgomery,0305,Jackson Road Elementary,240048000854,2018,4,69,67,NA,NA,900 Jackson Rd,Silver Spring,39.05643,-76.991693
+15,Montgomery,0308,Cloverly Elementary,240048001524,2018,5,77,87,NA,NA,800 Briggs Chaney Rd,Silver Spring,39.107728,-76.994254
+15,Montgomery,0309,Burnt Mills Elementary,240048090452,2018,4,72,74,NA,NA,11211 Childs St,Silver Spring,39.039511,-77.001405
+15,Montgomery,0310,Cannon Road Elementary,240048000797,2018,4,69,66,NA,NA,901 Cannon Road,Silver Spring,39.068694,-76.994123
+15,Montgomery,0311,Francis Scott Key Middle,240048090453,2018,3,55,NA,46,NA,910 Schindler Drive,Silver Spring,39.027714,-76.992276
+15,Montgomery,0312,William Tyler Page Elementary,240048000955,2018,4,69,65,NA,NA,13400 Tamarack Rd,Silver Spring,39.07486,-76.983656
+15,Montgomery,0313,Galway Elementary,240048000839,2018,4,72,75,NA,NA,12612 Galway Dr,Silver Spring,39.063949,-76.945715
+15,Montgomery,0315,Paint Branch High,240048000890,2018,4,67,NA,NA,66,14121 Old Columbia Pike,Burtonsville,39.088385,-76.946554
+15,Montgomery,0316,Stonegate Elementary,240048000929,2018,4,72,75,NA,NA,14811 Notley Rd,Silver Spring,39.099325,-77.01576
+15,Montgomery,0321,James Hubert Blake High,240048001044,2018,4,60,NA,NA,46,300 Norwood Rd,Silver Spring,39.113539,-77.017776
+15,Montgomery,0333,Benjamin Banneker Middle,240048000783,2018,3,56,NA,48,NA,14800 Perrywood Dr,Burtonsville,39.096092,-76.948113
+15,Montgomery,0334,Greencastle Elementary,240048001510,2018,4,66,57,NA,NA,13611 Robey Rd,Silver Spring,39.080611,-76.941692
+15,Montgomery,0335,Briggs Chaney Middle,240048090450,2018,3,58,NA,53,NA,1901 Rainbow Dr,Silver Spring,39.109648,-76.971094
+15,Montgomery,0336,Little Bennett Elementary,240048001543,2018,5,79,91,NA,NA,23930 Burdette Forest Rd,Clarksburg,39.24624,-77.275568
+15,Montgomery,0337,"William B. Gibbs, Jr. Elementary",240048001673,2018,4,74,81,NA,NA,12615 Royal Crown Drive,Germantown,39.205507,-77.260169
+15,Montgomery,0340,Great Seneca Creek Elementary,240048001567,2018,4,65,53,NA,NA,13010 Dairymaid Dr,Germantown,39.152476,-77.269316
+15,Montgomery,0341,Wilson Wims Elementary School,240048001721,2018,4,70,67,NA,NA,12520 Blue Sky Drive,Clarksburg,39.237159,-77.26138
+15,Montgomery,0345,Hallie Wells Middle School,240048001739,2018,4,69,NA,81,NA,11701 Little Seneca Parkway,Clarksburg,39.232362,-77.239286
+15,Montgomery,0351,Darnestown Elementary,240048000817,2018,4,72,76,NA,NA,15030 Turkey Foot Rd,Gaithersburg,39.10249,-77.284755
+15,Montgomery,0360,Jones Lane Elementary,240048010503,2018,4,66,55,NA,NA,15110 Jones Ln,Gaithersburg,39.103342,-77.266029
+15,Montgomery,0401,Bethesda Elementary,240048000785,2018,5,77,87,NA,NA,7600 Arlington Rd,Bethesda,38.986693,-77.099887
+15,Montgomery,0403,Chevy Chase Elementary,240048000803,2018,5,78,89,NA,NA,4015 Rosemary St,Chevy Chase,38.978634,-77.080287
+15,Montgomery,0405,Somerset Elementary,240048000923,2018,5,75,84,NA,NA,5811 Warwick Pl,Chevy Chase,38.968877,-77.092332
+15,Montgomery,0406,Bethesda-Chevy Chase High,240048000784,2018,4,73,NA,NA,77,4301 East-West Hwy,Bethesda,38.986695,-77.088979
+15,Montgomery,0408,Westbrook Elementary,240048000948,2018,5,88,98,NA,NA,5110 Allan Ter,Bethesda,38.958424,-77.102834
+15,Montgomery,0410,Bradley Hills Elementary,240048000787,2018,5,78,89,NA,NA,8701 Hartsdale Ave,Bethesda,38.999602,-77.118221
+15,Montgomery,0412,Westland Middle,240048000949,2018,5,75,NA,90,NA,5511 Massachusetts Ave,Bethesda,38.960428,-77.109348
+15,Montgomery,0413,North Bethesda Middle,240048001118,2018,5,77,NA,94,NA,8935 Bradmoor Dr,Bethesda,39.0042,-77.12485
+15,Montgomery,0415,North Chevy Chase Elementary,240048001452,2018,5,83,97,NA,NA,3700 Jones Bridge Rd,Chevy Chase,38.998925,-77.073463
+15,Montgomery,0417,Wood Acres Elementary,240048000958,2018,5,80,93,NA,NA,5800 Cromwell Drive,Bethesda,38.96761,-77.118694
+15,Montgomery,0419,Burning Tree Elementary,240048000793,2018,5,81,94,NA,NA,7900 Beech Tree Rd,Bethesda,38.990096,-77.143074
+15,Montgomery,0420,Bannockburn Elementary,240048000779,2018,5,89,99,NA,NA,6520 Dalroy Ln,Bethesda,38.974408,-77.137838
+15,Montgomery,0422,Wyngate Elementary,240048000963,2018,5,82,95,NA,NA,9300 Wadsworth Dr,Bethesda,39.009643,-77.128361
+15,Montgomery,0424,Walter Johnson High,240048000942,2018,5,76,NA,NA,82,6400 Rock Spring Dr,Bethesda,39.025939,-77.130142
+15,Montgomery,0425,Ashburton Elementary,240048000776,2018,5,76,86,NA,NA,6314 Lone Oak Dr,Bethesda,39.019481,-77.127594
+15,Montgomery,0427,Walt Whitman High,240048000941,2018,4,74,NA,NA,78,7100 Whittier Blvd,Bethesda,38.981646,-77.127755
+15,Montgomery,0428,Thomas W. Pyle Middle School,240048009000,2018,5,75,NA,91,NA,6311 Wilson Lane,Bethesda,38.989162,-77.130549
+15,Montgomery,0501,Sherwood Elementary,240048000920,2018,4,65,53,NA,NA,1401 Olney-Sandy Spring Rd,Sandy Spring,39.149479,-77.033098
+15,Montgomery,0502,Olney Elementary,240048000889,2018,5,77,88,NA,NA,3401 Queen Mary Dr,Olney,39.149264,-77.068186
+15,Montgomery,0503,Sherwood High,240048000921,2018,4,70,NA,NA,70,300 Olney-Sandy Spring Rd,Sandy Spring,39.148182,-77.018767
+15,Montgomery,0504,Westover Elementary,240048000950,2018,5,77,88,NA,NA,401 Hawkesbury Ln,Silver Spring,39.074849,-77.018003
+15,Montgomery,0505,Lucy V. Barnsley Elementary,240048000868,2018,5,75,83,NA,NA,14516 Nadine Dr,Rockville,39.094084,-77.103617
+15,Montgomery,0506,Flower Valley Elementary,240048000830,2018,4,67,61,NA,NA,4615 Sunflower Dr,Rockville,39.105748,-77.093079
+15,Montgomery,0507,William H. Farquhar Middle,240048000957,2018,4,68,NA,76,NA,17017 Batchellors Forest Rd,Olney,39.13573,-77.043111
+15,Montgomery,0508,Candlewood Elementary,240048000796,2018,4,72,75,NA,NA,7210 Osprey Drive,Rockville,39.128932,-77.146814
+15,Montgomery,0510,Col. Zadok Magruder High,240048000808,2018,3,55,NA,NA,39,5939 Muncaster Mill Rd,Rockville,39.131324,-77.118326
+15,Montgomery,0511,Cashell Elementary,240048000800,2018,4,71,72,NA,NA,17101 Cashell Rd,Rockville,39.137403,-77.085995
+15,Montgomery,0512,Greenwood Elementary,240048000846,2018,4,71,71,NA,NA,3336 Gold Mine Rd,Brookeville,39.165493,-77.06482
+15,Montgomery,0513,Belmont Elementary,240048000782,2018,5,82,95,NA,NA,19528 Olney Mill Rd,Olney,39.178577,-77.066682
+15,Montgomery,0514,Judith A. Resnik Elementary,240048090479,2018,4,71,73,NA,NA,7301 Hadley Farms Drive,Gaithersburg,39.181634,-77.151806
+15,Montgomery,0517,Sligo Creek Elementary,240048001122,2018,4,72,76,NA,NA,500 Schuyler Rd,Silver Spring,39.000482,-77.016043
+15,Montgomery,0518,Brooke Grove Elementary,240048090451,2018,4,73,80,NA,NA,2700 Spartan Rd,Olney,39.156581,-77.050626
+15,Montgomery,0521,Shady Grove Middle,240048001127,2018,3,55,NA,47,NA,8100 Midcounty Hgwy,Gaithersburg,39.143154,-77.162703
+15,Montgomery,0522,Lakelands Park Middle,240048001441,2018,4,67,NA,76,NA,1200 Main St,Gaithersburg,39.11566,-77.232494
+15,Montgomery,0523,Spark M. Matsunaga Elementary School,240048001181,2018,5,81,94,NA,NA,13902 Bromfield Rd,Germantown,39.150552,-77.293142
+15,Montgomery,0545,Watkins Mill High,240048001525,2018,3,48,NA,NA,28,10301 Apple Ridge Rd,Gaithersburg,39.183903,-77.216352
+15,Montgomery,0546,Goshen Elementary,240048001511,2018,4,72,75,NA,NA,8701 Warfield Rd,Gaithersburg,39.194286,-77.179903
+15,Montgomery,0549,Flower Hill Elementary,240048001454,2018,3,59,35,NA,NA,18425 Flower Hill Way,Gaithersburg,39.158977,-77.171204
+15,Montgomery,0551,Gaithersburg High,240048000838,2018,3,48,NA,NA,28,101 Education Blvd,Gaithersburg,39.136112,-77.194719
+15,Montgomery,0552,Washington Grove Elementary,240048000943,2018,4,70,70,NA,NA,8712 Oakmont St,Gaithersburg,39.132296,-77.177844
+15,Montgomery,0553,Gaithersburg Elementary,240048000836,2018,3,59,35,NA,NA,35 N Summit Ave,Gaithersburg,39.143786,-77.191757
+15,Montgomery,0554,Gaithersburg Middle,240048000837,2018,3,52,NA,34,NA,2 Teachers' Way,Gaithersburg,39.144001,-77.187758
+15,Montgomery,0555,Rosemont Elementary,240048000916,2018,4,66,58,NA,NA,16400 Alden Ave,Gaithersburg,39.125143,-77.185293
+15,Montgomery,0556,Mill Creek Towne Elementary,240048000875,2018,4,60,36,NA,NA,17700 Park Mill Dr,Rockville,39.146298,-77.153578
+15,Montgomery,0557,Montgomery Village Middle School,240048000879,2018,2,44,NA,20,NA,19300 Watkins Mill Rd,Montgomery Village,39.172784,-77.209305
+15,Montgomery,0558,Whetstone Elementary,240048000953,2018,3,59,35,NA,NA,19201 Thomas Farm Rd,Gaithersburg,39.17183,-77.196758
+15,Montgomery,0559,Brown Station Elementary,240048000792,2018,3,59,35,NA,NA,18100 Washington Grove Lane,Gaithersburg,39.153469,-77.16571
+15,Montgomery,0561,Watkins Mill Elementary,240048000944,2018,3,52,22,NA,NA,19001 Watkins Mill Rd,Montgomery Village,39.167083,-77.210974
+15,Montgomery,0562,Redland Middle,240048000901,2018,4,60,NA,59,NA,6505 Muncaster Mill Rd,Rockville,39.140376,-77.131906
+15,Montgomery,0563,Summit Hall Elementary,240048000931,2018,4,62,42,NA,NA,101 W Deer Park Rd,Gaithersburg,39.127227,-77.195315
+15,Montgomery,0564,South Lake Elementary,240048000924,2018,4,63,46,NA,NA,18201 Contour Rd,Gaithersburg,39.155957,-77.196973
+15,Montgomery,0565,Sequoyah Elementary,240048090456,2018,4,74,81,NA,NA,17301 Bowie Mill Rd,Derwood,39.139229,-77.1181
+15,Montgomery,0566,Fields Road Elementary,240048000829,2018,4,72,75,NA,NA,1 School Dr,Gaithersburg,39.118676,-77.21524
+15,Montgomery,0568,Stedwick Elementary,240048000927,2018,3,59,34,NA,NA,10631 Stedwick Rd,Montgomery Village,39.174201,-77.211017
+15,Montgomery,0569,Strawberry Knoll Elementary,240048001512,2018,4,65,52,NA,NA,18820 Strawberry Knoll Rd,Gaithersburg,39.165928,-77.182826
+15,Montgomery,0570,Diamond Elementary,240048000818,2018,5,85,97,NA,NA,4 Marquis Dr,Gaithersburg,39.1357,-77.239065
+15,Montgomery,0601,Potomac Elementary,240048000898,2018,5,78,88,NA,NA,10311 River Rd,Potomac,39.021848,-77.213318
+15,Montgomery,0602,Winston Churchill High,240048000956,2018,5,79,NA,NA,88,11300 Gainsborough Rd,Potomac,39.044068,-77.173033
+15,Montgomery,0603,Seven Locks Elementary,240048000919,2018,5,89,99,NA,NA,9500 Seven Locks Road,Bethesda,39.012808,-77.161662
+15,Montgomery,0604,Carderock Springs Elementary,240048000798,2018,5,83,97,NA,NA,7401 Persimmon Tree Lane,Bethesda,38.983311,-77.171786
+15,Montgomery,0606,Cabin John Middle School,240048001526,2018,4,74,NA,90,NA,10701 Gainsborough Road,Potomac,39.031334,-77.172005
+15,Montgomery,0607,Bells Mill Elementary,240048000781,2018,5,82,95,NA,NA,8225 Bells Mill Rd,Potomac,39.031879000000004,-77.168727
+15,Montgomery,0647,Silver Spring International Middle,240048001128,2018,3,58,NA,55,NA,313 Wayne Ave,Silver Spring,39.000323,-77.014882
+15,Montgomery,0652,Monocacy Elementary,240048000876,2018,4,71,72,NA,NA,18801 Barnesville Road,Dickerson,39.224294,-77.392912
+15,Montgomery,0653,Stone Mill Elementary,240048001513,2018,5,79,92,NA,NA,14323 Stonebridge View Dr,North Potomac,39.091515,-77.214555
+15,Montgomery,0701,Damascus High,240048001455,2018,4,66,NA,NA,62,25921 Ridge Rd,Damascus,39.282096,-77.210448
+15,Montgomery,0702,Damascus Elementary,240048000815,2018,4,64,51,NA,NA,10201 Bethesda Church Rd,Damascus,39.285573,-77.210983
+15,Montgomery,0703,Cedar Grove Elementary,240048000801,2018,5,77,87,NA,NA,24001 Ridge Rd,Germantown,39.249544,-77.23224
+15,Montgomery,0704,Woodfield Elementary,240048000959,2018,5,79,92,NA,NA,24200 Woodfield Rd,Gaithersburg,39.252893,-77.198031
+15,Montgomery,0705,John T. Baker Middle School,240048001456,2018,3,59,NA,56,NA,25400 Oak Dr,Damascus,39.274047,-77.218708
+15,Montgomery,0706,Clearspring Elementary,240048001514,2018,4,70,69,NA,NA,9930 Moyer Rd,Damascus,39.265991,-77.20738
+15,Montgomery,0707,Rocky Hill Middle,240048000660,2018,4,70,NA,81,NA,22401 Brick Haven Way,Clarksburg,39.222536,-77.263251
+15,Montgomery,0708,Kingsview Middle,240048000863,2018,4,63,NA,66,NA,18909 Kingsview Rd,Germantown,39.166133,-77.284722
+15,Montgomery,0747,Dr. Charles R. Drew Elementary,240048090480,2018,4,69,67,NA,NA,1200 Swingingdale Dr,Silver Spring,39.091466,-76.987357
+15,Montgomery,0749,Piney Branch Elementary,240048000894,2018,4,71,72,NA,NA,7510 Maple Ave,Takoma Park,38.982728,-77.00818
+15,Montgomery,0755,Takoma Park Middle School,240048000933,2018,4,74,NA,89,NA,7611 Piney Branch Rd,Silver Spring,38.985394,-77.012992
+15,Montgomery,0756,East Silver Spring Elementary,240048000821,2018,4,70,70,NA,NA,631 Silver Spring Ave,Silver Spring,38.992321,-77.015335
+15,Montgomery,0757,Montgomery Blair High,240048000877,2018,4,64,NA,NA,59,51 University Blvd E,Silver Spring,39.017919,-77.011501
+15,Montgomery,0761,Pine Crest Elementary,240048000893,2018,4,66,58,NA,NA,201 Woodmoor Dr,Silver Spring,39.021246,-77.005015
+15,Montgomery,0764,Woodlin Elementary,240048000961,2018,4,72,75,NA,NA,2101 Luzerne Ave,Silver Spring,39.006238,-77.047605
+15,Montgomery,0766,Oak View Elementary,240048000887,2018,4,66,58,NA,NA,400 E Wayne Ave,Silver Spring,39.004588,-77.002377
+15,Montgomery,0767,Glen Haven Elementary,240048000844,2018,3,59,36,NA,NA,10900 Inwood Ave,Silver Spring,39.034147,-77.03673
+15,Montgomery,0769,Oakland Terrace Elementary,240048000888,2018,5,81,94,NA,NA,2720 Plyers Mill Rd,Silver Spring,39.028906,-77.057733
+15,Montgomery,0770,Flora M. Singer Elementary School,240048000873,2018,4,68,62,NA,NA,2600 Hayden Drive,Silver Spring,39.018776,-77.054672
+15,Montgomery,0771,Rolling Terrace Elementary,240048000913,2018,4,63,48,NA,NA,705 Bayfield St,Takoma Park,38.995115,-76.99736
+15,Montgomery,0772,Viers Mill Elementary,240048000940,2018,4,67,61,NA,NA,11711 Joseph Mill Rd,Silver Spring,39.048459,-77.085309
+15,Montgomery,0773,Rock Creek Forest Elementary,240048000907,2018,4,72,77,NA,NA,8330 Grubb Road,Chevy Chase,38.992243,-77.050888
+15,Montgomery,0774,Highland Elementary,240048000850,2018,4,73,79,NA,NA,3100 Medway St,Silver Spring,39.051582,-77.063712
+15,Montgomery,0775,Eastern Middle School,240048001457,2018,3,56,NA,49,NA,300 University Blvd East,Silver Spring,39.01198,-77.00113
+15,Montgomery,0777,Weller Road Elementary,240048000946,2018,5,75,83,NA,NA,3301 Weller Rd,Silver Spring,39.065486,-77.066982
+15,Montgomery,0778,Sligo Middle,240048001458,2018,4,63,NA,66,NA,1401 Dennis Ave,Silver Spring,39.026568,-77.033012
+15,Montgomery,0779,Sargent Shriver Elementary,240048001537,2018,4,63,47,NA,NA,12518 Greenly Dr,Silver Spring,39.061906,-77.07889
+15,Montgomery,0782,Wheaton High,240048000951,2018,3,59,NA,NA,45,12601 Dalewood Dr,Silver Spring,39.060896,-77.066457
+15,Montgomery,0783,Kensington Parkwood Elementary,240048000892,2018,5,82,95,NA,NA,4710 Saul Rd,Kensington,39.021708,-77.094801
+15,Montgomery,0784,Highland View Elementary,240048000851,2018,4,68,63,NA,NA,9010 Providence Ave,Silver Spring,39.004311,-77.010135
+15,Montgomery,0786,Georgian Forest Elementary,240048000842,2018,3,54,24,NA,NA,3100 Regina Dr,Silver Spring,39.075675,-77.061407
+15,Montgomery,0787,A. Mario Loiederman Middle,240048001446,2018,3,54,NA,41,NA,12701 Goodhill Rd,Silver Spring,39.06519,-77.070755
+15,Montgomery,0788,Wheaton Woods Elementary,240048000952,2018,4,72,74,NA,NA,15101 Bauer Drive,Rockville,39.102738,-77.104093
+15,Montgomery,0789,Albert Einstein High,240048000773,2018,3,53,NA,NA,36,11135 Newport Mill Rd,Kensington,39.039079,-77.067288
+15,Montgomery,0790,Arcola Elementary,240048001643,2018,3,58,31,NA,NA,1820 Franwall Ave,Silver Spring,39.045559,-77.039458
+15,Montgomery,0792,Newport Mill Middle,240048001207,2018,3,54,NA,42,NA,11311 Newport Mill Rd,Kensington,39.041319,-77.067688
+15,Montgomery,0795,Rock View Elementary,240048000908,2018,3,58,33,NA,NA,3901 Denfeld Ave,Kensington,39.039407,-77.076943
+15,Montgomery,0796,Northwood High School,240048001366,2018,3,50,NA,NA,32,919 University Blvd W,Silver Spring,39.035445,-77.022889
+15,Montgomery,0797,Harmony Hills Elementary,240048000848,2018,3,56,27,NA,NA,13407 Lydia St,Silver Spring,39.076494,-77.075815
+15,Montgomery,0798,Springbrook High,240048000926,2018,4,60,NA,NA,48,201 Valleybrook Dr,Silver Spring,39.058235,-77.005672
+15,Montgomery,0803,Forest Knolls Elementary,240048000832,2018,5,76,86,NA,NA,10830 Eastwood Ave,Silver Spring,39.03329,-77.020032
+15,Montgomery,0805,Kemp Mill Elementary,240048000858,2018,4,69,67,NA,NA,411 Sisson St,Silver Spring,39.043741,-77.016691
+15,Montgomery,0807,Brookhaven Elementary,240048000789,2018,4,72,74,NA,NA,4610 Renn St,Rockville,39.082397,-77.092508
+15,Montgomery,0808,Cresthaven Elementary,240048000814,2018,4,61,40,NA,NA,1234 Cresthaven Dr,Silver Spring,39.02743,-76.987727
+15,Montgomery,0811,White Oak Middle,240048000954,2018,3,58,NA,54,NA,12201 New Hampshire Ave,Silver Spring,39.056532,-76.99561
+15,Montgomery,0812,Parkland Middle,240048000891,2018,3,58,NA,54,NA,4610 West Frankfort Dr,Rockville,39.084069,-77.091731
+15,Montgomery,0815,John F. Kennedy High,240048000855,2018,3,49,NA,NA,31,1901 Randolph Rd,Silver Spring,39.065893,-77.03869
+15,Montgomery,0817,Glenallan Elementary,240048000845,2018,4,64,49,NA,NA,12520 Heurich Rd,Silver Spring,39.061243,-77.041369
+15,Montgomery,0818,Col. E. Brooke Lee Middle,240048000806,2018,3,58,NA,56,NA,11800 Monticello Ave,Silver Spring,39.049554,-77.030479
+15,Montgomery,0819,Rock Creek Valley Elementary,240048000909,2018,4,71,73,NA,NA,5121 Russett Rd,Rockville,39.083272,-77.102834
+15,Montgomery,0820,Earle B. Wood Middle,240048000820,2018,3,57,NA,52,NA,14615 Bauer Dr,Rockville,39.093415,-77.107478
+15,Montgomery,0822,Strathmore Elementary,240048000930,2018,4,68,63,NA,NA,3200 Beaverwood Ln,Silver Spring,39.085827,-77.065406
+15,Montgomery,0823,Argyle Middle,240048000409,2018,3,50,NA,30,NA,2400 Bel Pre Rd,Silver Spring,39.089397,-77.048833
+15,Montgomery,0835,Silver Creek Middle,NA,2018,4,70,NA,82,NA,NA,NA,NA,NA
+15,Montgomery,0965,John L Gildner Regional Inst for Children & Adol,240048001398,2018,2,39,NA,7,20,15000 Broschart Rd,Rockville,39.103035,-77.201993
+16,Prince George's,0102,High Point High,240051001059,2018,2,40,NA,NA,16,3601 Powder Mill Rd,Beltsville,39.042517,-76.943553
+16,Prince George's,0104,Beltsville Academy,240051000978,2018,4,63,37,76,NA,4300 Wicomico Ave,Beltsville,39.038714,-76.918448
+16,Prince George's,0105,Calverton Elementary,240051000995,2018,3,56,28,NA,NA,3400 Beltsville Rd,Beltsville,39.055672,-76.934403
+16,Prince George's,0109,James H. Harrison Elementary,240051001069,2018,4,67,61,NA,NA,13200 Larchdale Rd,Laurel,39.072156,-76.862484
+16,Prince George's,0110,Martin Luther King Jr. Middle,240051001101,2018,3,59,NA,57,NA,4545 Ammendale Rd,Beltsville,39.054873,-76.909346
+16,Prince George's,0111,Vansville Elementary,240051001660,2018,4,62,42,NA,NA,6813 Ammendale Rd,Beltsville,39.046433,-76.887769
+16,Prince George's,0203,Judith P. Hoyer Montessori,240051000414,2018,4,68,52,86,NA,929 Hill Rd,Landover,38.90373,-76.887902
+16,Prince George's,0205,Bladensburg Elementary,240051000985,2018,4,62,45,NA,NA,4915 Annapolis Rd,Bladensburg,38.938738,-76.932329
+16,Prince George's,0208,Bladensburg High,240051000987,2018,2,40,NA,NA,16,4200 57th Ave,Bladensburg,38.942431,-76.917836
+16,Prince George's,0210,Rogers Heights Elementary,240051001146,2018,4,65,53,NA,NA,4301 58th Ave,Bladensburg,38.944971,-76.912713
+16,Prince George's,0211,Gladys Noon Spellman Elementary,240051090458,2018,4,60,38,NA,NA,3324 64th Ave,Cheverly,38.930835,-76.907368
+16,Prince George's,0213,Cooper Lane Elementary,240051001014,2018,4,61,41,NA,NA,3817 Cooper Ln,Landover Hills,38.939244,-76.900247
+16,Prince George's,0214,Templeton Elementary,240051001171,2018,4,61,39,NA,NA,6001 Carters Ln,Riverdale,38.952278,-76.914699
+16,Prince George's,0217,Port Towns Elementary,240051001368,2018,3,52,22,NA,NA,4351 58th Ave,Bladensburg,38.946382,-76.911401
+16,Prince George's,0303,Croom High,240051001463,2018,1,26,NA,NA,4,9400 Surratts Road,Cheltenham,38.735046,-76.843138
+16,Prince George's,0304,Perrywood Elementary,240051000866,2018,4,66,56,NA,NA,501 Watkins Park Dr,Largo,38.883397,-76.78509
+16,Prince George's,0305,Patuxent Elementary,240051001129,2018,3,53,24,NA,NA,4410 Bishopmill Dr,Upper Marlboro,38.827509,-76.709731
+16,Prince George's,0504,Fort Washington Forest Elementary,240051001039,2018,4,61,41,NA,NA,1300 Fillmore Rd,Fort Washington,38.709066,-76.985511
+16,Prince George's,0507,Rose Valley Elementary,240051001148,2018,3,47,15,NA,NA,9800 Jacqueline Dr,Fort Washington,38.754894,-76.959966
+16,Prince George's,0509,Accokeek Academy,240051001686,2018,4,67,54,78,NA,14400 Berry Rd,Accokeek,38.68788,-76.978821
+16,Prince George's,0510,Potomac Landing Elementary,240051001132,2018,4,68,62,NA,NA,12500 Fort Washington Rd,Fort Washington,38.718351,-77.004191
+16,Prince George's,0511,Friendly High,240051001038,2018,3,47,NA,NA,26,10000 Allentown Rd,Fort Washington,38.752107,-76.968574
+16,Prince George's,0603,Suitland High,240051001164,2018,2,44,NA,NA,19,5200 Silver Hill Rd,Forestville,38.853948,-76.917616
+16,Prince George's,0606,Bradbury Heights Elementary,240051000991,2018,3,45,13,NA,NA,1401 Glacier Ave,Capital Heights,38.871128,-76.928477
+16,Prince George's,0607,Hillcrest Heights Elementary,240051001060,2018,2,40,7,NA,NA,4305 22nd Place,Temple Hills,38.830335,-76.96036
+16,Prince George's,0610,North Forestville Elementary,240051001113,2018,3,51,19,NA,NA,2311 Ritchie Rd,Forestville,38.857295,-76.87403
+16,Prince George's,0613,District Heights Elementary,240051001019,2018,3,45,13,NA,NA,2200 County Rd,District Heights,38.859,-76.89716
+16,Prince George's,0615,Benjamin Stoddert Middle,240051001464,2018,3,52,NA,35,NA,2501 Olson St,Temple Hills,38.830257,-76.947653
+16,Prince George's,0617,Francis Scott Key Elementary,240051001050,2018,3,48,16,NA,NA,2301 Scott Key Dr,District Heights,38.860262,-76.904134
+16,Prince George's,0618,Longfields Elementary,240051001094,2018,4,65,54,NA,NA,3300 Newkirk Ave,Forestville,38.844715,-76.880405
+16,Prince George's,0619,Princeton Elementary,240051001136,2018,3,46,14,NA,NA,6101 Baxter Dr,Suitland,38.81326,-76.902035
+16,Prince George's,0622,Thurgood Marshall Middle School,240051001465,2018,2,39,NA,11,NA,4909 Brinkley Rd,Temple Hills,38.801336,-76.922211
+16,Prince George's,0632,Allenwood Elementary,240051000966,2018,3,50,18,NA,NA,6300 Harley Ln,Temple Hills,38.803013,-76.930151
+16,Prince George's,0636,William Beanes Elementary,240051001184,2018,3,49,17,NA,NA,5108 Dianna Dr,Suitland,38.840512,-76.918926
+16,Prince George's,0638,Benjamin D. Foulois Academy,240051001684,2018,4,69,56,86,NA,4601 Beauford Rd,Morningside,38.826719,-76.886503
+16,Prince George's,0639,Maya Angelou French Immersion,240051001554,2018,5,77,76,96,NA,2000 Callaway St,Temple Hills,38.834349,-76.968506
+16,Prince George's,0640,Arrowhead Elementary,240051000971,2018,3,58,33,NA,NA,2300 Sansbury Rd,Upper Marlboro,38.857175,-76.84282
+16,Prince George's,0645,Andrew Jackson Academy,240051001683,2018,2,40,6,14,NA,3500 Regency Pkwy,Forestville,38.840964,-76.908318
+16,Prince George's,0647,Concord Elementary,240051001013,2018,4,60,38,NA,NA,2004 Concord Ln,District Heights,38.862877,-76.907812
+16,Prince George's,0648,Samuel P. Massie Academy,240051001555,2018,3,50,14,40,NA,3301 Regency Pkwy,Forestville,38.844827,-76.907649
+16,Prince George's,0656,Panorama Elementary,240051001556,2018,3,53,23,NA,NA,2002 Callaway St,Temple Hills,38.835605,-76.969679
+16,Prince George's,0660,Drew Freeman Middle,240051001034,2018,2,39,NA,12,NA,2600 Brooks Dr,Suitland,38.855069,-76.919479
+16,Prince George's,0661,Suitland Elementary,240051001453,2018,3,53,22,NA,NA,4650 Homer Ave,Suitland,38.852917,-76.927323
+16,Prince George's,0662,Imagine Lincoln Public Charter,240051001648,2018,3,55,14,69,NA,4207 Norcross Street,Temple Hills,38.830289,-76.950053
+16,Prince George's,0705,Tall Oaks High,240051001424,2018,2,34,NA,NA,8,2112 Church Rd,Bowie,38.919472,-76.758865
+16,Prince George's,0706,Woodmore Elementary,240051001188,2018,4,67,61,NA,NA,12500 Woodmore Rd,Mitchellville,38.925961,-76.788944
+16,Prince George's,0708,Kenilworth Elementary,240051001077,2018,4,63,46,NA,NA,12520 Kembridge Dr,Bowie,38.959358,-76.734671
+16,Prince George's,0711,Tulip Grove Elementary,240051001177,2018,4,73,78,NA,NA,3501 Moylan Dr,Bowie,38.9812,-76.750411
+16,Prince George's,0712,Heather Hills Elementary,240051001056,2018,5,82,96,NA,NA,12605 Heming Ln,Bowie,38.95178,-76.731388
+16,Prince George's,0714,Benjamin Tasker Middle School,240051000982,2018,4,62,NA,64,NA,4901 Collington Rd,Bowie,38.958056,-76.745547
+16,Prince George's,0716,Northview Elementary,240051001641,2018,3,56,27,NA,NA,3700 Northview Drive,Bowie,38.940516,-76.743425
+16,Prince George's,0718,Pointer Ridge Elementary,240051001131,2018,4,63,47,NA,NA,1110 Parkington Ln,Bowie,38.905069,-76.728464
+16,Prince George's,0729,Kingsford Elementary,240051000500,2018,4,61,40,NA,NA,1401 Enterprise Rd,Mitchellville,38.908296,-76.796969
+16,Prince George's,0802,Baden Elementary,240051000973,2018,3,58,32,NA,NA,13601 Baden-Westwood Rd,Brandywine,38.660774,-76.770227
+16,Prince George's,0905,Tayac Elementary,240051001170,2018,3,50,18,NA,NA,8600 Allentown Rd,Fort Washington,38.770962,-76.950484
+16,Prince George's,0906,Clinton Grove Elementary,240051001010,2018,2,41,8,NA,NA,9420 Temple Hill Rd,Clinton,38.761139,-76.921901
+16,Prince George's,0908,Surrattsville High,240051001167,2018,3,45,NA,NA,22,6101 Garden Dr,Clinton,38.762179,-76.901168
+16,Prince George's,0909,James Ryder Randall Elementary,240051001072,2018,3,57,29,NA,NA,5410 Kirby Rd,Clinton,38.783145,-76.913846
+16,Prince George's,0912,Isaac J. Gourdine Middle,240051001095,2018,3,46,NA,22,NA,8700 Allentown Rd,Fort Washington,38.769664,-76.951412
+16,Prince George's,0914,Waldon Woods Elementary,240051001180,2018,3,53,23,NA,NA,10301 Thrift Rd,Clinton,38.748833,-76.900321
+16,Prince George's,0915,Stephen Decatur Middle,240051001469,2018,3,49,NA,29,NA,8200 Pinewood Dr,Clinton,38.776887,-76.908269
+16,Prince George's,0916,Francis T. Evans Elementary,240051001035,2018,4,64,48,NA,NA,6720 Old Alexandria Ferry Rd,Clinton,38.784689,-76.889716
+16,Prince George's,0917,Imagine Andrews Public Charter,240051001701,2018,3,52,8,68,NA,4701 San Antonio Blvd,Andrews Afb,38.79755,-76.893784
+16,Prince George's,1001,Laurel Elementary,240051001090,2018,3,52,22,NA,NA,516 Montgomery St,Laurel,39.104891,-76.852533
+16,Prince George's,1008,Laurel High,240051001092,2018,3,46,NA,NA,25,8000 Cherry Ln,Laurel,39.09434,-76.867634
+16,Prince George's,1009,Oaklands Elementary,240051001117,2018,3,54,24,NA,NA,13710 Laurel Bowie Rd,Laurel,39.078976,-76.849753
+16,Prince George's,1010,Dwight D. Eisenhower Middle,240051001024,2018,3,45,NA,21,NA,13725 Briarwood Dr,Laurel,39.079436,-76.854176
+16,Prince George's,1011,Bond Mill Elementary,240051000988,2018,4,62,43,NA,NA,16001 Sherwood Ave,Laurel,39.10965,-76.895747
+16,Prince George's,1014,Scotchtown Hills Elementary,240051000714,2018,4,63,46,NA,NA,15950 Dorset Rd,Laurel,39.108605,-76.878152
+16,Prince George's,1015,Chesapeake Math and IT Public Charter,240051001708,2018,5,75,NA,83,89,6100 Frost Pl,Laurel,39.090172,-76.902631
+16,Prince George's,1016,Chesapeake Math and IT Elementary Public Charter,240051001725,2018,4,69,66,NA,NA,6151 Chevy Chase Dr,Laurel,39.09391,-76.901551
+16,Prince George's,1101,Brandywine Elementary,240051000992,2018,3,58,33,NA,NA,14101 Brandywine Rd,Brandywine,38.696484,-76.852593
+16,Prince George's,1102,Mattaponi Elementary,240051001103,2018,4,64,49,NA,NA,11701 Duley Station Rd,Upper Marlboro,38.748383,-76.805737
+16,Prince George's,1103,Gwynn Park High,240051001052,2018,3,52,NA,NA,33,13800 Brandywine Rd,Brandywine,38.701986,-76.870528
+16,Prince George's,1104,Gwynn Park Middle,240051001051,2018,4,66,NA,73,NA,8000 Dyson Rd,Brandywine,38.70658,-76.868793
+16,Prince George's,1105,Rosaryville Elementary,240051001182,2018,3,52,21,NA,NA,9925 Rosaryville Rd,Upper Marlboro,38.758869,-76.820166
+16,Prince George's,1201,Oxon Hill Elementary,240051001121,2018,2,42,10,NA,NA,7701 Livingston Rd,Oxon Hill,38.784141,-76.993095
+16,Prince George's,1204,Forest Heights Elementary,240051001031,2018,3,54,24,NA,NA,200 Talbert Dr,Oxon Hill,38.815769,-77.002424
+16,Prince George's,1206,John Hanson Montessori,240051000870,2018,4,66,42,82,NA,6360 Oxon Hill Rd,Oxon Hill,38.802363,-76.992471
+16,Prince George's,1208,Flintstone Elementary,240051001030,2018,4,62,45,NA,NA,800 Comanche Dr,Oxon Hill,38.806865,-76.99528
+16,Prince George's,1209,Oxon Hill High,240051001123,2018,4,61,NA,NA,49,6701 Leyte Dr,Oxon Hill,38.797563,-76.992311
+16,Prince George's,1213,Fort Foote Elementary,240051001033,2018,4,63,48,NA,NA,8300 Oxon Hill Rd,Fort Washington,38.775797,-77.004998
+16,Prince George's,1214,Glassmanor Elementary,240051001042,2018,4,64,48,NA,NA,1011 Marcy Ave,Oxon Hill,38.8172,-76.990242
+16,Prince George's,1216,Samuel Chase Elementary,240051001150,2018,3,48,16,NA,NA,5700 Fisher Rd,Temple Hills,38.809636,-76.951596
+16,Prince George's,1217,Crossland High,240051001017,2018,2,39,NA,NA,14,6901 Temple Hill Road,Temple Hills,38.794412,-76.930724
+16,Prince George's,1218,Valley View Elementary,240051001179,2018,4,61,40,NA,NA,5500 Danby Ave,Oxon Hill,38.811682,-76.976117
+16,Prince George's,1219,Barnaby Manor Elementary,240051000974,2018,3,47,15,NA,NA,2411 Owens Rd,Oxon Hill,38.816424,-76.965164
+16,Prince George's,1220,Potomac High,240051001133,2018,2,38,NA,NA,14,5211 Boydell Ave,Oxon Hill,38.821057,-76.977196
+16,Prince George's,1221,Avalon Elementary,240051000972,2018,3,51,19,NA,NA,7302 Webster Lane,Fort Washington,38.79119,-76.942191
+16,Prince George's,1229,Apple Grove Elementary,240051000969,2018,4,62,44,NA,NA,7400 Bellefield Ave,Fort Washington,38.789259,-76.962801
+16,Prince George's,1231,J. Frank Dent Elementary,240051001068,2018,2,41,9,NA,NA,2700 Corning Ave,Fort Washington,38.810061,-76.961083
+16,Prince George's,1233,Indian Queen Elementary,240051001066,2018,4,66,56,NA,NA,9551 Fort Foote Rd,Fort Washington,38.757949000000004,-77.015609
+16,Prince George's,1234,Oxon Hill Middle,240051001471,2018,2,44,NA,20,NA,9570 Fort Foote Rd,Fort Washington,38.76153,-77.014088
+16,Prince George's,1302,Columbia Park Elementary,240051001012,2018,3,54,25,NA,NA,1901 Kent Village Dr,Landover,38.916641,-76.887102
+16,Prince George's,1307,Highland Park Elementary,240051001135,2018,3,56,28,NA,NA,6501 Lowland Dr,Landover,38.903536,-76.893507
+16,Prince George's,1309,William Paca Elementary,240051000729,2018,3,57,30,NA,NA,7801 Sherriff Rd,Landover,38.911698,-76.872964
+16,Prince George's,1310,Dodge Park Elementary,240051001208,2018,4,64,50,NA,NA,3401 Hubbard Rd,Landover,38.933316,-76.87552
+16,Prince George's,1314,Largo High,240051001089,2018,3,47,NA,NA,26,505 Largo Rd,Upper Marlboro,38.886644,-76.820039
+16,Prince George's,1320,G. James Gholson Middle,240051001211,2018,3,48,NA,27,NA,900 Nalley Rd,Landover,38.903066,-76.875909
+16,Prince George's,1322,Phyllis E. Williams Elementary,240051001130,2018,4,64,51,NA,NA,9601 Prince Pl,Upper Marlboro,38.889231,-76.839705
+16,Prince George's,1324,Kettering Elementary,240051001082,2018,3,54,26,NA,NA,11000 Layton St,Upper Marlboro,38.891271,-76.814408
+16,Prince George's,1326,Kettering Middle,240051001472,2018,3,51,NA,33,NA,65 Herrington Dr,Upper Marlboro,38.894992,-76.810993
+16,Prince George's,1327,Charles Herbert Flowers High,240051002951,2018,4,63,NA,NA,55,10001 Ardwick-Ardmore Rd,Springdale,38.931495,-76.835031
+16,Prince George's,1330,Kenmoor Middle,240051001473,2018,4,64,NA,69,NA,2500 Kenmoor Dr,Landover,38.925288,-76.867411
+16,Prince George's,1333,Judge Sylvania W. Woods Sr. Elementary,240051001137,2018,3,52,21,NA,NA,3000 Church St,Glenarden,38.932877,-76.872779
+16,Prince George's,1346,Lake Arbor Elementary,240051001217,2018,3,57,29,NA,NA,10205 Lake Arbor Way,Mitchellville,38.903694,-76.82929
+16,Prince George's,1347,Cora L. Rice Elementary,240051001222,2018,2,42,10,NA,NA,950 Nalley Rd,Landover,38.903069,-76.875908
+16,Prince George's,1348,Ernest Everett Just Middle,240051001223,2018,3,55,NA,44,NA,1300 Campus Way N,Mitchellville,38.907059,-76.830118
+16,Prince George's,1350,Academy of Health Sciences at PGCC,240051001704,2018,5,96,NA,NA,99,301 Largo Rd,Largo,38.886849,-76.830282
+16,Prince George's,1351,Chesapeake Math and IT South Public Charter,240051001726,2018,4,74,NA,78,NA,9822 Fallard Court,Upper Marlboro,38.80693,-76.839752
+16,Prince George's,1408,Glenn Dale Elementary,240051001474,2018,3,58,32,NA,NA,6700 Glenn Dale Rd,Glenn Dale,38.981331,-76.816635
+16,Prince George's,1409,Duval High,240051001023,2018,3,46,NA,NA,24,9880 Good Luck Rd,Lanham,38.989462,-76.837694
+16,Prince George's,1411,Gaywood Elementary,240051001041,2018,4,61,39,NA,NA,6701 97th Ave,Seabrook,38.979637,-76.839917
+16,Prince George's,1412,High Bridge Elementary,240051001058,2018,4,62,43,NA,NA,7011 High Bridge Rd,Bowie,38.986632,-76.772484
+16,Prince George's,1414,Catherine T. Reed Elementary,240051001001,2018,3,58,32,NA,NA,9501 Greenbelt Rd,Lanham,38.989601,-76.84162
+16,Prince George's,1416,Dora Kennedy French Immersion,240051001245,2018,5,80,92,96,NA,8950 Edmonston Rd,Seabrook,38.99719,-76.902184
+16,Prince George's,1417,Robert Goddard Montessori,240051001251,2018,5,77,79,95,NA,9850 Good Luck Rd,Seabrook,38.987891,-76.842102
+16,Prince George's,1423,Bowie High,240051000990,2018,4,61,NA,NA,51,15200 Annapolis Rd,Bowie,38.978222,-76.743199
+16,Prince George's,1424,Montpelier Elementary,240051001108,2018,3,58,34,NA,NA,9200 Muirkirk Rd,Laurel,39.054175,-76.845792
+16,Prince George's,1427,Yorktown Elementary,240051000200,2018,4,74,81,NA,NA,7301 Race Track Rd,Bowie,38.98975,-76.732916
+16,Prince George's,1428,Samuel Ogle Middle,240051001152,2018,4,67,NA,74,NA,4111 Chelmont Ln,Bowie,38.993464,-76.741377
+16,Prince George's,1432,Rockledge Elementary,240051001144,2018,4,67,61,NA,NA,7701 Laurel Bowie Rd,Bowie,38.996631,-76.757653
+16,Prince George's,1435,Deerfield Run Elementary,240051001018,2018,3,58,31,NA,NA,13000 Laurel-Bowie Rd,Laurel,39.071107,-76.846561
+16,Prince George's,1438,Whitehall Elementary,240051001461,2018,5,75,83,NA,NA,3901 Woodhaven Ln,Bowie,38.989458,-76.751543
+16,Prince George's,1442,Excel Academy Public Charter,240051001540,2018,4,66,52,75,NA,7910 Scott Rd,Landover,38.92113,-76.869101
+16,Prince George's,1502,Frederick Douglass High,240051001036,2018,3,58,NA,NA,42,8000 Croom Rd,Upper Marlboro,38.781506,-76.781720000000007
+16,Prince George's,1504,Melwood Elementary,240051001106,2018,3,55,27,NA,NA,7100 Woodyard Rd,Upper Marlboro,38.79079,-76.838052
+16,Prince George's,1510,James Madison Middle,240051001475,2018,4,65,NA,70,NA,7300 Woodyard Rd,Upper Marlboro,38.788542,-76.840072
+16,Prince George's,1511,Marlton Elementary,240051001100,2018,4,61,42,NA,NA,8506 Old Colony Dr S,Upper Marlboro,38.772365,-76.789096
+16,Prince George's,1518,Barack Obama Elementary,240051001697,2018,4,61,40,NA,NA,12700 Brooke Ln,Upper Marlboro,38.83409,-76.786406
+16,Prince George's,1519,"Dr. Henry A. Wise, Jr. High",240051001542,2018,2,44,NA,NA,20,12650 Brooke Lane,Upper Marlboro,38.833955,-76.787819
+16,Prince George's,1521,Imagine Foundations at Leeland PCS,240051001637,2018,4,61,28,72,NA,14111 Oak Grove Road,Upper Marlboro,38.873988,-76.760595
+16,Prince George's,1522,Imagine Foundations at Morningside PCS,240051001706,2018,3,59,45,44,NA,6900 Ames St Se,Morningside,38.82929,-76.886093
+16,Prince George's,1601,Hyattsville Elementary,240051001064,2018,3,59,35,NA,NA,5311 43rd Ave,Hyattsville,38.954442,-76.942452
+16,Prince George's,1602,Hyattsville Middle,240051001065,2018,3,58,NA,53,NA,6001 42nd Ave,Hyattsville,38.960108,-76.944684
+16,Prince George's,1604,Edward M. Felegy ES,240051001723,2018,3,55,27,NA,NA,6110 Editors Park Dr,Hyattsville,38.964175,-76.963572
+16,Prince George's,1703,Mt Rainier Elementary,240051001110,2018,3,59,36,NA,NA,4011 32nd St,Mt Rainier,38.938885,-76.962901
+16,Prince George's,1706,Thomas S. Stone Elementary,240051001176,2018,3,55,26,NA,NA,4500 34th St,Mt Rainier,38.94593,-76.962739
+16,Prince George's,1708,Northwestern High,240051001114,2018,2,37,NA,NA,11,7000 Adelphi Rd,Hyattsville,38.974836,-76.95448
+16,Prince George's,1709,Chillum Elementary,240051001009,2018,4,61,40,NA,NA,1420 Chillum St,Hyattsville,38.957696,-76.983723
+16,Prince George's,1710,Ridgecrest Elementary,240051001138,2018,3,59,35,NA,NA,6120 Riggs Rd,Hyattsville,38.965985,-76.989132
+16,Prince George's,1711,Carole Highlands Elementary,240051000999,2018,4,62,44,NA,NA,1610 Hannon St,Takoma Park,38.984016,-76.983644
+16,Prince George's,1712,Lewisdale Elementary,240051001093,2018,4,69,65,NA,NA,2400 Banning Pl,Hyattsville,38.974774,-76.968164
+16,Prince George's,1713,Cesar Chavez Elementary,240051001139,2018,5,76,85,NA,NA,6609 Riggs Rd,Hyattsville,38.96924,-76.981343
+16,Prince George's,1714,Adelphi Elementary,240051000965,2018,4,63,48,NA,NA,8820 Riggs Rd,Adelphi,39.000256,-76.974023
+16,Prince George's,1718,Nicholas Orem Middle,240051001112,2018,3,48,NA,26,NA,6100 Editors Park Dr,Hyattsville,38.964333,-76.960257
+16,Prince George's,1719,Langley Park/McCormick Elementary,240051001087,2018,4,60,38,NA,NA,8201 15th Ave,Hyattsville,38.993994,-76.980962
+16,Prince George's,1725,Cool Spring Elementary,240051000510,2018,3,56,28,NA,NA,8910 Riggs Rd,Adelphi,39.00225,-76.973638
+16,Prince George's,1730,"Mary Harris Mother"" Jones Elementary""",240051001257,2018,3,55,26,NA,NA,2405 Tecumseh St,Adelphi,38.999887,-76.966143
+16,Prince George's,1731,Rosa L. Parks Elementary,240051001573,2018,3,57,29,NA,NA,6111 Ager Rd,Hyattsville,38.965607,-76.97243
+16,Prince George's,1802,Seat Pleasant Elementary,240051001155,2018,3,54,25,NA,NA,6411 G St,Capital Heights,38.89717,-76.906995
+16,Prince George's,1806,Fairmont Heights High,240051001029,2018,3,46,NA,NA,25,1401 Nye St,Capitol Heights,38.910307,-76.919652
+16,Prince George's,1808,Doswell E. Brooks Elementary,240051001021,2018,4,62,42,NA,NA,1301 Brooke Rd,Capital Heights,38.8712,-76.910326
+16,Prince George's,1810,Central High,240051001002,2018,2,41,NA,NA,17,200 Cabin Branch Rd,Capitol Heights,38.882208,-76.891179
+16,Prince George's,1811,Carmody Hills Elementary,240051000998,2018,2,44,12,NA,NA,401 Jadeleaf Ave,Capitol Heights,38.895964,-76.888085
+16,Prince George's,1812,Capitol Heights Elementary,240051000997,2018,4,60,37,NA,NA,601 Suffolk Ave,Capitol Heights,38.881897,-76.912494
+16,Prince George's,1814,Thomas G. Pullen School,240051001174,2018,4,68,64,78,NA,700 Brightseat Rd,Landover,38.900128,-76.855136
+16,Prince George's,1816,John H. Bayne Elementary,240051001075,2018,2,39,7,NA,NA,7010 Walker Mill Rd,Capitol Heights,38.872556,-76.884965
+16,Prince George's,1819,Walker Mill Middle,240051001477,2018,3,47,NA,24,NA,800 Karen Blvd,Capitol Heights,38.876868,-76.885477
+16,Prince George's,1828,Robert R. Gray Elementary,240051001183,2018,3,57,29,NA,NA,4949 Addison Rd,Capital Heights,38.908791,-76.922359
+16,Prince George's,1830,William W. Hall Academy,240051001462,2018,3,51,15,42,NA,5200 Marlboro Pk,Capitol Heights,38.870744,-76.918236
+16,Prince George's,1901,Riverdale Elementary,240051001140,2018,3,57,28,NA,NA,5006 Riverdale Rd,Riverdale,38.961265,-76.928354
+16,Prince George's,1902,University Park Elementary,240051001178,2018,4,65,54,NA,NA,4315 Underwood St,Hyattsville,38.970568,-76.943542
+16,Prince George's,1907,Beacon Heights Elementary,240051000975,2018,3,58,31,NA,NA,6929 Furman Pkwy,Riverdale,38.957963,-76.898023
+16,Prince George's,1908,William Wirt Middle,240051001186,2018,3,46,NA,23,NA,6200 Tuckerman St,Riverdale,38.967101,-76.909751
+16,Prince George's,1909,Parkdale High,240051001126,2018,3,48,NA,NA,29,6001 Good Luck Rd,Riverdale,38.970059,-76.904429
+16,Prince George's,2003,Seabrook Elementary,240051001154,2018,4,70,69,NA,NA,6001 Seabrook Rd,Seabrook,38.96805,-76.84094
+16,Prince George's,2005,Carrollton Elementary,240051001000,2018,4,62,43,NA,NA,8300 Quintana St,New Carrollton,38.968384,-76.875682
+16,Prince George's,2006,Glenridge Elementary,240051001495,2018,3,55,26,NA,NA,7200 Gallatin St,Landover Hills,38.952147,-76.889801
+16,Prince George's,2007,Woodridge Elementary,240051001386,2018,4,69,66,NA,NA,5001 Flintridge Dr,Hyattsville,38.950718,-76.891448
+16,Prince George's,2008,Ardmore Elementary,240051000970,2018,4,63,47,NA,NA,9301 Ardwick Ardmore Road,Springdale,38.934054,-76.846615
+16,Prince George's,2009,Thomas Johnson Middle,240051001175,2018,3,51,NA,32,NA,5401 Barker Pl,Lanham,38.960626,-76.84109
+16,Prince George's,2010,Glenarden Woods Elementary,240051001043,2018,5,82,95,NA,NA,9850 Good Luck Rd,Seabrook,38.987924,-76.84218
+16,Prince George's,2011,Charles Carroll Middle,240051001004,2018,3,51,NA,32,NA,6130 Lamont Dr,New Carrollton,38.96731,-76.881409
+16,Prince George's,2013,James McHenry Elementary,240051001071,2018,3,54,25,NA,NA,8909 Mchenry Ln,Lanham,38.958855,-76.850755
+16,Prince George's,2014,Lamont Elementary,240051001085,2018,4,69,66,NA,NA,7101 Good Luck Rd,New Carrollton,38.974328,-76.883345
+16,Prince George's,2016,Robert Frost Elementary,240051001142,2018,3,58,33,NA,NA,6419 85th Ave,New Carrollton,38.976391,-76.875384
+16,Prince George's,2022,Turning Point Academy Public Charter,240051001544,2018,4,66,47,83,NA,7800 Good Luck Rd,Lanham,38.980685,-76.87073
+16,Prince George's,2106,Greenbelt Elementary,240051000512,2018,4,62,43,NA,NA,66 Ridge Rd,Greenbelt,39.012164,-76.877134
+16,Prince George's,2107,Hollywood Elementary,240051001063,2018,4,63,47,NA,NA,9811 49th Ave,College Park,39.015122,-76.922759
+16,Prince George's,2108,Buck Lodge Middle,240051000993,2018,3,53,NA,38,NA,2611 Buck Lodge Rd,Adelphi,39.010731,-76.960627
+16,Prince George's,2109,Berwyn Heights Elementary,240051001272,2018,4,67,59,NA,NA,6200 Pontiac St,Berwyn Heights,38.992039,-76.909473
+16,Prince George's,2113,Springhill Lake Elementary,240051001160,2018,3,46,13,NA,NA,6060 Springhill Dr,Greenbelt,39.006072,-76.90275
+16,Prince George's,2114,Eleanor Roosevelt High,240051001027,2018,4,66,NA,NA,63,7601 Hanover Pkwy,Greenbelt,38.994714,-76.86967
+16,Prince George's,2121,Cherokee Lane Elementary,240051001006,2018,4,63,48,NA,NA,9000 25th Ave,Adelphi,39.004997,-76.96343
+16,Prince George's,2122,Magnolia Elementary,240051001097,2018,4,64,52,NA,NA,8400 Nightingale Dr,Lanham,38.984256,-76.862455
+16,Prince George's,2123,Paint Branch Elementary,240051001124,2018,4,66,57,NA,NA,5101 Pierce Ave,College Park,38.986824,-76.926174
+16,Prince George's,2141,Greenbelt Middle,240051001049,2018,3,56,NA,48,NA,6301 Breezewood Dr,Greenbelt,38.999181,-76.902955
+16,Prince George's,2142,College Park Academy,240051001718,2018,4,60,NA,36,NA,7501 Adelphi Rd,Hyattsville,38.982951,-76.954062
+16,Prince George's,2211,Northwestern Evening/Saturday High,240051001054,2018,1,24,NA,NA,3,7000 Adelphi Road,Hyattsville,38.974817,-76.95451
+16,Prince George's,2213,Crossland Evening/Saturday High,240051001062,2018,1,28,NA,NA,5,6901 Temple Hill Rd,Temple Hills,38.794416,-76.930718
+16,Prince George's,2220,Community Based Classrooms,240051001067,2018,2,30,NA,NA,6,5150 Annapolis Rd,Bladensburg,38.940125,-76.930972
+17,Queen Anne's,0101,Sudlersville Middle School,240054001198,2018,4,73,83,84,NA,600 Charles Street,Sudlersville,39.182483,-75.852483
+17,Queen Anne's,0106,Sudlersville Elementary School,240054001197,2018,3,51,20,NA,NA,300 S Church Street,Sudlersville,39.183306,-75.859305
+17,Queen Anne's,0202,Church Hill Elementary School,240054001192,2018,4,65,53,NA,NA,631 Main St,Church Hill,39.147412,-75.980731
+17,Queen Anne's,0301,Queen Anne's County High School,240054001195,2018,4,73,NA,NA,76,125 Ruthsburg Rd,Centreville,39.037716,-76.053081
+17,Queen Anne's,0302,Kennard Elementary School,240054001070,2018,5,78,89,NA,NA,420 Little Kidwell Ave,Centreville,39.037925,-76.06407
+17,Queen Anne's,0303,Centreville Middle School,240054001190,2018,5,75,NA,91,NA,231 Ruthsburg Rd,Centreville,39.034117,-76.050257
+17,Queen Anne's,0403,Bayside Elementary School,240054000202,2018,5,75,82,NA,NA,301 Church St,Stevensville,38.982093,-76.307331
+17,Queen Anne's,0404,Stevensville Middle School,240054001196,2018,4,61,NA,61,NA,610 Main St,Stevensville,38.977487000000004,-76.308833
+17,Queen Anne's,0405,Kent Island High School,240054001076,2018,4,74,NA,NA,80,900 Love Point Rd,Stevensville,38.991128,-76.309347
+17,Queen Anne's,0406,Matapeake Elementary School,240054001557,2018,5,80,93,NA,NA,651 Romancoke Rd,Stevensville,38.962235,-76.335204
+17,Queen Anne's,0407,Matapeake Middle School,240054001644,2018,4,71,NA,85,NA,671 Romancoke Road,Stevensville,38.960612,-76.334577
+17,Queen Anne's,0503,Grasonville Elementary School,240054001193,2018,4,67,60,NA,NA,5435 Main St,Grasonville,38.962011,-76.188784
+18,Saint Mary's,0101,Spring Ridge Middle,240060001237,2018,4,62,NA,63,NA,19856 Three Notch Rd,Lexington Park,38.212314,-76.401414
+18,Saint Mary's,0104,Ridge Elementary,240060001236,2018,4,62,44,NA,NA,49430 Airedale Rd,Ridge,38.110675,-76.365809
+18,Saint Mary's,0201,Piney Point Elementary,240060001235,2018,4,72,76,NA,NA,44550 Tall Timbers Rd,Tall Timbers,38.167236,-76.536524
+18,Saint Mary's,0301,Leonardtown Elementary,240060001228,2018,4,71,73,NA,NA,22885 Duke St,Leonardtown,38.296615,-76.63916
+18,Saint Mary's,0302,Benjamin Banneker Elementary,240060001216,2018,4,74,81,NA,NA,27180 Point Lookout Rd,Loveville,38.3301,-76.675701
+18,Saint Mary's,0303,Chopticon High,240060001218,2018,4,66,NA,NA,62,25390 Colton Point Rd,Morganza,38.359659,-76.706229
+18,Saint Mary's,0305,Leonardtown Middle,240060001229,2018,4,72,NA,85,NA,24015 Point Lookout Rd,Leonardtown,38.273707,-76.612357
+18,Saint Mary's,0306,Leonardtown High,240060001356,2018,5,75,NA,NA,81,23995 Point Lookout Rd,Leonardtown,38.269836,-76.611229
+18,Saint Mary's,0308,Captain Walter Francis Duke Elementary,240060001732,2018,4,72,76,NA,NA,23595 Hayden Farm Lane,Leonardtown,38.314275,-76.6373
+18,Saint Mary's,0404,Margaret Brent Middle,240060001231,2018,3,53,NA,38,NA,29675 Point Lookout Rd,Mechanicsville,38.380063,-76.716111
+18,Saint Mary's,0501,Lettie Marshall Dent Elem,240060001399,2018,5,77,87,NA,NA,37840 New Market Turner Rd,Mechanicsville,38.474194,-76.767841
+18,Saint Mary's,0503,White Marsh Elementary,240060001240,2018,5,83,96,NA,NA,29090 Thompson Corner Rd,Mechanicsville,38.467093,-76.776408
+18,Saint Mary's,0504,Mechanicsville Elementary,240060001232,2018,4,68,61,NA,NA,28585 Three Notch Rd,Mechanicsville,38.45322,-76.754587
+18,Saint Mary's,0602,Oakville Elementary,240060001233,2018,5,79,92,NA,NA,26410 Three Notch Road,Mechanicsville,38.394448,-76.646486
+18,Saint Mary's,0604,Hollywood Elementary,240060001227,2018,4,66,55,NA,NA,44345 Joy Chapel Rd,Hollywood,38.337036,-76.5423
+18,Saint Mary's,0606,Evergreen Elementary School,240060001685,2018,4,74,82,NA,NA,43765 Wildewood Parkway,California,38.299203,-76.563557
+18,Saint Mary's,0702,Dynard Elementary,240060001219,2018,4,69,65,NA,NA,23510 Bushwood Rd,Chaptico,38.313384,-76.758809
+18,Saint Mary's,0801,Great Mills High,240060001224,2018,4,61,NA,NA,52,21130 Great Mills Rd,Great Mills,38.247434,-76.487496
+18,Saint Mary's,0803,Green Holly Elementary School,240060001221,2018,4,66,57,NA,NA,46060 Millstone Landing Rd,Lexington Park,38.294323,-76.482577
+18,Saint Mary's,0804,Lexington Park Elementary,240060001230,2018,4,69,67,NA,NA,46763 Shangri La Dr,Lexington Park,38.260114,-76.457731
+18,Saint Mary's,0805,George Washington Carver Elementary,240060001483,2018,3,57,30,NA,NA,46155 Carver School Blvd,Great Mills,38.250006,-76.480352
+18,Saint Mary's,0806,Town Creek Elementary,240060001239,2018,5,79,92,NA,NA,45805 Dent Dr,Lexington Park,38.302988,-76.490745
+18,Saint Mary's,0807,Esperanza Middle,240060001220,2018,3,58,NA,52,NA,22790 Maple Rd,Lexington Park,38.292472,-76.489428
+18,Saint Mary's,0808,Park Hall Elementary,240060001234,2018,3,54,25,NA,NA,20343 Hermanville Rd,Park Hall,38.224096,-76.452122
+18,Saint Mary's,0810,Greenview Knolls Elementary,240060001226,2018,4,66,57,NA,NA,45711 Military Ln,Great Mills,38.279987,-76.493325
+18,Saint Mary's,0813,Chesapeake Charter School,240060001639,2018,4,68,51,88,NA,20945 Great Mills Road,Lexington Park,38.242943,-76.492909
+19,Somerset,0102,Washington Academy and High School,240057001213,2018,3,49,NA,16,40,10902 Old Princess Anne Rd,Princess Anne,38.180697,-75.687491
+19,Somerset,0107,Greenwood Elementary School,NA,2018,3,51,19,NA,NA,NA,NA,NA,NA
+19,Somerset,0702,Crisfield Academy and High School,240057001201,2018,4,60,NA,51,55,210 N Somerset Avenue,Crisfield,37.986889,-75.843395
+19,Somerset,0705,Carter G Woodson Elementary,240057001535,2018,4,61,39,NA,NA,281a Woodson School Rd,Crisfield,37.974665,-75.849375
+19,Somerset,1303,Somerset 6/7 Intermediate School,240057001377,2018,3,48,NA,28,NA,7970 Tawes Campus Road,Westover,38.101515,-75.723364
+19,Somerset,1401,Deal Island School,240057001202,2018,4,60,38,NA,NA,23275 Lola Wheatley Rd,Deal Island,38.15685,-75.947197
+20,Talbot,0101,Easton High,240063001242,2018,4,62,NA,NA,52,723 Mecklenburg Ave,Easton,38.755785,-76.065719
+20,Talbot,0104,Easton Elementary,240063001244,2018,4,71,70,NA,NA,307 Glenwood Ave,Easton,38.774024,-76.084793
+20,Talbot,0106,Easton Middle,240063001243,2018,3,52,NA,36,NA,201 Peachblossom Rd,Easton,38.763055,-76.07701
+20,Talbot,0202,St. Michaels Middle/High School,240063001248,2018,4,62,NA,47,67,200 Seymour Ave,St Michaels,38.780418,-76.216613
+20,Talbot,0204,St. Michaels Elementary,240063001247,2018,4,71,71,NA,NA,100 Seymour Ave,St Michaels,38.779837,-76.218253
+20,Talbot,0302,White Marsh Elementary,240063001252,2018,4,71,71,NA,NA,4322 Lovers Ln,Trappe,38.668281,-76.067407
+20,Talbot,0401,Chapel District Elementary,240063001241,2018,5,78,90,NA,NA,11430 Cordova Rd,Cordova,38.862599,-76.007843
+20,Talbot,0501,Tilghman Elementary,240063001250,2018,5,78,89,NA,NA,21374 Foster Ave,Tilghman,38.712748,-76.338141
+21,Washington,0040,Barbara Ingram School for the Arts,240066001674,2018,5,86,NA,NA,97,7-11 S. Potomac Street,Hagerstown,39.641801,-77.72093
+21,Washington,0101,Sharpsburg Elementary,240066001284,2018,4,71,71,NA,NA,17525 Shepherdstown Pike,Sharpsburg,39.455412,-77.757623
+21,Washington,0190,Jonathan Hager Elementary,240066001740,2018,4,64,52,NA,NA,12615 Sedgwick Way,Hagerstown,39.660508,-77.757687
+21,Washington,0201,Springfield Middle,240066001290,2018,4,66,NA,74,NA,334 Sunset Ave,Williamsport,39.593478,-77.811672
+21,Washington,0202,Williamsport Elementary,240066001294,2018,5,75,83,NA,NA,1 S Clifton Dr,Williamsport,39.599903,-77.809234
+21,Washington,0204,Williamsport High,240066001295,2018,4,65,NA,NA,60,5 S Clifton Dr,Williamsport,39.596554,-77.810195
+21,Washington,0301,South Hagerstown High,240066001288,2018,3,53,NA,NA,37,1101 S Potomac St,Hagerstown,39.620424,-77.732173
+21,Washington,0302,Emma K. Doub Elementary,240066001264,2018,4,69,66,NA,NA,1221 S Potomac St,Hagerstown,39.61693,-77.731447
+21,Washington,0304,E. Russell Hicks Middle,240066001263,2018,4,61,NA,61,NA,1321 S Potomac St,Hagerstown,39.614942,-77.732382
+21,Washington,0305,Washington County Technical High,240066000308,2018,5,80,NA,NA,92,50 W Oak Ridge Dr,Hagerstown,39.608958,-77.739338
+21,Washington,0325,Rockland Woods Elementary,240066001667,2018,4,72,75,NA,NA,18201 Rockland Drive,Hagerstown,39.574582,-77.736832
+21,Washington,0401,Clear Spring Middle,240066001261,2018,5,84,NA,98,NA,12628 Broadfording Rd,Clear Spring,39.658349,-77.936103
+21,Washington,0402,Clear Spring Elementary,240066001259,2018,5,75,84,NA,NA,12627 Broadfording Rd,Clear Spring,39.656799,-77.93382
+21,Washington,0403,Clear Spring High,240066001260,2018,4,71,NA,NA,71,12630 Broadfording Rd,Clear Spring,39.657618,-77.93693
+21,Washington,0501,Hancock Middle Senior High,240066001270,2018,4,62,NA,50,64,289 W Main St,Hancock,39.696877,-78.196606
+21,Washington,0502,Hancock Elementary,240066001269,2018,4,71,71,NA,NA,290 W Main St,Hancock,39.699898,-78.196001
+21,Washington,0601,Boonsboro High,240066001256,2018,4,72,NA,NA,74,10 Campus Ave,Boonsboro,39.516031,-77.651589
+21,Washington,0602,Boonsboro Middle,240066001255,2018,5,86,NA,99,NA,1 J-H Wade Dr,Boonsboro,39.513869,-77.650863
+21,Washington,0603,Boonsboro Elementary,240066001254,2018,5,79,90,NA,NA,5 Campus Ave,Boonsboro,39.515252,-77.648348
+21,Washington,0701,Smithsburg High,240066001285,2018,4,74,NA,NA,80,66 N Main St,Smithsburg,39.662076,-77.574292
+21,Washington,0702,Smithsburg Elementary,240066001286,2018,4,73,77,NA,NA,67 N Main St,Smithsburg,39.657035,-77.576964
+21,Washington,0704,Smithsburg Middle,240066001287,2018,5,78,NA,95,NA,68 N Main St,Smithsburg,39.659744,-77.575021
+21,Washington,0902,Paramount Elementary,240066000752,2018,5,79,92,NA,NA,19410 Longmeadow Rd,Hagerstown,39.683555,-77.694687
+21,Washington,0903,Old Forge Elementary,240066001277,2018,5,75,83,NA,NA,21615 Old Forge Rd,Hagerstown,39.655903,-77.61646
+21,Washington,1002,Eastern Elementary,240066000418,2018,4,66,56,NA,NA,1320 Yale Dr,Hagerstown,39.624614,-77.692851
+21,Washington,1101,Pleasant Valley Elementary,240066001280,2018,4,70,68,NA,NA,1707 Rohrersville Rd,Knoxville,39.359292,-77.675166
+21,Washington,1301,Maugansville Elementary,240066001274,2018,5,76,85,NA,NA,18023 Maugans Ave,Maugansville,39.692766,-77.742063
+21,Washington,1401,Cascade Elementary,240066001258,2018,5,75,83,NA,NA,14519 Pennersville Rd,Cascade,39.713916,-77.491155
+21,Washington,1602,Greenbrier Elementary,240066001268,2018,5,86,98,NA,NA,21222 San Mar Rd,Boonsboro,39.55722,-77.630253
+21,Washington,1701,Bester Elementary,240066001253,2018,3,49,17,NA,NA,30 E Memorial Blvd,Hagerstown,39.632932,-77.72247
+21,Washington,1802,Pangborn Elementary,240066001278,2018,4,64,51,NA,NA,195 Pangborn Blvd,Hagerstown,39.638134,-77.700514
+21,Washington,1805,Potomac Heights Elementary,240066001281,2018,4,73,80,NA,NA,301 E Magnolia Ave,Hagerstown,39.65593,-77.696273
+21,Washington,2002,Fountain Rock Elementary,240066001265,2018,5,79,90,NA,NA,17145 Lappans Rd,Hagerstown,39.570599,-77.772948
+21,Washington,2101,North Hagerstown High,240066001275,2018,4,66,NA,NA,64,1200 Pennsylvania Ave,Hagerstown,39.66231,-77.7163
+21,Washington,2102,Northern Middle,240066001276,2018,3,58,NA,53,NA,701 Northern Ave,Hagerstown,39.665311,-77.713785
+21,Washington,2501,Western Heights Middle,240066001293,2018,3,53,NA,38,NA,1300 Marshall St,Hagerstown,39.659953,-77.728974
+21,Washington,2503,Salem Avenue Elementary,240066001283,2018,4,73,78,NA,NA,1323 Salem Ave Ext,Hagerstown,39.656461,-77.737159
+21,Washington,2601,Lincolnshire Elementary,240066001273,2018,3,59,34,NA,NA,17545 Lincolnshire Rd,Hagerstown,39.617488,-77.758891
+21,Washington,2602,Hickory Elementary,240066001271,2018,4,61,39,NA,NA,11101 Hickory School Rd,Williamsport,39.618935,-77.776106
+21,Washington,2701,Fountaindale Elementary,240066001266,2018,4,72,74,NA,NA,901 Northern Ave,Hagerstown,39.668664,-77.718449
+22,Wicomico,0102,Mardela Middle & High,240069001306,2018,4,70,NA,71,79,24940 Delmar Rd,Mardela Springs,38.465373,-75.747118
+22,Wicomico,0106,Northwestern Elementary,240069001308,2018,4,73,80,NA,NA,9975 Sharptown Rd,Mardela Springs,38.469175,-75.749054
+22,Wicomico,0406,Pittsville Elementary & Middle,240069001312,2018,4,63,32,79,NA,34404 Old Ocean City Rd,Pittsville,38.391921,-75.418929
+22,Wicomico,0510,Wicomico Middle,240069001319,2018,3,53,NA,38,NA,635 E Main St,Salisbury,38.366324,-75.588887
+22,Wicomico,0512,East Salisbury Elementary,240069001301,2018,4,61,40,NA,NA,1201 Old Ocean City Rd,Salisbury,38.374164,-75.574686
+22,Wicomico,0513,Wicomico High,240069001320,2018,3,50,NA,NA,32,201 Long Avenue,Salisbury,38.365062,-75.579421
+22,Wicomico,0515,Glen Avenue School,240069001304,2018,4,62,45,NA,NA,1615 Glen Ave,Salisbury,38.359739,-75.563789
+22,Wicomico,0520,Wicomico County Evening High,240069001088,2018,1,24,NA,NA,2,201 Long Ave,Salisbury,38.365066,-75.579455
+22,Wicomico,0905,North Salisbury Elementary,240069001307,2018,4,68,64,NA,NA,1213 Emerson Ave,Salisbury,38.37892,-75.592647
+22,Wicomico,0906,Pemberton Elementary,240069001310,2018,4,71,70,NA,NA,1300 Pemberton Dr,Salisbury,38.364627,-75.619695
+22,Wicomico,0910,Salisbury Middle,240069001145,2018,3,53,NA,39,NA,607 Morris St,Salisbury,38.382436,-75.605838
+22,Wicomico,1103,Delmar Elementary,240069001300,2018,4,63,47,NA,NA,811 S Second Street,Delmar,38.447909,-75.575244
+22,Wicomico,1305,Pinehurst Elementary,240069001311,2018,4,67,60,NA,NA,520 S Pinehurst Ave,Salisbury,38.351421,-75.613642
+22,Wicomico,1306,Prince Street School,240069001314,2018,4,64,49,NA,NA,400 Prince Street,Salisbury,38.355586,-75.58927
+22,Wicomico,1307,James M. Bennett High,240069001305,2018,3,55,NA,NA,38,300 E College Avenue,Salisbury,38.346647,-75.590766
+22,Wicomico,1308,Bennett Middle,240069001299,2018,3,55,NA,45,NA,532 S. Division Street,Fruitland,38.315788,-75.629407
+22,Wicomico,1309,Parkside High,240069001309,2018,3,57,NA,NA,42,1015 Beaglin Park Dr,Salisbury,38.349646,-75.573275
+22,Wicomico,1502,Westside Intermediate,240069001149,2018,4,68,64,NA,NA,8000 Quantico Rd,Hebron,38.414046,-75.695721
+22,Wicomico,1602,Fruitland Intermediate,240069001303,2018,4,66,55,NA,NA,208 W Main St,Fruitland,38.325165,-75.622929
+23,Worcester,0107,Pocomoke High,240072001330,2018,4,61,NA,NA,51,1817 Old Virginia Rd,Pocomoke City,38.059829,-75.552657
+23,Worcester,0108,Pocomoke Middle,240072001329,2018,4,64,57,63,NA,800 8th St,Pocomoke City,38.066723,-75.566603
+23,Worcester,0207,Snow Hill High,240072001334,2018,4,73,NA,NA,77,305 S Church St,Snow Hill,38.169082,-75.389752
+23,Worcester,0208,Snow Hill Middle,240072001333,2018,4,64,38,78,NA,522 Coulbourne Ln,Snow Hill,38.167075,-75.39741
+23,Worcester,0308,Stephen Decatur Middle,240072000880,2018,4,63,NA,67,NA,9815 Seahawk Rd,Berlin,38.337647,-75.189566
+23,Worcester,0310,Stephen Decatur High,240072001335,2018,4,68,NA,NA,67,9913 Seahawk Rd,Berlin,38.341732,-75.190261
+23,Worcester,0311,Berlin Intermediate,240072001323,2018,4,65,54,NA,NA,309 Franklin Ave,Berlin,38.330911,-75.211397
+23,Worcester,0901,Buckingham Elementary,240072001325,2018,4,63,48,NA,NA,100 Buckingham Rd,Berlin,38.320749,-75.221892
+23,Worcester,1001,Ocean City Elementary,240072001327,2018,4,73,78,NA,NA,12828 Center Dr,Ocean City,38.34689,-75.107585
+30,Baltimore City,0004,Steuart Hill Academic Academy,240009000319,2018,3,52,21,NA,NA,30 S Gilmor St,Baltimore,39.28681,-76.642603
+30,Baltimore City,0007,Cecil Elementary,240009000169,2018,2,42,10,NA,NA,2000 Cecil Ave,Baltimore,39.313231,-76.605595
+30,Baltimore City,0008,City Springs Elementary,240009000175,2018,3,46,12,28,NA,100 S Caroline St,Baltimore,39.289562,-76.597372
+30,Baltimore City,0010,James McHenry Elementary,240009000253,2018,2,37,1,24,NA,31 S Schroeder St,Baltimore,39.287397,-76.63347
+30,Baltimore City,0011,Eutaw-Marshburn Elementary,240009000196,2018,1,21,1,NA,NA,1624 Eutaw Pl,Baltimore,39.30643,-76.629933
+30,Baltimore City,0012,Lakeland Elementary/Middle,240009000264,2018,4,63,36,72,NA,2921 Stranden Rd,Baltimore,39.253704,-76.644853
+30,Baltimore City,0013,Tench Tilghman Elementary,240009000320,2018,4,62,34,72,NA,600 N Patterson Park Ave,Baltimore,39.297955,-76.585407
+30,Baltimore City,0015,Stadium School,240009000571,2018,3,50,NA,31,NA,1300 Gorsuch Ave,Baltimore,39.324955,-76.599449
+30,Baltimore City,0016,Johnston Square Elementary,240009000258,2018,2,34,3,NA,NA,1101 Valley St,Baltimore,39.303559,-76.604551
+30,Baltimore City,0021,Hilton Elementary,240009000246,2018,2,35,4,NA,NA,3301 Carlisle Ave,Baltimore,39.319164,-76.6739
+30,Baltimore City,0022,George Washington Elementary,240009000220,2018,2,43,11,NA,NA,800 Scott St,Baltimore,39.281104,-76.62918
+30,Baltimore City,0023,Wolfe Street Academy,240009000215,2018,4,68,62,NA,NA,245 S Wolfe St,Baltimore,39.288038,-76.589902
+30,Baltimore City,0027,Commodore John Rogers Elementary,240009000180,2018,2,42,8,19,NA,100 N Chester St,Baltimore,39.293568,-76.587934
+30,Baltimore City,0028,William Pinderhughes Elementary,240009000335,2018,1,28,0,14,NA,701 Gold Street,Baltimore,39.306319,-76.640584
+30,Baltimore City,0029,Matthew A. Henson Elementary,240009000278,2018,1,29,2,NA,NA,1600 N Payson St,Baltimore,39.307052,-76.650026
+30,Baltimore City,0031,Coldstream Park Elementary,240009000178,2018,2,30,2,4,NA,1400 Exeter Hall Ave,Baltimore,39.321693,-76.60265
+30,Baltimore City,0034,Charles Carroll Barrister Elementary,240009000153,2018,4,63,47,NA,NA,1327 Washington Blvd,Baltimore,39.279725,-76.636009
+30,Baltimore City,0035,Harlem Park Elementary,240009000239,2018,1,18,0,2,NA,1401 W Lafayette Ave,Baltimore,39.297961,-76.640904
+30,Baltimore City,0037,Harford Heights Elementary,240009001153,2018,2,39,6,NA,NA,1919 N Broadway,Baltimore,39.313387,-76.594055
+30,Baltimore City,0039,Dallas F. Nicholas Sr. Elementary,240009000184,2018,2,42,9,NA,NA,201 E 21st St,Baltimore,39.312954,-76.61352
+30,Baltimore City,0044,Montebello Elementary,240009000281,2018,2,37,3,16,NA,2040 E 32nd St,Baltimore,39.328258,-76.585525
+30,Baltimore City,0045,Federal Hill Preparatory School,240009000201,2018,4,69,65,NA,NA,1040 William St,Baltimore,39.277598,-76.611175
+30,Baltimore City,0047,Hampstead Hill Academy,240009000234,2018,5,79,89,96,NA,500 S Linwood Ave,Baltimore,39.286074,-76.576082
+30,Baltimore City,0050,Abbottston Elementary,240009000143,2018,4,61,41,NA,NA,1300 Gorsuch Ave,Baltimore,39.325007,-76.599438
+30,Baltimore City,0051,Waverly Elementary,240009000329,2018,2,37,4,11,NA,3400 Ellerslie Ave,Baltimore,39.330264,-76.604149
+30,Baltimore City,0053,Margaret Brent Elementary,240009000276,2018,3,48,18,21,NA,100 E 26th St,Baltimore,39.319727,-76.615181
+30,Baltimore City,0054,Barclay Elementary/Middle,240009000152,2018,2,32,2,9,NA,2900 Barclay St,Baltimore,39.323729,-76.611441
+30,Baltimore City,0055,Hampden,240009000233,2018,3,56,30,45,NA,3608 Chestnut Ave,Baltimore,39.332121,-76.629957
+30,Baltimore City,0058,Dr. Nathan A. Pitts-Ashburton Elementary/Middle,240009000149,2018,1,23,0,5,NA,3935 Hilton Rd,Baltimore,39.331016,-76.667553
+30,Baltimore City,0060,Gwynns Falls Elementary,240009000229,2018,2,41,8,NA,NA,2700 Gwynns Falls Pky,Baltimore,39.315174,-76.66328
+30,Baltimore City,0061,Dorothy I. Height Elementary School,240009000256,2018,2,39,7,NA,NA,2235 N Fulton Avenue,Baltimore,39.311293,-76.632676
+30,Baltimore City,0062,Edgecombe Circle Elementary,240009000192,2018,2,38,5,NA,NA,2835 Virginia Ave,Baltimore,39.344697,-76.662775
+30,Baltimore City,0063,Rosemont Elementary,240009000307,2018,2,42,12,10,NA,2777 Presstman St,Baltimore,39.304342,-76.662709
+30,Baltimore City,0064,Liberty Elementary,240009000270,2018,2,42,10,NA,NA,3901 Maine Ave,Baltimore,39.325973,-76.683486
+30,Baltimore City,0066,Mount Royal Elementary/Middle,240009000285,2018,2,43,14,14,NA,121 Mc Mechen St,Baltimore,39.30899,-76.624241
+30,Baltimore City,0067,Edgewood Elementary,240009000193,2018,2,42,9,NA,NA,1900 Edgewood St,Baltimore,39.309072,-76.676455
+30,Baltimore City,0073,Sarah M. Roach Elementary,240009000312,2018,3,49,18,NA,NA,3434 Old Frederick Rd,Baltimore,39.282859,-76.67457
+30,Baltimore City,0075,Calverton,240009000164,2018,1,16,0,1,NA,1100 Whitmore Ave,Baltimore,39.299915,-76.658519
+30,Baltimore City,0076,Francis Scott Key Elementary/Middle,240009000205,2018,3,57,37,40,NA,1425 E Fort Ave,Baltimore,39.268114,-76.59452
+30,Baltimore City,0081,North Bend Elementary,240009000602,2018,3,52,22,34,NA,181 North Bend Rd,Baltimore,39.283428,-76.704958
+30,Baltimore City,0083,William Paca Elementary,240009000334,2018,2,38,5,NA,NA,200 N Lakewood Ave,Baltimore,39.294872,-76.5796
+30,Baltimore City,0084,Thomas Johnson Elementary,240009000323,2018,3,59,60,33,NA,100 E Heath St,Baltimore,39.271087,-76.610823
+30,Baltimore City,0085,Fort Worthington Elementary,240009000204,2018,2,32,2,7,NA,2050 N. Wolfe Street,Baltimore,39.307806,-76.578965
+30,Baltimore City,0087,Windsor Hills Elementary,240009000337,2018,2,38,2,19,NA,4001 Alto Rd,Baltimore,39.316385,-76.682794
+30,Baltimore City,0088,Lyndhurst Elementary,240009000273,2018,2,42,9,NA,NA,210 North Bend Road,Baltimore,39.295019,-76.683536
+30,Baltimore City,0089,Rognel Heights Elementary/Middle,240009000305,2018,2,34,1,24,NA,4300 Sidehill Rd,Baltimore,39.298046,-76.692488
+30,Baltimore City,0095,Franklin Square Elementary,240009000208,2018,3,47,18,18,NA,1400 W Lexington St,Baltimore,39.291134,-76.640722
+30,Baltimore City,0097,Collington Square Elementary,240009000179,2018,2,36,4,8,NA,1409 N Collington Ave,Baltimore,39.307255,-76.586651
+30,Baltimore City,0105,Moravia Park,240009000282,2018,3,49,17,NA,NA,6201 Frankford Ave,Baltimore,39.316987,-76.541113
+30,Baltimore City,0107,Gilmor Elementary,240009000221,2018,2,42,9,NA,NA,1311 N Gilmor St,Baltimore,39.304237,-76.64291
+30,Baltimore City,0122,The Historic Samuel Coleridge-Taylor Elementary,240009000309,2018,2,39,6,NA,NA,507 W Preston St,Baltimore,39.298747,-76.626022
+30,Baltimore City,0124,Bay-Brook Elementary,240009000154,2018,2,37,3,15,NA,4301 10th St,Baltimore,39.225579,-76.597641
+30,Baltimore City,0125,Furman Templeton Preparatory Academy,240009000211,2018,2,40,8,NA,NA,1200 Pennsylvania Ave,Baltimore,39.299746,-76.630373
+30,Baltimore City,0130,Booker T. Washington Middle,240009000160,2018,1,17,NA,1,NA,1301 Mcculloh St,Baltimore,39.303187,-76.627876
+30,Baltimore City,0134,Walter P. Carter Elementary,240009000328,2018,3,45,6,32,NA,820 E 43rd St,Baltimore,39.342953,-76.604074
+30,Baltimore City,0142,Robert W. Coleman Elementary,240009000303,2018,2,32,3,NA,NA,2400 Windsor Ave,Baltimore,39.312978,-76.655316
+30,Baltimore City,0144,James Mosher Elementary,240009000255,2018,2,37,5,NA,NA,2400 W Mosher St,Baltimore,39.299806,-76.65584
+30,Baltimore City,0145,Alexander Hamilton Elementary,240009000145,2018,1,28,1,NA,NA,800 Poplar Grove St,Baltimore,39.297597,-76.665837
+30,Baltimore City,0150,Mary Ann Winterling Elementary at Bentalou,240009000158,2018,2,39,7,NA,NA,220 N Bentalou St,Baltimore,39.291658,-76.653965
+30,Baltimore City,0159,Cherry Hill Elementary/Middle,240009000171,2018,2,32,1,9,NA,834 Roundview Road,Baltimore,39.2481,-76.623659
+30,Baltimore City,0160,Dr. Carter Godwin Woodson,240009000167,2018,2,32,2,6,NA,2501 Seabury Rd,Baltimore,39.252041,-76.622416
+30,Baltimore City,0164,Arundel Elementary/Middle,240009000148,2018,1,29,1,7,NA,2400 Round Rd,Baltimore,39.251793,-76.627751
+30,Baltimore City,0178,Excel Academy @ Francis M. Wood High,240009001343,2018,1,19,NA,NA,1,1001 W Saratoga St,Baltimore,39.292017,-76.634362
+30,Baltimore City,0201,Dickey Hill Elementary/Middle,240009000186,2018,3,49,15,31,NA,5025 Dickey Hill Rd,Baltimore,39.311439,-76.703841
+30,Baltimore City,0203,Maree Garnett Farring Elementary,240009001363,2018,2,44,19,10,NA,300 Pontiac Ave,Baltimore,39.236842,-76.607028
+30,Baltimore City,0204,Mary E. Rodman Elementary,240009000277,2018,3,59,34,NA,NA,3510 W Mulberry St,Baltimore,39.292095,-76.676335
+30,Baltimore City,0205,Woodhome Elementary/Middle,240009000339,2018,3,55,30,36,NA,7300 Moyer Ave,Baltimore,39.366815,-76.540579
+30,Baltimore City,0206,Furley Elementary,240009000210,2018,3,49,17,NA,NA,4633 Furley Ave,Baltimore,39.328459,-76.552538
+30,Baltimore City,0207,Curtis Bay Elementary,240009000183,2018,2,37,4,12,NA,4301 W Bay Ave,Baltimore,39.226176,-76.592959
+30,Baltimore City,0210,Hazelwood Elementary/Middle,240009000241,2018,2,39,3,22,NA,4517 Hazelwood Ave,Baltimore,39.338589,-76.538511
+30,Baltimore City,0211,Gardenville Elementary,240009000212,2018,2,43,11,NA,NA,5300 Belair Rd,Baltimore,39.338867,-76.552536
+30,Baltimore City,0212,Garrett Heights Elementary,240009000213,2018,2,38,4,13,NA,2800 Ailsa Ave,Baltimore,39.349407,-76.569715
+30,Baltimore City,0213,Govans Elementary,240009000223,2018,3,49,17,NA,NA,5801 York Rd,Baltimore,39.360731,-76.607797
+30,Baltimore City,0214,Guilford Elementary/Middle,240009001428,2018,2,37,9,6,NA,4520 York Rd,Baltimore,39.343973,-76.610666
+30,Baltimore City,0215,Highlandtown Elementary #215,240009000243,2018,3,53,33,26,NA,3223 E Pratt St,Baltimore,39.289861,-76.570602
+30,Baltimore City,0217,Belmont Elementary,240009000156,2018,3,52,21,NA,NA,1406 N Ellamont St,Baltimore,39.303355,-76.670951
+30,Baltimore City,0219,Yorkwood Elementary,240009000340,2018,4,64,50,NA,NA,5931 Yorkwood Rd,Baltimore,39.36357,-76.581414
+30,Baltimore City,0220,Morrell Park Elementary/Middle,240009000284,2018,3,50,50,8,NA,2601 Tolley St,Baltimore,39.262972,-76.650815
+30,Baltimore City,0221,The Mount Washington School,240009000286,2018,3,57,41,34,NA,1801 Sulgrave Ave,Baltimore,39.36586,-76.654893
+30,Baltimore City,0223,Pimlico Elementary,240009000299,2018,1,20,0,2,NA,3910 Barrington Road,Baltimore,39.33215,-76.684591
+30,Baltimore City,0224,Grove Park Elementary,240009000226,2018,1,23,0,3,NA,5545 Kennison Ave,Baltimore,39.341937,-76.699429
+30,Baltimore City,0225,Westport Academy,240009000331,2018,2,36,2,16,NA,2401 Nevada St,Baltimore,39.262066,-76.637721
+30,Baltimore City,0226,Violetville Elementary/Middle,240009000326,2018,3,52,31,23,NA,1207 Pine Heights Ave,Baltimore,39.267879,-76.673752
+30,Baltimore City,0228,John Ruhrah Elementary,240009000257,2018,3,53,21,46,NA,701 Rappolla Street,Baltimore,39.284008,-76.551827
+30,Baltimore City,0229,Holabird Elementary,240009000247,2018,3,45,11,25,NA,1500 Imla St,Baltimore,39.275825,-76.538665
+30,Baltimore City,0231,Brehms Lane Public Charter School,240009000161,2018,2,39,7,NA,NA,3536 Brehms Ln,Baltimore,39.3214,-76.566268
+30,Baltimore City,0232,Thomas Jefferson Elementary,240009000322,2018,2,43,12,17,NA,605 Dryden Dr,Baltimore,39.295372,-76.697984
+30,Baltimore City,0233,Roland Park Elementary/Middle,240009000306,2018,4,69,81,65,NA,5207 Roland Ave,Baltimore,39.357568,-76.634084
+30,Baltimore City,0234,Arlington Elementary/Middle,240009000146,2018,2,42,11,13,NA,3705 W Rogers Ave,Baltimore,39.350314,-76.684348
+30,Baltimore City,0235,Glenmount Elementary/Middle,240009000222,2018,3,58,38,44,NA,6211 Walther Ave,Baltimore,39.352385,-76.541212
+30,Baltimore City,0236,Hamilton Elementary/Middle,240009000231,2018,4,63,30,80,NA,6101 Old Harford Rd,Baltimore,39.359768,-76.557694
+30,Baltimore City,0237,Highlandtown Elementary #237,240009000244,2018,3,48,16,29,NA,231 S. Eaton Street,Baltimore,39.28909,-76.565004
+30,Baltimore City,0239,Benjamin Franklin High School at Masonville Cove,240009000157,2018,2,37,NA,NA,12,1201 Cambria St,Baltimore,39.232679,-76.593555
+30,Baltimore City,0240,Graceland Park/O'Donnel Heights Elementary,240009000224,2018,3,53,29,30,NA,6300 O'Donnell St,Baltimore,39.282305,-76.539957
+30,Baltimore City,0241,Fallstaff Elementary,240009000199,2018,2,42,11,14,NA,3801 Fallstaff Rd,Baltimore,39.362172,-76.705535
+30,Baltimore City,0242,Northwood Elementary,240009000293,2018,3,52,21,NA,NA,5201 Loch Raven Blvd,Baltimore,39.352542,-76.589478
+30,Baltimore City,0243,Armistead Gardens Elementary,240009000147,2018,3,45,11,22,NA,5001 E Eager St,Baltimore,39.304822,-76.552678
+30,Baltimore City,0245,Leith Walk Elementary,240009000268,2018,3,51,17,37,NA,1235 Sherwood Ave,Baltimore,39.364658,-76.591527
+30,Baltimore City,0246,Beechfield Elementary,240009000155,2018,2,43,24,4,NA,301 S Beechfield Ave,Baltimore,39.280752,-76.693394
+30,Baltimore City,0247,Cross Country Elementary,240009000182,2018,2,43,7,23,NA,6100 Cross Country Blvd,Baltimore,39.362481,-76.687933
+30,Baltimore City,0248,Sinclair Lane Elementary,240009000313,2018,2,41,8,NA,NA,3880 Sinclair Ln,Baltimore,39.315083,-76.560797
+30,Baltimore City,0249,Medfield Heights Elementary,240009000279,2018,4,69,66,NA,NA,4300 Buchanan Ave,Baltimore,39.340593,-76.642511
+30,Baltimore City,0250,"Dr. Bernard Harris, Sr. Elementary",240009000187,2018,2,38,5,NA,NA,1400 N Caroline St,Baltimore,39.306771,-76.598678
+30,Baltimore City,0251,Callaway Elementary,240009000163,2018,3,47,15,NA,NA,3701 Fernhill Ave,Baltimore,39.336317,-76.678411
+30,Baltimore City,0254,"Dr. Martin Luther King, Jr. Elementary",240009000188,2018,2,35,2,17,NA,3750 Greenspring Ave,Baltimore,39.333184,-76.656897
+30,Baltimore City,0256,Calvin M. Rodwell Elementary,240009001390,2018,4,60,38,NA,NA,3501 Hillsdale Rd,Baltimore,39.330325,-76.694043
+30,Baltimore City,0260,Frederick Elementary,240009001430,2018,2,38,5,NA,NA,201 North Bend Road,Baltimore,39.28439,-76.704921
+30,Baltimore City,0261,Lockerman Bundy Elementary,240009000260,2018,1,26,1,NA,NA,301 N Pulaski St,Baltimore,39.292481,-76.649779
+30,Baltimore City,0262,Empowerment Academy,240009001558,2018,4,66,59,71,NA,851 Braddish Ave,Baltimore,39.297576,-76.659186
+30,Baltimore City,0314,Sharp-Leadenhall Elementary,240009001369,2018,2,36,4,NA,NA,150 W West St,Baltimore,39.276492,-76.618907
+30,Baltimore City,0321,Midtown Academy,240009000883,2018,4,71,86,70,NA,1398 Mt Royal Ave,Baltimore,39.307666,-76.621724
+30,Baltimore City,0322,New Song Academy,240009000884,2018,3,48,14,29,NA,1530 Presstman Street,Baltimore,39.305703,-76.643017
+30,Baltimore City,0323,The Crossroads School,240009001291,2018,3,52,NA,34,NA,1601 E. Lombard Street,Baltimore,39.281886,-76.596819
+30,Baltimore City,0325,ConneXions: A  Community Based Arts School,240009001302,2018,2,30,NA,2,10,2801 Dukeland St,Baltimore,39.318267,-76.664387
+30,Baltimore City,0326,City Neighbors Charter School,240009001478,2018,4,66,49,77,NA,4301 Raspe Ave,Baltimore,39.348973,-76.534612
+30,Baltimore City,0327,Patterson Park Public Charter School,240009001480,2018,4,63,72,39,NA,27 N Lakewood Ave,Baltimore,39.292808,-76.578875
+30,Baltimore City,0328,Southwest Baltimore Charter School,240009001527,2018,3,52,16,49,NA,1300 Herkimer St,Baltimore,39.28179,-76.638555
+30,Baltimore City,0330,Northwood Appold Community Academy,240009001529,2018,1,27,1,NA,NA,4417 Loch Raven Blvd,Baltimore,39.34567,-76.591792
+30,Baltimore City,0332,The Green School,240009001571,2018,4,66,57,NA,NA,2851 Kentucky Avenue,Baltimore,39.324285,-76.571891
+30,Baltimore City,0333,Independence School Local I,240009001632,2018,2,38,NA,NA,13,2801 N Dukeland Street,Baltimore,39.318262,-76.664397
+30,Baltimore City,0335,Baltimore International Academy,240009001631,2018,3,56,21,62,NA,4410 Frankford Avenue,Baltimore,39.33608,-76.548761
+30,Baltimore City,0336,Baltimore Montessori Public Charter School,240009001657,2018,3,57,22,61,NA,1600 Guilford Avenue,Baltimore,39.308247,-76.612552
+30,Baltimore City,0337,Afya Public Charter School,240009001661,2018,2,38,NA,10,NA,2800 Brendan Avenue,Baltimore,39.324238,-76.572477
+30,Baltimore City,0339,Friendship Academy of Engineering and Technology,240009001659,2018,1,28,NA,1,14,2500 E. Northern Parkway,Baltimore,39.36671,-76.560541
+30,Baltimore City,0341,The Reach! Partnership School,240009001663,2018,2,35,NA,NA,11,2801 St. Lo Drive,Baltimore,39.31769,-76.585251
+30,Baltimore City,0342,K.A.S.A. (Knowledge And Success Academy),240009001665,2018,1,21,NA,0,4,2000 Edgewood Street,Baltimore,39.30995,-76.677901
+30,Baltimore City,0345,Joseph C. Briscoe Academy,240009001662,2018,1,23,NA,2,NA,900 Druid Hill Avenue,Baltimore,39.298574,-76.624897
+30,Baltimore City,0346,City Neighbors Hamilton,240009001680,2018,3,50,8,57,NA,5609 Sefton Avenue,Baltimore,39.350482,-76.554826
+30,Baltimore City,0347,KIPP Academy,240009001681,2018,2,38,3,18,NA,4701 Greenspring Avenue,Baltimore,39.345381,-76.657703
+30,Baltimore City,0348,Baltimore Leadership School for Young Women,240009001682,2018,3,49,NA,12,41,128 W. Franklin Street,Baltimore,39.295256,-76.618091
+30,Baltimore City,0349,N.A.C.A. Freedom and Democracy Academy II,240009001678,2018,2,36,NA,6,15,2500 E. Northern Parkway,Baltimore,39.36671,-76.560541
+30,Baltimore City,0357,Banneker Blake Academy for Arts and Sciences,240009001733,2018,2,40,NA,13,NA,1101 Winston Avenue,Baltimore,39.348554,-76.60019
+30,Baltimore City,0362,Bard High School Early College,240009001735,2018,4,65,NA,NA,60,2801 N Dukeland Street,Baltimore,39.317956,-76.664359
+30,Baltimore City,0364,Bluford Drew Jemison STEM Academy West,240009001675,2018,1,26,NA,0,13,2000 Edgewood Street,Baltimore,39.310294,-76.676618
+30,Baltimore City,0368,Elmer A. Henderson: Johns Hopkins Partner School,240009001670,2018,3,54,19,55,NA,2100 Ashland Avenue,Baltimore,39.301277,-76.587249
+30,Baltimore City,0371,Lillie May Carroll Jackson School,240009001734,2018,2,43,1,57,NA,900 Woodbourne Avenue,Baltimore,39.355391,-76.600959
+30,Baltimore City,0373,Tunbridge Public Charter School,240009001689,2018,4,71,60,93,NA,5504 York Rd,Baltimore,39.357622,-76.6102
+30,Baltimore City,0374,Vanguard Collegiate Middle School,240009001693,2018,2,32,NA,5,NA,5000 Truesdale Ave,Baltimore,39.320485,-76.546061
+30,Baltimore City,0375,Baltimore Collegiate School for Boys,240009001736,2018,2,41,3,28,NA,1101 Winston Avenue,Baltimore,39.348554,-76.60019
+30,Baltimore City,0376,City Neighbors High School,240009001690,2018,3,46,NA,NA,24,5609 Sefton Ave,Baltimore,39.350482,-76.554826
+30,Baltimore City,0377,Green Street Academy,240009001691,2018,2,43,NA,8,31,125 N Hilton Street,Baltimore,39.28837,-76.671371
+30,Baltimore City,0379,Roots and Branches School,240009001709,2018,1,12,0,NA,NA,1807 Harlem Avenue,Baltimore,39.29609,-76.646651
+30,Baltimore City,0381,Monarch Academy Public Charter School,240009001702,2018,2,30,3,4,NA,2525 Kirk Avenue,Baltimore,39.31899,-76.600381
+30,Baltimore City,0382,Baltimore Design School,240009001703,2018,3,46,NA,11,35,1500 Barclay Street,Baltimore,39.30722,-76.610928
+30,Baltimore City,0384,Creative City Public Charter School,240009001716,2018,1,21,0,NA,NA,2810 Shirley Avenue,Baltimore,39.333956,-76.665153
+30,Baltimore City,0400,Edmondson-Westside High,240009000194,2018,3,45,NA,NA,22,501 N Athol Ave,Baltimore,39.29139,-76.688034
+30,Baltimore City,0403,Baltimore Polytechnic Institute,240009000151,2018,5,78,NA,NA,87,1400 W Cold Spring Ln,Baltimore,39.346008,-76.643051
+30,Baltimore City,0405,Patterson High,240009000297,2018,2,34,NA,NA,9,100 Kane St,Baltimore,39.29279,-76.537205
+30,Baltimore City,0406,Forest Park High,240009000203,2018,2,35,NA,NA,10,6900 Park Heights Ave,Baltimore,39.3326,-76.689406
+30,Baltimore City,0407,Western High,240009000330,2018,3,58,NA,NA,43,4600 Falls Rd,Baltimore,39.347203,-76.642638
+30,Baltimore City,0410,Mergenthaler Vocational-Technical High,240009000280,2018,3,45,NA,NA,22,3500 Hillen Rd,Baltimore,39.332233,-76.591098
+30,Baltimore City,0413,Achievement Academy @ Harbor City High,240009000236,2018,1,24,NA,NA,2,2201 Pinewood Avenue,Baltimore,39.36597,-76.569651
+30,Baltimore City,0414,Paul Laurence Dunbar High,240009000298,2018,3,46,NA,NA,25,1400 Orleans Street,Baltimore,39.29554,-76.59848
+30,Baltimore City,0415,Baltimore School for the Arts,240009001391,2018,5,77,NA,NA,84,712 Cathedral Street,Baltimore,39.29831,-76.61728
+30,Baltimore City,0416,Digital Harbor High School,240009001313,2018,2,41,NA,NA,17,1100 Covington St,Baltimore,39.276597,-76.607535
+30,Baltimore City,0419,Reginald F. Lewis High School,240009001331,2018,2,30,NA,NA,6,6401 Pioneer Drive,Baltimore,39.365624,-76.571874
+30,Baltimore City,0421,National Academy Foundation,240009001339,2018,2,32,NA,3,12,540 N. Caroline Street,Baltimore,39.296846,-76.597726
+30,Baltimore City,0422,New Era Academy,240009001559,2018,1,26,NA,0,11,2700 Seamon Ave,Baltimore,39.252954,-76.621294
+30,Baltimore City,0427,Academy for College and Career Exploration,240009001381,2018,1,24,NA,0,7,2801 Saint Lo Drive,Baltimore,39.330807,-76.637774
+30,Baltimore City,0429,Vivien T. Thomas Medical Arts Academy,240009001385,2018,2,40,NA,NA,15,100 N Calhoun St,Baltimore,39.290266,-76.639953
+30,Baltimore City,0430,Augusta Fells Savage Institute of Visual Arts,240009001387,2018,2,33,NA,NA,7,1500 Harlem Ave,Baltimore,39.297281,-76.640882
+30,Baltimore City,0432,Coppin Academy,240009001530,2018,2,44,NA,NA,19,2500 W North Ave,Baltimore,39.30999,-76.65772
+30,Baltimore City,0433,Renaissance Academy,240009001531,2018,2,30,NA,NA,5,1301 Mcculloh St,Baltimore,39.303183,-76.627872
+30,Baltimore City,0450,Frederick Douglass High,240009000209,2018,2,33,NA,NA,8,2301 Gwynns Falls Pky,Baltimore,39.314815,-76.654892
+30,Baltimore City,0454,Carver Vocational-Technical High,240009000168,2018,2,43,NA,NA,18,2201 Presstman St,Baltimore,39.304502,-76.652727
+30,Baltimore City,0480,Baltimore City College,240009000150,2018,4,70,NA,NA,70,3220 The Alameda,Baltimore,39.325783,-76.59706
+32,SEED,1000,The Seed School of Maryland,240002701669,2018,2,42,NA,8,29,200 Font Hill Avenue,Baltimore,39.28404,-76.664092
