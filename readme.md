@@ -4,6 +4,8 @@ By [Christine Zhang](mailto:czhang@baltsun.com)
 
 An analysis of data from the Maryland State Department of Education Report Card for a December 4, 2018 Baltimore Sun story titled ["Maryland releases first star ratings for every public school; 60 percent earn four or five stars out of five"](https://www.baltimoresun.com/news/maryland/education/k-12/bs-md-star-rating-release-20181203-story.html) by Liz Bowie and Talia Richman.
 
+Code is available in the "analysis" notebook in this repository, [analysis.ipynb](https://github.com/baltimore-sun-data/school-star-ratings-2018/blob/master/analysis.ipynb) (note: viewable on desktop).
+
 https://twitter.com/baltsundata
 
 ## Community Contributions
